@@ -1,0 +1,958 @@
+Customer_ID,Customer_Name,Age,Title,Content_Type,Genre,Country,Subscription_Plan,Device,Payment_Method,Account_Status,Join_Date,Last_Watch_Date,Watch_Hours,Monthly_Fee,Movies_Watched,Episodes_Watched,Avg_Rating,Monthly_Sessions,Download_Count,Customer_Revenue,Engagement_Score,Watch_Category,Age_Group,Active_Flag
+CUST10927,Customer 927,25,Bridgerton,TV Show,Drama,Japan,Premium,Gaming Console,PayPal,Active,2024-06-20,2024-12-21,28.0,649,5,97,3.6,11,3,7139,42.0,Medium,18-25,1
+CUST10683,Customer 683,40,Money Heist,TV Show,Sci-Fi,France,Basic,Tablet,Debit Card,Paused,2024-11-18,2025-10-31,28.9,149,16,106,3.8,26,3,3874,57.9,Medium,36-50,0
+CUST10515,Customer 515,44,You,TV Show,Action,Spain,Premium,Gaming Console,Credit Card,Active,2023-02-21,2023-06-18,27.6,649,10,24,2.6,27,9,17523,63.6,Medium,36-50,1
+CUST10366,Customer 366,57,The Witcher,TV Show,Comedy,Canada,Premium,Smart TV,Credit Card,Active,2024-01-16,2025-06-09,32.0,649,10,78,3.2,15,20,9735,67.0,Medium,51+,1
+CUST10656,Customer 656,42,You,Movie,Unknown,Germany,Basic,Mobile,Credit Card,Paused,2023-10-31,2025-08-10,43.5,149,32,11,4.5,12,7,1788,62.5,Medium,36-50,0
+CUST10657,Customer 657,22,Squid Game,TV Show,Documentary,Canada,Premium,Smart TV,Credit Card,Active,2025-05-15,2025-09-11,42.3,649,19,11,2.8,12,23,7788,77.3,Medium,18-25,1
+CUST10530,Customer 530,61,Elite,Movie,Drama,Germany,Standard,Tablet,Debit Card,Paused,2025-04-08,2026-05-21,19.4,499,14,91,3.5,15,23,7485,57.4,Low,51+,0
+CUST10322,Customer 322,24,Stranger Things,Movie,Horror,Canada,Standard,Smart TV,Credit Card,Active,2022-09-28,2023-03-29,56.9,499,31,115,4.0,3,25,1497,84.9,High,18-25,1
+CUST10071,Customer 71,18,Elite,TV Show,Horror,United Kingdom,Standard,Mobile,PayPal,Paused,2025-09-27,2027-05-22,51.0,499,20,81,4.9,24,8,11976,83.0,High,18-25,0
+CUST10891,Customer 891,44,Bridgerton,Movie,Documentary,Canada,Basic,Mobile,PayPal,Cancelled,2023-06-19,2024-06-08,62.5,149,7,83,4.7,27,25,4023,114.5,High,36-50,0
+CUST10768,Customer 768,60,Narcos,TV Show,Documentary,South Korea,Basic,Smart TV,UPI,Active,2022-01-27,2023-09-24,86.3,149,34,65,4.6,26,9,3874,121.3,High,51+,1
+CUST10457,Customer 457,37,Black Mirror,TV Show,Drama,Canada,Basic,Tablet,Credit Card,Active,2025-07-08,2027-01-02,39.3,149,7,79,3.4,26,17,3874,82.3,Medium,36-50,1
+CUST10248,Customer 248,32,You,Movie,Action,United States,Standard,Mobile,Debit Card,Cancelled,2023-06-24,2024-08-21,25.7,499,15,70,2.7,14,16,6986,55.7,Medium,26-35,0
+CUST10612,Customer 612,50,Peaky Blinders,Movie,Crime,South Korea,Standard,Mobile,UPI,Active,2024-10-24,2024-12-03,40.6,499,35,25,3.3,23,10,11477,73.6,Medium,36-50,1
+CUST10706,Customer 706,59,Lucifer,Movie,Crime,United Kingdom,Standard,Tablet,PayPal,Active,2023-01-05,2023-07-17,57.2,499,5,18,2.7,9,14,4491,80.2,High,51+,1
+CUST10299,Customer 299,39,Black Mirror,TV Show,Thriller,Australia,Premium,Gaming Console,PayPal,Paused,2023-11-11,2025-09-06,62.3,649,1,14,4.2,16,7,10384,85.3,High,36-50,0
+CUST10102,Customer 102,46,Lupin,Movie,Romance,Australia,Premium,Smart TV,Net Banking,Active,2022-03-26,2022-05-29,31.5,649,29,13,4.5,28,10,18172,69.5,Medium,36-50,1
+CUST10961,Customer 961,52,Cobra Kai,TV Show,Thriller,Spain,Premium,Mobile,PayPal,Active,2022-11-08,2024-04-26,58.1,649,27,114,3.7,12,4,7788,74.1,High,51+,1
+CUST10606,Customer 606,30,Peaky Blinders,TV Show,Romance,Japan,Basic,Gaming Console,PayPal,Paused,2023-01-24,2023-10-02,88.9,149,3,97,4.0,8,17,1192,113.9,High,26-35,0
+CUST10214,Customer 214,52,Bridgerton,TV Show,Comedy,India,Standard,Gaming Console,UPI,Active,2024-01-19,2024-08-27,58.3,499,3,118,2.7,27,12,13473,97.3,High,51+,1
+CUST10238,Customer 238,43,Lupin,Movie,Romance,Spain,Standard,Laptop,Credit Card,Paused,2025-09-18,2026-12-10,46.7,499,32,83,3.3,24,17,11976,87.7,Medium,36-50,0
+CUST10594,Customer 594,51,The Witcher,Movie,Animation,Australia,Basic,Smart TV,UPI,Active,2023-11-15,2025-06-30,50.3,149,8,10,4.9,3,12,447,65.3,High,51+,1
+CUST10282,Customer 282,60,The Witcher,TV Show,Romance,France,Basic,Tablet,Net Banking,Cancelled,2024-06-05,2026-02-23,58.6,149,4,1,4.1,7,16,1043,81.6,High,51+,0
+CUST10378,Customer 378,36,Ozark,Movie,Action,Japan,Basic,Mobile,PayPal,Active,2024-06-03,2024-07-24,46.6,149,26,33,2.7,18,13,2682,77.6,Medium,36-50,1
+CUST10287,Customer 287,49,Dark,TV Show,Comedy,Spain,Basic,Gaming Console,Credit Card,Active,2022-12-03,2024-01-10,38.2,149,14,58,4.6,8,22,1192,68.2,Medium,36-50,1
+CUST10389,Customer 389,27,Lupin,Movie,Romance,United States,Basic,Gaming Console,Net Banking,Paused,2024-05-30,2024-09-29,65.8,149,12,40,4.6,6,23,894,94.8,High,26-35,0
+CUST10884,Customer 884,44,The Umbrella Academy,TV Show,Animation,France,Premium,Gaming Console,UPI,Active,2022-08-09,2023-01-27,68.1,649,20,113,4.0,24,16,15576,108.1,High,36-50,1
+CUST10718,Customer 718,62,Wednesday,Movie,Sci-Fi,Australia,Standard,Tablet,UPI,Active,2022-04-21,2022-09-13,45.8,499,6,31,2.7,20,13,9980,78.8,Medium,51+,1
+CUST10794,Customer 794,48,Lucifer,TV Show,Comedy,Australia,Basic,Smart TV,Debit Card,Active,2024-09-02,2025-10-08,10.1,149,25,89,4.5,16,13,2384,39.1,Low,36-50,1
+CUST10097,Customer 97,38,Bridgerton,TV Show,Romance,United States,Standard,Smart TV,UPI,Active,2022-02-12,2023-10-09,49.4,499,26,67,2.7,29,9,14471,87.4,Medium,36-50,1
+CUST10245,Customer 245,31,Narcos,TV Show,Horror,Canada,Basic,Laptop,Debit Card,Active,2023-11-10,2024-02-17,12.0,149,4,50,3.9,28,15,4172,55.0,Low,26-35,1
+CUST10747,Customer 747,26,Ozark,Movie,Documentary,Japan,Premium,Gaming Console,Credit Card,Active,2024-05-28,2024-09-07,46.7,649,9,64,2.8,20,25,12980,91.7,Medium,26-35,1
+CUST10077,Customer 77,42,Black Mirror,Movie,Thriller,Germany,Standard,Mobile,Net Banking,Cancelled,2025-04-12,2026-11-08,44.2,499,21,117,4.0,22,2,10978,68.2,Medium,36-50,0
+CUST10210,Customer 210,26,Dark,Movie,Horror,Australia,Basic,Mobile,Net Banking,Active,2024-02-23,2025-05-19,138.3,149,23,92,3.0,25,4,3725,167.3,Very High,26-35,1
+CUST10260,Customer 260,61,Stranger Things,TV Show,Action,United Kingdom,Premium,Gaming Console,UPI,Active,2022-02-11,2023-10-27,61.4,649,20,91,4.9,22,8,14278,91.4,High,51+,1
+CUST10159,Customer 159,43,Sex Education,Movie,Thriller,India,Basic,Mobile,Debit Card,Active,2025-01-05,2026-07-17,12.2,149,28,68,3.4,9,7,1341,28.2,Low,36-50,1
+CUST10496,Customer 496,31,Sex Education,TV Show,Romance,Australia,Premium,Tablet,PayPal,Active,2022-07-22,2022-11-09,55.5,649,12,106,3.4,14,13,9086,82.5,High,26-35,1
+CUST10527,Customer 527,32,The Crown,TV Show,Thriller,Spain,Premium,Tablet,UPI,Active,2025-07-07,2026-09-20,1.3,649,17,19,2.7,13,5,8437,19.3,Low,26-35,1
+CUST10332,Customer 332,30,Sex Education,Movie,Comedy,United States,Standard,Gaming Console,Debit Card,Cancelled,2025-04-15,2026-11-09,19.6,499,23,44,4.9,10,7,4990,36.6,Low,26-35,0
+CUST10953,Customer 953,30,Dark,Movie,Horror,United Kingdom,Standard,Tablet,Credit Card,Active,2025-03-15,2025-06-21,10.7,499,26,36,4.7,5,7,2495,22.7,Low,26-35,1
+CUST10315,Customer 315,32,The Crown,TV Show,Romance,South Korea,Basic,Mobile,Credit Card,Active,2024-09-25,2025-09-30,74.6,149,25,60,4.8,30,1,4470,105.6,High,26-35,1
+CUST10295,Customer 295,53,Money Heist,Movie,Crime,South Korea,Premium,Gaming Console,PayPal,Cancelled,2023-10-03,2025-07-13,50.9,649,24,96,4.0,25,19,16225,94.9,High,51+,0
+CUST10382,Customer 382,39,Wednesday,TV Show,Sci-Fi,Germany,Standard,Mobile,Debit Card,Active,2022-01-29,2023-08-03,27.0,499,14,26,3.9,26,8,12974,61.0,Medium,36-50,1
+CUST10921,Customer 921,65,Narcos,TV Show,Drama,France,Premium,Mobile,Debit Card,Active,2023-04-13,2024-01-16,68.8,649,35,108,4.4,29,2,18821,99.8,High,51+,1
+CUST10804,Customer 804,54,The Crown,Movie,Horror,Spain,Standard,Mobile,UPI,Active,2022-05-26,2022-07-18,30.4,499,35,42,2.6,28,9,13972,67.4,Medium,51+,1
+CUST10955,Customer 955,65,Ozark,Movie,Thriller,United Kingdom,Premium,Mobile,Credit Card,Active,2022-03-12,2022-11-11,39.9,649,11,50,3.3,20,15,12980,74.9,Medium,51+,1
+CUST10622,Customer 622,54,Money Heist,Movie,Crime,Germany,Standard,Laptop,Debit Card,Active,2024-08-05,2025-02-01,53.8,499,27,31,2.9,21,23,10479,97.8,High,51+,1
+CUST10719,Customer 719,48,Dark,TV Show,Sci-Fi,France,Basic,Laptop,PayPal,Cancelled,2023-01-09,2023-01-23,32.9,149,19,14,2.9,30,20,4470,82.9,Medium,36-50,0
+CUST10060,Customer 60,28,Squid Game,TV Show,Sci-Fi,Spain,Premium,Smart TV,Net Banking,Active,2022-08-03,2022-11-02,66.4,649,21,32,3.3,26,12,16874,104.4,High,26-35,1
+CUST10626,Customer 626,49,Elite,Movie,Comedy,Canada,Premium,Tablet,PayPal,Active,2024-08-08,2025-05-21,29.2,649,11,21,4.6,21,3,13629,53.2,Medium,36-50,1
+CUST10559,Customer 559,64,Wednesday,Movie,Romance,Japan,Premium,Tablet,UPI,Cancelled,2024-10-17,2026-01-10,51.9,649,27,98,4.4,9,25,5841,85.9,High,51+,0
+CUST10784,Customer 784,27,The Crown,TV Show,Action,South Korea,Premium,Smart TV,Net Banking,Paused,2025-02-22,2025-12-17,57.3,649,15,4,3.7,13,7,8437,77.3,High,26-35,0
+CUST10381,Customer 381,27,Elite,Movie,Thriller,South Korea,Standard,Laptop,Credit Card,Cancelled,2025-06-30,2025-09-26,21.0,499,8,94,2.6,21,4,10479,46.0,Medium,26-35,0
+CUST10055,Customer 55,31,You,Movie,Action,South Korea,Basic,Tablet,Net Banking,Active,2025-07-05,2025-07-08,67.8,149,27,57,4.2,17,9,2533,93.8,High,26-35,1
+CUST10024,Customer 24,34,Money Heist,Movie,Documentary,Spain,Premium,Mobile,UPI,Active,2024-09-27,2025-02-08,6.4,649,17,20,4.4,19,22,12331,47.4,Low,26-35,1
+CUST10031,Customer 31,60,Wednesday,TV Show,Horror,Spain,Premium,Smart TV,Debit Card,Active,2023-10-05,2024-08-03,27.0,649,9,24,3.6,14,21,9086,62.0,Medium,51+,1
+CUST10877,Customer 877,64,The Witcher,TV Show,Thriller,United Kingdom,Standard,Laptop,UPI,Active,2022-06-16,2023-04-06,29.1,499,12,35,2.9,12,13,5988,54.1,Medium,51+,1
+CUST10011,Customer 11,19,Wednesday,TV Show,Crime,South Korea,Standard,Mobile,Credit Card,Cancelled,2024-09-27,2024-12-17,30.4,499,6,93,3.7,4,24,1996,58.4,Medium,18-25,0
+CUST10817,Customer 817,52,Black Mirror,Movie,Animation,Japan,Standard,Laptop,Net Banking,Active,2022-03-06,2022-04-04,48.7,499,22,92,4.6,15,13,7485,76.7,Medium,51+,1
+CUST10810,Customer 810,25,Cobra Kai,TV Show,Romance,South Korea,Basic,Laptop,PayPal,Paused,2024-06-15,2025-02-14,19.6,149,15,11,4.0,9,13,1341,41.6,Low,18-25,0
+CUST10483,Customer 483,48,Sex Education,TV Show,Comedy,Australia,Basic,Smart TV,UPI,Active,2023-09-14,2025-06-30,1.8,149,18,53,2.9,16,22,2384,39.8,Low,36-50,1
+CUST10446,Customer 446,54,Stranger Things,TV Show,Sci-Fi,France,Standard,Smart TV,UPI,Active,2024-03-12,2024-03-16,58.7,499,25,88,4.5,17,3,8483,78.7,High,51+,1
+CUST10200,Customer 200,64,Elite,Movie,Documentary,United States,Premium,Tablet,Debit Card,Cancelled,2022-03-27,2022-04-30,13.4,649,29,33,3.4,28,2,18172,43.4,Low,51+,0
+CUST10501,Customer 501,55,You,TV Show,Romance,Germany,Standard,Gaming Console,PayPal,Paused,2025-04-06,2026-09-12,65.2,499,18,18,4.4,5,3,2495,73.2,High,51+,0
+CUST10774,Customer 774,43,Ozark,Movie,Thriller,Spain,Premium,Smart TV,Credit Card,Active,2024-04-08,2024-11-03,66.3,649,23,81,3.2,21,9,13629,96.3,High,36-50,1
+CUST10108,Customer 108,28,Elite,Movie,Documentary,Japan,Premium,Tablet,PayPal,Active,2025-07-03,2026-10-06,46.4,649,15,68,3.1,27,25,17523,98.4,Medium,26-35,1
+CUST10219,Customer 219,28,Black Mirror,Movie,Crime,United States,Standard,Gaming Console,UPI,Active,2025-03-06,2026-08-10,29.9,499,1,5,4.6,2,7,998,38.9,Medium,26-35,1
+CUST10421,Customer 421,43,Wednesday,TV Show,Horror,United States,Premium,Laptop,Net Banking,Active,2022-07-30,2024-03-26,93.5,649,27,30,4.1,19,5,12331,117.5,High,36-50,1
+CUST10175,Customer 175,45,Squid Game,Movie,Horror,India,Basic,Tablet,Credit Card,Paused,2024-10-20,2026-05-24,48.9,149,31,34,2.6,4,21,596,73.9,Medium,36-50,0
+CUST10721,Customer 721,51,Ozark,Movie,Thriller,France,Standard,Gaming Console,UPI,Active,2022-07-08,2023-01-13,49.7,499,5,104,4.2,17,10,8483,76.7,Medium,51+,1
+CUST10520,Customer 520,41,Wednesday,TV Show,Horror,France,Standard,Smart TV,Credit Card,Paused,2024-12-28,2025-05-26,60.8,499,24,60,4.3,28,9,13972,97.8,High,36-50,0
+CUST10454,Customer 454,44,Bridgerton,TV Show,Horror,United Kingdom,Standard,Smart TV,Credit Card,Paused,2022-10-17,2022-11-28,54.6,499,9,12,4.5,22,19,10978,95.6,High,36-50,0
+CUST10930,Customer 930,64,You,Movie,Crime,Germany,Premium,Laptop,Debit Card,Active,2024-05-03,2025-04-10,40.4,649,23,106,4.4,16,9,10384,65.4,Medium,51+,1
+CUST10040,Customer 40,39,Ozark,Movie,Sci-Fi,United Kingdom,Basic,Gaming Console,Net Banking,Active,2024-03-07,2025-04-15,46.9,149,2,10,4.1,6,14,894,66.9,Medium,36-50,1
+CUST10552,Customer 552,61,The Queen's Gambit,Movie,Drama,Canada,Premium,Mobile,PayPal,Active,2025-06-06,2026-12-25,38.1,649,5,34,4.7,15,15,9735,68.1,Medium,51+,1
+CUST10820,Customer 820,59,Cobra Kai,Movie,Comedy,Spain,Premium,Gaming Console,Debit Card,Cancelled,2023-05-29,2023-11-29,68.6,649,29,59,2.5,2,14,1298,84.6,High,51+,0
+CUST10352,Customer 352,58,Peaky Blinders,TV Show,Romance,Germany,Standard,Gaming Console,Credit Card,Cancelled,2024-12-08,2026-03-06,78.9,499,20,46,3.5,6,9,2994,93.9,High,51+,0
+CUST10067,Customer 67,47,Stranger Things,Movie,Documentary,United Kingdom,Basic,Mobile,PayPal,Cancelled,2024-12-13,2025-09-11,40.2,149,22,79,4.2,22,2,3278,64.2,Medium,36-50,0
+CUST10278,Customer 278,65,Wednesday,Movie,Drama,India,Standard,Tablet,Credit Card,Active,2024-05-22,2025-08-14,27.0,499,18,112,4.3,13,10,6487,50.0,Medium,51+,1
+CUST10068,Customer 68,52,Ozark,TV Show,Sci-Fi,Canada,Standard,Mobile,Net Banking,Active,2025-10-13,2027-07-22,67.1,499,19,29,4.4,15,3,7485,85.1,High,51+,1
+CUST10907,Customer 907,50,Peaky Blinders,TV Show,Thriller,France,Premium,Smart TV,PayPal,Active,2023-10-13,2025-01-16,8.0,649,11,118,4.7,14,9,9086,31.0,Low,36-50,1
+CUST10915,Customer 915,34,Wednesday,TV Show,Comedy,Germany,Standard,Smart TV,Credit Card,Cancelled,2023-03-07,2024-02-21,39.6,499,19,88,3.6,27,14,13473,80.6,Medium,26-35,0
+CUST10945,Customer 945,23,Bridgerton,Movie,Action,South Korea,Premium,Mobile,PayPal,Cancelled,2022-09-13,2023-09-15,88.2,649,21,53,3.0,4,25,2596,117.2,High,18-25,0
+CUST10297,Customer 297,18,Squid Game,TV Show,Action,India,Premium,Tablet,Debit Card,Active,2023-06-07,2025-03-09,64.5,649,20,62,4.5,19,11,12331,94.5,High,18-25,1
+CUST10619,Customer 619,47,Money Heist,TV Show,Horror,India,Premium,Tablet,Debit Card,Cancelled,2022-05-24,2023-07-19,54.0,649,26,20,5.0,6,17,3894,77.0,High,36-50,0
+CUST10599,Customer 599,52,Dark,Movie,Sci-Fi,Spain,Standard,Gaming Console,Debit Card,Active,2025-04-10,2025-04-19,30.9,499,34,75,4.1,6,1,2994,37.9,Medium,51+,1
+CUST10905,Customer 905,65,The Queen's Gambit,Movie,Documentary,Canada,Standard,Tablet,PayPal,Active,2025-02-13,2025-06-20,46.8,499,7,50,3.0,5,18,2495,69.8,Medium,51+,1
+CUST10849,Customer 849,56,Peaky Blinders,Movie,Drama,France,Standard,Mobile,Debit Card,Paused,2022-09-22,2024-04-11,26.1,499,5,83,2.6,8,11,3992,45.1,Medium,51+,0
+CUST10424,Customer 424,49,Money Heist,Movie,Thriller,United Kingdom,Standard,Gaming Console,UPI,Cancelled,2023-11-02,2025-09-09,66.3,499,10,57,3.8,14,19,6986,99.3,High,36-50,0
+CUST10758,Customer 758,29,Black Mirror,Movie,Comedy,South Korea,Standard,Laptop,Debit Card,Active,2024-05-29,2025-04-16,46.6,499,8,1,3.3,2,22,998,70.6,Medium,26-35,1
+CUST10313,Customer 313,59,Dark,TV Show,Documentary,South Korea,Premium,Gaming Console,Debit Card,Active,2024-08-24,2026-01-20,62.6,649,33,11,3.5,18,0,11682,80.6,High,51+,1
+CUST10185,Customer 185,33,Squid Game,TV Show,Crime,France,Standard,Laptop,UPI,Paused,2025-03-25,2025-10-16,36.4,499,35,23,4.2,19,0,9481,55.4,Medium,26-35,0
+CUST10333,Customer 333,47,Ozark,Movie,Crime,United Kingdom,Premium,Smart TV,Net Banking,Active,2023-02-03,2023-04-19,43.9,649,33,37,3.3,5,25,3245,73.9,Medium,36-50,1
+CUST10089,Customer 89,36,Cobra Kai,TV Show,Romance,United States,Standard,Gaming Console,Net Banking,Active,2022-04-16,2024-02-18,28.8,499,31,28,4.6,13,17,6487,58.8,Medium,36-50,1
+CUST10064,Customer 64,65,Dark,Movie,Crime,France,Premium,Laptop,Net Banking,Active,2024-11-06,2024-11-09,12.1,649,19,92,3.2,20,18,12980,50.1,Low,51+,1
+CUST10831,Customer 831,44,Sex Education,Movie,Animation,Germany,Basic,Tablet,Credit Card,Cancelled,2024-04-16,2024-05-02,8.4,149,11,15,3.5,26,17,3874,51.4,Low,36-50,0
+CUST10577,Customer 577,29,The Umbrella Academy,Movie,Horror,Japan,Standard,Smart TV,Debit Card,Active,2024-06-14,2024-09-24,47.9,499,35,21,3.2,7,8,3493,62.9,Medium,26-35,1
+CUST10216,Customer 216,38,Ozark,Movie,Crime,France,Basic,Tablet,UPI,Active,2025-01-03,2026-03-24,61.0,149,8,58,4.0,3,9,447,73.0,High,36-50,1
+CUST10605,Customer 605,31,Lucifer,TV Show,Thriller,Japan,Basic,Laptop,Credit Card,Paused,2023-11-25,2025-08-25,52.3,149,28,112,4.3,5,4,745,61.3,High,26-35,0
+CUST10549,Customer 549,25,Stranger Things,Movie,Drama,South Korea,Basic,Smart TV,Credit Card,Active,2023-01-26,2024-04-17,51.3,149,35,24,2.7,26,14,3874,91.3,High,18-25,1
+CUST10291,Customer 291,58,Narcos,Movie,Thriller,Australia,Premium,Laptop,Debit Card,Paused,2025-02-07,2025-06-23,36.8,649,12,64,3.9,22,10,14278,68.8,Medium,51+,0
+CUST10788,Customer 788,26,Cobra Kai,TV Show,Thriller,Australia,Standard,Gaming Console,Debit Card,Active,2022-07-01,2024-01-09,53.5,499,19,6,4.4,14,4,6986,71.5,High,26-35,1
+CUST10888,Customer 888,26,Squid Game,Movie,Documentary,Japan,Basic,Laptop,PayPal,Active,2024-03-04,2025-09-02,33.0,149,5,44,3.7,25,18,3725,76.0,Medium,26-35,1
+CUST10965,Customer 965,32,Elite,TV Show,Comedy,Canada,Premium,Gaming Console,PayPal,Active,2024-08-22,2025-08-07,39.8,649,18,5,3.5,30,8,19470,77.8,Medium,26-35,1
+CUST10943,Customer 943,40,The Crown,TV Show,Romance,South Korea,Basic,Tablet,Credit Card,Active,2025-01-11,2026-03-22,58.3,149,18,29,4.8,8,24,1192,90.3,High,36-50,1
+CUST10742,Customer 742,29,Peaky Blinders,Movie,Horror,France,Standard,Smart TV,Debit Card,Cancelled,2024-02-04,2026-01-01,10.0,499,28,81,3.2,21,3,10479,34.0,Low,26-35,0
+CUST10979,Customer 979,22,Dark,TV Show,Thriller,Canada,Premium,Gaming Console,Credit Card,Active,2024-01-02,2025-06-05,2.4,649,31,68,3.3,27,19,17523,48.4,Low,18-25,1
+CUST10695,Customer 695,34,The Queen's Gambit,TV Show,Romance,Spain,Standard,Mobile,UPI,Active,2023-01-14,2024-12-14,56.8,499,9,42,3.4,27,11,13473,94.8,High,26-35,1
+CUST10310,Customer 310,45,Bridgerton,Movie,Romance,South Korea,Standard,Tablet,PayPal,Active,2023-10-10,2024-10-13,36.9,499,9,86,4.3,30,15,14970,81.9,Medium,36-50,1
+CUST10087,Customer 87,43,The Umbrella Academy,Movie,Romance,France,Standard,Laptop,Debit Card,Active,2024-07-17,2024-12-21,64.9,499,31,8,2.7,4,2,1996,70.9,High,36-50,1
+CUST10729,Customer 729,24,Elite,TV Show,Action,Spain,Basic,Tablet,UPI,Active,2024-10-18,2025-10-26,28.5,149,23,11,2.7,24,24,3576,76.5,Medium,18-25,1
+CUST10517,Customer 517,19,Money Heist,Movie,Romance,Australia,Premium,Laptop,UPI,Paused,2024-09-22,2025-11-13,54.5,649,24,85,4.1,4,12,2596,70.5,High,18-25,0
+CUST10311,Customer 311,40,Lucifer,TV Show,Horror,United States,Standard,Tablet,Net Banking,Active,2024-07-01,2025-04-15,36.6,499,9,114,3.8,10,23,4990,69.6,Medium,36-50,1
+CUST10537,Customer 537,35,Lupin,Movie,Animation,India,Premium,Gaming Console,Net Banking,Active,2024-11-07,2025-01-25,20.5,649,16,98,3.7,5,10,3245,35.5,Medium,26-35,1
+CUST10137,Customer 137,24,Ozark,TV Show,Romance,Canada,Basic,Laptop,Credit Card,Active,2022-09-21,2024-02-25,22.4,149,26,64,2.6,3,4,447,29.4,Medium,18-25,1
+CUST10922,Customer 922,54,Sex Education,Movie,Thriller,Spain,Basic,Tablet,Credit Card,Active,2024-07-03,2025-10-14,16.3,149,12,5,4.9,10,17,1490,43.3,Low,51+,1
+CUST10466,Customer 466,31,Dark,TV Show,Crime,South Korea,Basic,Mobile,UPI,Active,2024-04-12,2025-02-19,36.5,149,11,90,3.6,20,23,2980,79.5,Medium,26-35,1
+CUST10846,Customer 846,47,Squid Game,Movie,Romance,France,Basic,Tablet,PayPal,Cancelled,2022-12-27,2024-05-11,54.3,149,27,87,3.1,11,8,1639,73.3,High,36-50,0
+CUST10262,Customer 262,56,Cobra Kai,TV Show,Crime,United States,Premium,Smart TV,UPI,Active,2025-08-18,2026-05-29,40.5,649,21,110,3.2,22,22,14278,84.5,Medium,51+,1
+CUST10487,Customer 487,21,Dark,TV Show,Sci-Fi,United Kingdom,Basic,Laptop,Credit Card,Active,2025-04-06,2026-04-11,25.8,149,27,81,4.8,13,1,1937,39.8,Medium,18-25,1
+CUST10169,Customer 169,36,Dark,Movie,Romance,South Korea,Premium,Smart TV,Net Banking,Cancelled,2024-05-05,2025-09-29,35.9,649,22,32,4.4,17,23,11033,75.9,Medium,36-50,0
+CUST10829,Customer 829,65,Wednesday,Movie,Sci-Fi,France,Standard,Laptop,UPI,Active,2023-10-07,2025-03-08,31.5,499,5,117,3.4,17,19,8483,67.5,Medium,51+,1
+CUST10448,Customer 448,29,Peaky Blinders,Movie,Documentary,South Korea,Premium,Laptop,PayPal,Cancelled,2023-02-20,2024-11-27,18.5,649,23,62,2.7,22,14,14278,54.5,Low,26-35,0
+CUST10140,Customer 140,19,Cobra Kai,TV Show,Crime,Australia,Premium,Gaming Console,Credit Card,Cancelled,2025-07-12,2027-03-02,11.2,649,31,21,3.8,25,19,16225,55.2,Low,18-25,0
+CUST10740,Customer 740,28,Cobra Kai,TV Show,Thriller,Japan,Premium,Tablet,Credit Card,Paused,2025-01-23,2026-09-06,67.4,649,1,47,4.5,2,9,1298,78.4,High,26-35,0
+CUST10665,Customer 665,25,Sex Education,TV Show,Animation,France,Basic,Tablet,PayPal,Active,2022-04-18,2022-08-18,24.2,149,16,50,3.7,24,19,3576,67.2,Medium,18-25,1
+CUST10854,Customer 854,48,Ozark,TV Show,Documentary,United States,Premium,Tablet,PayPal,Active,2025-03-26,2026-08-03,71.7,649,19,116,4.3,18,7,11682,96.7,High,36-50,1
+CUST10441,Customer 441,32,Lucifer,TV Show,Thriller,India,Standard,Mobile,Net Banking,Active,2023-12-21,2025-08-21,51.6,499,14,76,4.1,24,3,11976,78.6,High,26-35,1
+CUST10532,Customer 532,60,Black Mirror,Movie,Horror,India,Standard,Gaming Console,Credit Card,Active,2024-03-19,2025-08-17,0.5,499,32,119,3.3,16,4,7984,20.5,Low,51+,1
+CUST10056,Customer 56,36,Lucifer,TV Show,Comedy,South Korea,Basic,Laptop,Net Banking,Active,2023-04-20,2023-11-09,65.3,149,28,14,3.9,22,4,3278,91.3,High,36-50,1
+CUST10121,Customer 121,57,The Umbrella Academy,TV Show,Drama,United States,Premium,Smart TV,Debit Card,Active,2023-12-24,2025-11-19,61.8,649,11,3,2.9,21,21,13629,103.8,High,51+,1
+CUST10529,Customer 529,56,Narcos,TV Show,Thriller,France,Standard,Tablet,PayPal,Cancelled,2023-02-28,2023-03-30,48.5,499,19,33,3.1,16,7,7984,71.5,Medium,51+,0
+CUST10026,Customer 26,31,The Witcher,Movie,Romance,Canada,Basic,Smart TV,Net Banking,Cancelled,2024-01-03,2024-09-02,44.8,149,11,102,4.5,30,13,4470,87.8,Medium,26-35,0
+CUST10073,Customer 73,54,Money Heist,TV Show,Crime,South Korea,Standard,Gaming Console,Debit Card,Active,2022-01-17,2022-07-31,41.1,499,17,86,4.4,26,21,12974,88.1,Medium,51+,1
+CUST10045,Customer 45,45,Black Mirror,Movie,Horror,Japan,Standard,Mobile,PayPal,Cancelled,2024-12-27,2025-04-15,5.0,499,28,46,4.1,28,14,13972,47.0,Low,36-50,0
+CUST10250,Customer 250,27,Wednesday,TV Show,Action,United Kingdom,Premium,Tablet,Credit Card,Active,2025-06-24,2026-09-01,52.1,649,6,87,3.6,28,20,18172,100.1,High,26-35,1
+CUST10395,Customer 395,52,Ozark,Movie,Horror,France,Basic,Gaming Console,UPI,Active,2024-11-28,2026-02-22,71.5,149,26,113,3.3,28,9,4172,108.5,High,51+,1
+CUST10913,Customer 913,59,Peaky Blinders,Movie,Sci-Fi,Germany,Premium,Mobile,Debit Card,Cancelled,2025-05-28,2025-07-08,48.2,649,24,51,4.3,18,20,11682,86.2,Medium,51+,0
+CUST10899,Customer 899,34,Lucifer,Movie,Drama,Japan,Basic,Gaming Console,PayPal,Active,2025-03-15,2026-06-06,72.2,149,18,95,4.2,7,8,1043,87.2,High,26-35,1
+CUST10746,Customer 746,27,Black Mirror,TV Show,Romance,United Kingdom,Basic,Gaming Console,PayPal,Active,2022-02-23,2023-03-31,23.9,149,13,78,4.1,28,1,4172,52.9,Medium,26-35,1
+CUST10199,Customer 199,52,Lucifer,Movie,Sci-Fi,Australia,Standard,Smart TV,Net Banking,Active,2023-04-06,2024-11-13,43.5,499,8,34,4.4,28,11,13972,82.5,Medium,51+,1
+CUST10815,Customer 815,33,Elite,TV Show,Comedy,India,Basic,Smart TV,UPI,Active,2022-03-15,2023-11-08,67.8,149,25,38,4.6,4,1,596,72.8,High,26-35,1
+CUST10356,Customer 356,35,Cobra Kai,TV Show,Thriller,Japan,Premium,Mobile,Credit Card,Active,2024-07-16,2026-01-15,16.9,649,2,23,4.9,11,8,7139,35.9,Low,26-35,1
+CUST10324,Customer 324,45,The Witcher,TV Show,Documentary,Japan,Premium,Gaming Console,Net Banking,Active,2024-12-21,2025-05-08,94.3,649,17,61,4.4,29,2,18821,125.3,High,36-50,1
+CUST10875,Customer 875,56,Narcos,TV Show,Action,India,Basic,Laptop,Debit Card,Active,2023-07-19,2023-11-17,41.2,149,22,59,3.9,24,2,3576,67.2,Medium,51+,1
+CUST10826,Customer 826,24,Cobra Kai,Movie,Romance,Canada,Premium,Gaming Console,Net Banking,Cancelled,2022-02-22,2022-10-01,78.3,649,25,106,4.0,23,23,14927,124.3,High,18-25,0
+CUST10236,Customer 236,30,The Queen's Gambit,TV Show,Action,Germany,Basic,Mobile,UPI,Active,2025-02-27,2026-11-06,57.8,149,15,2,3.8,2,10,298,69.8,High,26-35,1
+CUST10579,Customer 579,42,Wednesday,Movie,Thriller,South Korea,Standard,Gaming Console,Net Banking,Active,2023-06-13,2024-11-15,5.0,499,33,49,4.9,10,1,4990,16.0,Low,36-50,1
+CUST10940,Customer 940,46,Dark,TV Show,Comedy,United Kingdom,Standard,Gaming Console,Debit Card,Active,2024-08-11,2025-10-28,27.9,499,2,51,3.9,2,19,998,48.9,Medium,36-50,1
+CUST10904,Customer 904,38,Elite,TV Show,Drama,United Kingdom,Standard,Gaming Console,Net Banking,Active,2023-08-21,2024-08-16,74.0,499,28,53,5.0,2,24,998,100.0,High,36-50,1
+CUST10300,Customer 300,57,The Witcher,Movie,Romance,France,Premium,Mobile,PayPal,Active,2025-06-10,2026-03-27,57.7,649,2,116,3.8,26,11,16874,94.7,High,51+,1
+CUST10328,Customer 328,65,The Witcher,TV Show,Action,United States,Premium,Tablet,Net Banking,Active,2022-09-01,2023-08-14,61.8,649,4,20,3.5,22,0,14278,83.8,High,51+,1
+CUST10528,Customer 528,18,Sex Education,TV Show,Sci-Fi,Germany,Premium,Mobile,Credit Card,Cancelled,2022-08-29,2023-03-13,43.2,649,18,36,4.4,14,4,9086,61.2,Medium,18-25,0
+CUST10600,Customer 600,53,Money Heist,TV Show,Romance,South Korea,Basic,Tablet,Credit Card,Cancelled,2024-11-04,2025-10-20,51.4,149,13,85,3.7,24,14,3576,89.4,High,51+,0
+CUST10542,Customer 542,49,Elite,TV Show,Sci-Fi,Spain,Premium,Gaming Console,Net Banking,Active,2023-02-14,2024-04-22,13.8,649,24,78,3.0,22,13,14278,48.8,Low,36-50,1
+CUST10650,Customer 650,20,Wednesday,Movie,Horror,India,Premium,Smart TV,Net Banking,Active,2025-04-07,2026-01-05,59.4,649,32,60,4.4,21,13,13629,93.4,High,18-25,1
+CUST10771,Customer 771,34,Wednesday,Movie,Romance,France,Standard,Tablet,Credit Card,Active,2023-12-22,2025-03-08,59.7,499,33,42,2.6,10,11,4990,80.7,High,26-35,1
+CUST10597,Customer 597,51,Squid Game,Movie,Comedy,United States,Basic,Mobile,Net Banking,Cancelled,2024-07-18,2026-03-18,35.3,149,13,115,3.9,22,16,3278,73.3,Medium,51+,0
+CUST10543,Customer 543,50,Squid Game,TV Show,Thriller,United Kingdom,Basic,Smart TV,Net Banking,Active,2022-03-24,2023-09-13,55.2,149,6,37,3.7,4,25,596,84.2,High,36-50,1
+CUST10782,Customer 782,61,Dark,TV Show,Animation,Canada,Basic,Tablet,Debit Card,Active,2024-08-13,2024-10-19,8.6,149,19,1,3.6,8,9,1192,25.6,Low,51+,1
+CUST10306,Customer 306,58,Dark,TV Show,Romance,India,Premium,Gaming Console,Net Banking,Active,2023-08-28,2023-10-10,44.9,649,1,73,4.0,19,17,12331,80.9,Medium,51+,1
+CUST10319,Customer 319,48,The Queen's Gambit,Movie,Animation,United Kingdom,Standard,Smart TV,UPI,Active,2025-10-14,2026-02-22,50.1,499,11,17,4.1,3,18,1497,71.1,High,36-50,1
+CUST10482,Customer 482,64,Elite,TV Show,Sci-Fi,Spain,Basic,Tablet,PayPal,Cancelled,2023-03-18,2024-05-16,18.1,149,9,106,4.0,4,4,596,26.1,Low,51+,0
+CUST10494,Customer 494,56,Narcos,Movie,Action,Japan,Basic,Mobile,UPI,Active,2022-09-11,2023-06-23,20.5,149,23,45,2.9,18,24,2682,62.5,Medium,51+,1
+CUST10266,Customer 266,41,You,TV Show,Sci-Fi,United States,Standard,Smart TV,UPI,Cancelled,2023-11-10,2025-06-30,10.8,499,5,60,4.7,18,3,8982,31.8,Low,36-50,0
+CUST10469,Customer 469,20,Black Mirror,TV Show,Action,Canada,Standard,Mobile,Net Banking,Cancelled,2025-06-21,2026-01-17,28.7,499,9,42,3.1,5,20,2495,53.7,Medium,18-25,0
+CUST10737,Customer 737,28,Narcos,TV Show,Documentary,Germany,Standard,Smart TV,Net Banking,Active,2023-09-01,2024-02-13,48.4,499,28,45,4.8,20,12,9980,80.4,Medium,26-35,1
+CUST10257,Customer 257,30,Narcos,Movie,Thriller,India,Basic,Smart TV,UPI,Paused,2022-12-22,2023-07-14,73.7,149,18,47,4.6,18,12,2682,103.7,High,26-35,0
+CUST10261,Customer 261,40,Elite,TV Show,Thriller,Germany,Standard,Laptop,Net Banking,Cancelled,2024-02-11,2025-03-24,18.8,499,7,0,3.8,23,11,11477,52.8,Low,36-50,0
+CUST10406,Customer 406,49,Sex Education,TV Show,Sci-Fi,United Kingdom,Premium,Gaming Console,Credit Card,Cancelled,2025-02-26,2025-09-13,57.6,649,1,15,2.6,22,25,14278,104.6,High,36-50,0
+CUST10429,Customer 429,62,Cobra Kai,TV Show,Animation,United Kingdom,Standard,Smart TV,Net Banking,Active,2024-07-22,2025-10-26,68.5,499,25,45,3.1,15,19,7485,102.5,High,51+,1
+CUST10629,Customer 629,23,Stranger Things,TV Show,Drama,India,Basic,Laptop,Credit Card,Active,2023-02-14,2023-04-20,43.4,149,15,112,2.7,28,21,4172,92.4,Medium,18-25,1
+CUST10502,Customer 502,49,The Witcher,Movie,Drama,United States,Standard,Mobile,UPI,Active,2024-09-29,2024-10-27,89.7,499,12,48,4.0,12,4,5988,105.7,High,36-50,1
+CUST10433,Customer 433,40,Lucifer,TV Show,Action,India,Standard,Gaming Console,Debit Card,Cancelled,2024-05-12,2025-12-11,35.3,499,17,7,4.1,20,5,9980,60.3,Medium,36-50,0
+CUST10732,Customer 732,18,Dark,Movie,Crime,France,Basic,Tablet,Net Banking,Active,2025-02-22,2025-05-08,17.5,149,15,49,4.7,23,2,3427,42.5,Low,18-25,1
+CUST10138,Customer 138,48,Sex Education,TV Show,Action,Australia,Premium,Gaming Console,Credit Card,Active,2023-11-14,2025-08-03,33.9,649,21,20,3.5,21,23,13629,77.9,Medium,36-50,1
+CUST10358,Customer 358,39,The Crown,Movie,Drama,Spain,Premium,Smart TV,UPI,Active,2022-03-06,2022-09-08,34.8,649,13,114,4.6,28,12,18172,74.8,Medium,36-50,1
+CUST10929,Customer 929,31,Lupin,Movie,Romance,United Kingdom,Standard,Tablet,PayPal,Cancelled,2025-06-02,2025-11-11,81.1,499,11,41,4.9,17,20,8483,118.1,High,26-35,0
+CUST10754,Customer 754,19,Squid Game,Movie,Thriller,United States,Basic,Tablet,Debit Card,Active,2023-03-21,2023-10-12,68.3,149,6,44,4.3,22,9,3278,99.3,High,18-25,1
+CUST10595,Customer 595,26,Money Heist,TV Show,Drama,Spain,Standard,Gaming Console,PayPal,Active,2022-05-14,2024-04-07,67.9,499,4,71,2.6,29,12,14471,108.9,High,26-35,1
+CUST10558,Customer 558,24,Peaky Blinders,Movie,Horror,United States,Premium,Tablet,UPI,Cancelled,2025-06-02,2026-06-08,31.2,649,11,93,3.2,16,24,10384,71.2,Medium,18-25,0
+CUST10364,Customer 364,53,Lucifer,TV Show,Thriller,Australia,Standard,Tablet,Net Banking,Active,2024-06-15,2025-10-08,52.0,499,18,111,4.6,29,17,14471,98.0,High,51+,1
+CUST10524,Customer 524,64,Peaky Blinders,TV Show,Sci-Fi,India,Standard,Mobile,Credit Card,Active,2025-05-18,2027-03-06,56.3,499,9,0,3.5,22,9,10978,87.3,High,51+,1
+CUST10209,Customer 209,62,Squid Game,Movie,Documentary,United Kingdom,Basic,Smart TV,UPI,Active,2022-01-17,2022-04-19,54.9,149,7,13,3.3,30,9,4470,93.9,High,51+,1
+CUST10779,Customer 779,35,Sex Education,Movie,Action,France,Standard,Tablet,Credit Card,Active,2022-08-19,2022-09-20,40.1,499,16,73,4.4,15,11,7485,66.1,Medium,26-35,1
+CUST10335,Customer 335,34,The Crown,TV Show,Thriller,South Korea,Standard,Laptop,PayPal,Paused,2022-08-27,2024-02-07,66.4,499,35,1,4.3,10,7,4990,83.4,High,26-35,0
+CUST10211,Customer 211,61,Elite,Movie,Comedy,United States,Standard,Tablet,UPI,Active,2025-06-15,2026-07-14,56.3,499,23,54,3.3,6,7,2994,69.3,High,51+,1
+CUST10351,Customer 351,48,Elite,TV Show,Horror,Germany,Standard,Tablet,Net Banking,Active,2023-10-29,2025-07-02,49.8,499,30,80,4.4,30,18,14970,97.8,Medium,36-50,1
+CUST10079,Customer 79,41,Peaky Blinders,TV Show,Animation,United Kingdom,Standard,Smart TV,UPI,Cancelled,2024-07-18,2026-04-10,44.3,499,27,120,4.9,3,22,1497,69.3,Medium,36-50,0
+CUST10030,Customer 30,30,You,Movie,Documentary,India,Standard,Gaming Console,Net Banking,Active,2025-03-26,2027-02-11,34.7,499,13,46,3.6,23,10,11477,67.7,Medium,26-35,1
+CUST10281,Customer 281,22,You,TV Show,Drama,Canada,Standard,Gaming Console,Net Banking,Active,2022-04-05,2024-02-20,44.8,499,22,66,3.8,24,19,11976,87.8,Medium,18-25,1
+CUST10508,Customer 508,37,Lupin,Movie,Comedy,Spain,Basic,Mobile,Debit Card,Active,2025-08-20,2027-02-23,20.4,149,21,4,3.7,29,13,4321,62.4,Medium,36-50,1
+CUST10653,Customer 653,19,Black Mirror,Movie,Romance,Germany,Premium,Tablet,Net Banking,Active,2023-10-22,2025-07-11,35.3,649,6,44,3.6,17,21,11033,73.3,Medium,18-25,1
+CUST10947,Customer 947,37,The Witcher,Movie,Documentary,Germany,Standard,Mobile,Debit Card,Cancelled,2025-08-28,2026-07-26,3.9,499,3,18,4.6,7,18,3493,28.9,Low,36-50,0
+CUST10290,Customer 290,43,Squid Game,TV Show,Sci-Fi,United Kingdom,Basic,Tablet,PayPal,Active,2023-07-15,2024-12-21,26.4,149,20,107,4.3,29,10,4321,65.4,Medium,36-50,1
+CUST10166,Customer 166,53,Narcos,TV Show,Thriller,Japan,Premium,Laptop,UPI,Active,2025-10-07,2026-04-20,52.3,649,8,95,5.0,17,7,11033,76.3,High,51+,1
+CUST10762,Customer 762,51,Money Heist,TV Show,Drama,United States,Basic,Smart TV,UPI,Cancelled,2024-12-28,2026-02-27,45.1,149,20,35,3.3,13,12,1937,70.1,Medium,51+,0
+CUST10498,Customer 498,49,Wednesday,TV Show,Crime,Germany,Basic,Gaming Console,Debit Card,Active,2023-11-03,2025-01-31,37.2,149,15,70,3.5,29,13,4321,79.2,Medium,36-50,1
+CUST10463,Customer 463,28,Squid Game,Movie,Crime,Australia,Standard,Tablet,Net Banking,Paused,2024-05-06,2025-12-19,24.5,499,15,11,3.5,18,15,8982,57.5,Medium,26-35,0
+CUST10066,Customer 66,38,The Queen's Gambit,TV Show,Documentary,United Kingdom,Standard,Smart TV,UPI,Active,2022-03-31,2023-11-26,75.9,499,22,111,2.8,29,14,14471,118.9,High,36-50,1
+CUST10142,Customer 142,65,Money Heist,Movie,Horror,South Korea,Premium,Gaming Console,Debit Card,Paused,2024-08-23,2025-12-26,74.7,649,34,48,3.3,7,14,4543,95.7,High,51+,0
+CUST10276,Customer 276,49,Narcos,TV Show,Romance,South Korea,Basic,Mobile,UPI,Active,2025-01-27,2025-05-21,53.6,149,32,19,4.9,26,16,3874,95.6,High,36-50,1
+CUST10952,Customer 952,58,Stranger Things,TV Show,Sci-Fi,Germany,Basic,Laptop,Credit Card,Active,2025-05-20,2026-11-24,50.8,149,24,78,4.2,5,15,745,70.8,High,51+,1
+CUST10583,Customer 583,61,Ozark,TV Show,Thriller,Australia,Premium,Gaming Console,Debit Card,Active,2023-05-29,2024-11-26,57.8,649,5,38,2.7,24,3,15576,84.8,High,51+,1
+CUST10465,Customer 465,20,Money Heist,TV Show,Horror,India,Basic,Smart TV,Net Banking,Active,2024-05-05,2024-08-14,39.2,149,29,63,3.1,19,24,2831,82.2,Medium,18-25,1
+CUST10320,Customer 320,28,You,Movie,Horror,France,Basic,Gaming Console,Net Banking,Active,2022-04-25,2024-03-03,38.7,149,19,10,3.0,21,15,3129,74.7,Medium,26-35,1
+CUST10716,Customer 716,33,Black Mirror,Movie,Thriller,India,Basic,Laptop,Net Banking,Active,2022-06-28,2022-11-12,69.6,149,8,7,4.8,13,24,1937,106.6,High,26-35,1
+CUST10307,Customer 307,31,Black Mirror,Movie,Documentary,Canada,Basic,Tablet,Credit Card,Active,2023-09-17,2025-06-10,73.9,149,17,24,2.8,23,25,3427,121.9,High,26-35,1
+CUST10308,Customer 308,53,Elite,Movie,Crime,United States,Premium,Laptop,UPI,Active,2022-04-22,2023-12-08,27.2,649,32,42,3.4,23,20,14927,70.2,Medium,51+,1
+CUST10825,Customer 825,38,Cobra Kai,TV Show,Romance,France,Basic,Laptop,PayPal,Paused,2022-02-20,2022-12-19,30.9,149,2,20,3.4,11,4,1639,45.9,Medium,36-50,0
+CUST10334,Customer 334,52,Lupin,TV Show,Sci-Fi,France,Premium,Gaming Console,PayPal,Cancelled,2023-06-12,2024-05-25,25.1,649,30,87,3.7,20,0,12980,45.1,Medium,51+,0
+CUST10731,Customer 731,50,Cobra Kai,TV Show,Romance,United States,Standard,Smart TV,Net Banking,Active,2024-01-22,2025-12-21,46.9,499,3,79,4.9,3,23,1497,72.9,Medium,36-50,1
+CUST10003,Customer 3,24,The Crown,TV Show,Comedy,Japan,Basic,Laptop,Net Banking,Active,2023-11-21,2024-01-05,58.2,149,30,68,2.8,14,2,2086,74.2,High,18-25,1
+CUST10786,Customer 786,30,You,Movie,Documentary,Canada,Basic,Tablet,Debit Card,Active,2025-10-31,2026-09-01,69.0,149,30,69,3.0,27,13,4023,109.0,High,26-35,1
+CUST10353,Customer 353,51,Dark,TV Show,Crime,Germany,Basic,Gaming Console,UPI,Active,2022-01-01,2023-05-20,63.4,149,31,38,2.5,15,25,2235,103.4,High,51+,1
+CUST10909,Customer 909,50,The Crown,TV Show,Drama,Japan,Premium,Gaming Console,Credit Card,Active,2025-06-23,2027-03-26,58.1,649,31,87,2.7,13,0,8437,71.1,High,36-50,1
+CUST10539,Customer 539,56,Stranger Things,TV Show,Drama,Australia,Premium,Smart TV,Debit Card,Paused,2023-07-06,2025-02-08,67.2,649,9,27,4.7,27,20,17523,114.2,High,51+,0
+CUST10347,Customer 347,54,Ozark,Movie,Comedy,United Kingdom,Premium,Laptop,Credit Card,Active,2025-06-08,2027-04-08,5.8,649,19,90,3.2,22,12,14278,39.8,Low,51+,1
+CUST11000,Customer 1000,63,Ozark,TV Show,Horror,Spain,Standard,Laptop,Net Banking,Active,2025-10-26,2026-02-26,56.3,499,26,105,4.7,8,2,3992,66.3,High,51+,1
+CUST10484,Customer 484,30,Bridgerton,TV Show,Crime,Canada,Premium,Smart TV,UPI,Cancelled,2022-10-08,2023-08-14,47.1,649,20,63,3.9,16,7,10384,70.1,Medium,26-35,0
+CUST10661,Customer 661,36,Ozark,Movie,Romance,United Kingdom,Basic,Tablet,Credit Card,Cancelled,2024-10-10,2024-12-03,27.7,149,12,109,3.7,14,9,2086,50.7,Medium,36-50,0
+CUST10034,Customer 34,48,Cobra Kai,Movie,Sci-Fi,France,Basic,Gaming Console,Credit Card,Cancelled,2023-05-17,2024-06-14,15.6,149,32,51,3.1,22,22,3278,59.6,Low,36-50,0
+CUST10032,Customer 32,57,Lupin,TV Show,Documentary,Canada,Premium,Mobile,Debit Card,Active,2022-12-23,2024-03-08,88.3,649,21,59,3.6,23,6,14927,117.3,High,51+,1
+CUST10232,Customer 232,27,Money Heist,Movie,Crime,Germany,Standard,Smart TV,Net Banking,Active,2024-07-02,2024-09-30,47.4,499,18,49,2.8,8,20,3992,75.4,Medium,26-35,1
+CUST10752,Customer 752,28,Bridgerton,TV Show,Drama,United Kingdom,Premium,Gaming Console,Net Banking,Cancelled,2024-07-12,2024-11-10,8.2,649,22,44,3.7,21,19,13629,48.2,Low,26-35,0
+CUST10193,Customer 193,58,The Umbrella Academy,TV Show,Drama,Australia,Basic,Tablet,PayPal,Active,2023-01-17,2024-02-20,47.4,149,1,90,3.0,10,24,1490,81.4,Medium,51+,1
+CUST10514,Customer 514,54,Money Heist,Movie,Romance,Germany,Premium,Tablet,Credit Card,Active,2024-06-07,2025-04-11,19.3,649,28,52,3.3,28,2,18172,49.3,Low,51+,1
+CUST10004,Customer 4,58,Cobra Kai,TV Show,Animation,South Korea,Premium,Mobile,UPI,Active,2023-08-24,2024-06-16,80.1,649,6,109,3.1,5,12,3245,97.1,High,51+,1
+CUST10205,Customer 205,64,Elite,TV Show,Comedy,Canada,Premium,Smart TV,Credit Card,Paused,2022-07-10,2023-02-12,7.6,649,32,34,3.3,11,10,7139,28.6,Low,51+,0
+CUST10434,Customer 434,60,Lucifer,Movie,Crime,Germany,Premium,Mobile,Credit Card,Active,2022-04-16,2023-01-26,59.9,649,17,16,4.0,10,8,6490,77.9,High,51+,1
+CUST10807,Customer 807,21,The Witcher,TV Show,Comedy,Australia,Standard,Gaming Console,UPI,Active,2025-09-20,2025-12-02,47.6,499,27,76,4.3,4,17,1996,68.6,Medium,18-25,1
+CUST10984,Customer 984,56,Bridgerton,Movie,Drama,Germany,Basic,Mobile,Debit Card,Active,2023-05-25,2024-07-12,40.8,149,25,103,3.5,24,15,3576,79.8,Medium,51+,1
+CUST10110,Customer 110,48,Black Mirror,Movie,Horror,United States,Basic,Laptop,UPI,Cancelled,2025-08-06,2026-05-13,40.1,149,29,115,3.8,28,13,4172,81.1,Medium,36-50,0
+CUST10941,Customer 941,18,The Witcher,TV Show,Documentary,United Kingdom,Standard,Laptop,Credit Card,Active,2022-02-08,2023-01-09,10.0,499,35,58,4.1,8,24,3992,42.0,Low,18-25,1
+CUST10078,Customer 78,62,Lucifer,TV Show,Comedy,United Kingdom,Premium,Mobile,UPI,Active,2024-08-08,2025-12-26,34.5,649,8,12,3.1,19,4,12331,57.5,Medium,51+,1
+CUST10085,Customer 85,45,Wednesday,TV Show,Sci-Fi,United States,Standard,Mobile,Debit Card,Active,2024-04-02,2024-06-09,21.8,499,9,35,4.1,20,17,9980,58.8,Medium,36-50,1
+CUST10589,Customer 589,53,Narcos,Movie,Comedy,Australia,Standard,Tablet,UPI,Active,2022-12-16,2024-07-22,62.8,499,15,112,3.8,27,8,13473,97.8,High,51+,1
+CUST10083,Customer 83,55,Squid Game,Movie,Action,Spain,Standard,Mobile,Credit Card,Cancelled,2023-05-03,2024-10-23,78.9,499,8,95,2.7,16,24,7984,118.9,High,51+,0
+CUST10255,Customer 255,32,Dark,TV Show,Sci-Fi,Japan,Standard,Laptop,PayPal,Active,2022-07-21,2022-10-21,4.0,499,13,56,3.0,28,13,13972,45.0,Low,26-35,1
+CUST10923,Customer 923,65,Narcos,Movie,Action,Canada,Standard,Laptop,UPI,Active,2022-07-07,2023-03-14,45.3,499,31,59,2.7,30,25,14970,100.3,Medium,51+,1
+CUST10409,Customer 409,48,Money Heist,Movie,Sci-Fi,United Kingdom,Premium,Smart TV,Net Banking,Cancelled,2024-09-08,2025-12-26,45.0,649,27,118,4.4,28,16,18172,89.0,Medium,36-50,0
+CUST10654,Customer 654,64,Ozark,TV Show,Animation,South Korea,Premium,Tablet,Net Banking,Cancelled,2022-07-25,2023-12-24,14.3,649,3,16,3.7,4,9,2596,27.3,Low,51+,0
+CUST10522,Customer 522,43,You,TV Show,Comedy,South Korea,Standard,Laptop,Credit Card,Cancelled,2022-01-17,2022-07-01,55.6,499,29,80,3.3,27,24,13473,106.6,High,36-50,0
+CUST10919,Customer 919,41,Ozark,TV Show,Action,Canada,Standard,Smart TV,Credit Card,Active,2024-12-07,2025-12-31,30.8,499,1,85,4.9,12,7,5988,49.8,Medium,36-50,1
+CUST10437,Customer 437,34,Wednesday,Movie,Action,Germany,Basic,Smart TV,PayPal,Active,2025-08-08,2027-02-05,82.7,149,15,48,4.2,14,15,2086,111.7,High,26-35,1
+CUST10006,Customer 6,47,Ozark,TV Show,Horror,South Korea,Basic,Laptop,UPI,Active,2022-12-01,2023-01-03,36.1,149,21,51,3.2,8,18,1192,62.1,Medium,36-50,1
+CUST10405,Customer 405,51,The Crown,TV Show,Animation,Spain,Premium,Smart TV,Net Banking,Cancelled,2025-07-12,2026-04-04,30.7,649,34,73,5.0,13,4,8437,47.7,Medium,51+,0
+CUST10468,Customer 468,45,You,Movie,Comedy,Australia,Basic,Laptop,UPI,Active,2023-08-31,2025-07-22,60.9,149,24,113,2.6,14,11,2086,85.9,High,36-50,1
+CUST10098,Customer 98,32,Squid Game,Movie,Comedy,Canada,Premium,Mobile,Net Banking,Active,2023-11-27,2024-11-19,48.5,649,23,93,4.9,22,4,14278,74.5,Medium,26-35,1
+CUST10560,Customer 560,36,Sex Education,Movie,Comedy,Spain,Standard,Laptop,PayPal,Active,2023-12-01,2025-10-12,31.5,499,16,19,4.4,18,13,8982,62.5,Medium,36-50,1
+CUST10360,Customer 360,38,Bridgerton,Movie,Horror,Canada,Premium,Mobile,Unknown,Active,2023-10-02,2024-08-03,21.3,649,13,46,4.7,29,21,18821,71.3,Medium,36-50,1
+CUST10873,Customer 873,58,Money Heist,TV Show,Comedy,Canada,Basic,Laptop,Credit Card,Active,2024-06-27,2024-07-15,7.5,149,22,107,4.2,30,10,4470,47.5,Low,51+,1
+CUST10267,Customer 267,51,Lucifer,TV Show,Drama,United Kingdom,Premium,Tablet,Credit Card,Active,2024-02-21,2025-09-27,82.8,649,30,18,3.3,24,5,15576,111.8,High,51+,1
+CUST10678,Customer 678,26,You,Movie,Horror,United Kingdom,Standard,Tablet,Credit Card,Active,2025-04-28,2026-01-27,85.8,499,4,117,4.3,13,22,6487,120.8,High,26-35,1
+CUST10694,Customer 694,33,Squid Game,Movie,Action,India,Standard,Mobile,UPI,Active,2024-05-06,2025-04-01,57.4,499,14,36,3.7,21,3,10479,81.4,High,26-35,1
+CUST10412,Customer 412,37,Narcos,TV Show,Action,United States,Standard,Laptop,UPI,Cancelled,2024-07-14,2024-10-17,13.9,499,29,64,2.6,17,16,8483,46.9,Low,36-50,0
+CUST10886,Customer 886,37,Lucifer,Movie,Action,South Korea,Basic,Tablet,PayPal,Active,2022-12-19,2023-08-27,88.2,149,10,87,3.9,26,11,3874,125.2,High,36-50,1
+CUST10119,Customer 119,42,Squid Game,Movie,Sci-Fi,Germany,Premium,Laptop,Net Banking,Active,2024-06-19,2024-09-12,70.6,649,28,10,3.6,28,5,18172,103.6,High,36-50,1
+CUST10431,Customer 431,27,Sex Education,TV Show,Sci-Fi,Canada,Premium,Mobile,Net Banking,Cancelled,2022-06-13,2022-09-12,12.4,649,16,60,4.1,23,21,14927,56.4,Low,26-35,0
+CUST10251,Customer 251,34,Squid Game,Movie,Comedy,France,Basic,Gaming Console,PayPal,Active,2025-05-03,2026-02-10,10.5,149,34,58,4.8,2,25,298,37.5,Low,26-35,1
+CUST10343,Customer 343,48,Stranger Things,Movie,Documentary,Germany,Premium,Tablet,Net Banking,Active,2022-11-03,2023-09-23,48.1,649,32,38,3.1,29,18,18821,95.1,Medium,36-50,1
+CUST10010,Customer 10,29,Sex Education,Movie,Crime,Canada,Standard,Gaming Console,Credit Card,Active,2024-10-22,2025-04-06,55.6,499,35,99,4.8,2,19,998,76.6,High,26-35,1
+CUST10197,Customer 197,62,Bridgerton,Movie,Sci-Fi,Spain,Premium,Tablet,Credit Card,Active,2025-01-05,2026-04-12,19.9,649,4,110,3.4,2,15,1298,36.9,Low,51+,1
+CUST10880,Customer 880,62,Sex Education,TV Show,Comedy,Canada,Basic,Tablet,Debit Card,Active,2023-12-02,2024-08-26,71.7,149,3,118,2.8,23,20,3427,114.7,High,51+,1
+CUST10082,Customer 82,39,Dark,Movie,Crime,United Kingdom,Basic,Tablet,Net Banking,Active,2023-04-23,2023-10-19,50.9,149,8,84,4.7,6,0,894,56.9,High,36-50,1
+CUST10912,Customer 912,64,The Crown,Movie,Drama,France,Basic,Gaming Console,PayPal,Cancelled,2024-08-04,2024-10-16,47.5,149,27,33,4.7,19,3,2831,69.5,Medium,51+,0
+CUST10479,Customer 479,53,Wednesday,TV Show,Drama,France,Basic,Gaming Console,Credit Card,Active,2025-10-20,2026-01-23,119.0,149,21,7,4.0,8,18,1192,145.0,Very High,51+,1
+CUST10697,Customer 697,30,Narcos,TV Show,Comedy,United States,Premium,Gaming Console,Net Banking,Active,2025-09-02,2027-01-01,50.2,649,13,68,4.3,3,4,1947,57.2,High,26-35,1
+CUST10240,Customer 240,38,Cobra Kai,Movie,Animation,United States,Basic,Smart TV,Credit Card,Active,2025-05-18,2025-08-06,63.3,149,16,44,5.0,7,20,1043,90.3,High,36-50,1
+CUST10293,Customer 293,21,Narcos,TV Show,Action,Spain,Basic,Laptop,Credit Card,Cancelled,2025-10-04,2026-08-03,27.3,149,14,96,3.9,13,14,1937,54.3,Medium,18-25,0
+CUST10212,Customer 212,23,The Witcher,TV Show,Drama,Spain,Standard,Tablet,Net Banking,Active,2025-08-13,2026-02-23,70.4,499,26,37,4.1,27,25,13473,122.4,High,18-25,1
+CUST10362,Customer 362,27,Black Mirror,Movie,Thriller,United Kingdom,Premium,Smart TV,UPI,Active,2025-05-06,2026-04-18,80.3,649,4,7,3.4,6,22,3894,108.3,High,26-35,1
+CUST10452,Customer 452,21,Lucifer,Movie,Sci-Fi,Australia,Basic,Tablet,Net Banking,Active,2025-07-19,2025-11-05,65.9,149,8,63,4.0,21,7,3129,93.9,High,18-25,1
+CUST10228,Customer 228,20,Narcos,TV Show,Action,United States,Premium,Tablet,Debit Card,Active,2025-05-20,2025-07-10,15.1,649,20,33,4.6,7,0,4543,22.1,Low,18-25,1
+CUST10051,Customer 51,51,Cobra Kai,TV Show,Comedy,South Korea,Premium,Laptop,Credit Card,Active,2025-04-22,2026-02-26,50.1,649,1,90,3.8,10,1,6490,61.1,High,51+,1
+CUST10363,Customer 363,26,The Queen's Gambit,Movie,Romance,Canada,Premium,Laptop,PayPal,Cancelled,2022-08-08,2022-08-30,39.3,649,25,45,4.3,10,1,6490,50.3,Medium,26-35,0
+CUST10801,Customer 801,30,Narcos,TV Show,Sci-Fi,Germany,Premium,Laptop,Credit Card,Active,2025-02-13,2025-07-29,65.5,649,28,104,3.8,27,6,17523,98.5,High,26-35,1
+CUST10658,Customer 658,65,Wednesday,TV Show,Action,Japan,Premium,Smart TV,Net Banking,Cancelled,2023-01-21,2023-12-06,41.4,649,4,75,3.8,29,12,18821,82.4,Medium,51+,0
+CUST10708,Customer 708,35,Dark,Movie,Drama,United States,Basic,Gaming Console,Debit Card,Cancelled,2022-06-21,2022-09-17,85.9,149,13,17,3.7,20,14,2980,119.9,High,26-35,0
+CUST10645,Customer 645,43,Lupin,Movie,Horror,South Korea,Premium,Smart TV,Credit Card,Cancelled,2024-02-27,2024-11-12,35.9,649,20,64,4.9,23,12,14927,70.9,Medium,36-50,0
+CUST10582,Customer 582,52,The Umbrella Academy,TV Show,Drama,India,Basic,Smart TV,Net Banking,Active,2023-05-18,2023-11-06,31.6,149,1,7,4.8,17,8,2533,56.6,Medium,51+,1
+CUST10937,Customer 937,47,Black Mirror,TV Show,Thriller,Spain,Standard,Laptop,Net Banking,Cancelled,2023-04-12,2023-05-06,16.5,499,9,15,4.1,15,12,7485,43.5,Low,36-50,0
+CUST10371,Customer 371,47,The Umbrella Academy,Movie,Action,United Kingdom,Standard,Gaming Console,PayPal,Active,2025-10-13,2027-08-18,42.6,499,11,68,5.0,16,11,7984,69.6,Medium,36-50,1
+CUST10008,Customer 8,32,Dark,TV Show,Comedy,India,Standard,Mobile,Credit Card,Active,2024-01-12,2025-12-09,61.2,499,28,76,2.7,14,19,6986,94.2,High,26-35,1
+CUST10156,Customer 156,26,Sex Education,TV Show,Sci-Fi,Australia,Basic,Mobile,Net Banking,Active,2024-07-17,2025-05-29,24.1,149,2,50,3.1,2,23,298,49.1,Medium,26-35,1
+CUST10544,Customer 544,27,Dark,TV Show,Thriller,Canada,Standard,Smart TV,Debit Card,Active,2023-09-08,2025-03-26,78.0,499,5,117,2.6,5,16,2495,99.0,High,26-35,1
+CUST10821,Customer 821,48,Peaky Blinders,Movie,Documentary,India,Basic,Gaming Console,UPI,Active,2024-01-05,2025-09-21,29.1,149,21,8,3.6,10,24,1490,63.1,Medium,36-50,1
+CUST10399,Customer 399,28,Squid Game,Movie,Action,United Kingdom,Standard,Tablet,UPI,Active,2022-03-31,2023-02-11,39.1,499,29,36,4.1,5,4,2495,48.1,Medium,26-35,1
+CUST10960,Customer 960,21,Peaky Blinders,TV Show,Horror,South Korea,Premium,Gaming Console,Credit Card,Active,2024-12-11,2025-03-24,53.2,649,11,81,4.1,21,7,13629,81.2,High,18-25,1
+CUST10592,Customer 592,43,Narcos,TV Show,Comedy,Australia,Standard,Mobile,Credit Card,Paused,2022-01-11,2023-03-21,30.1,499,5,117,3.1,7,10,3493,47.1,Medium,36-50,0
+CUST10581,Customer 581,59,Dark,TV Show,Animation,France,Basic,Smart TV,UPI,Cancelled,2025-02-10,2026-07-08,50.5,149,14,100,4.9,13,17,1937,80.5,High,51+,0
+CUST10939,Customer 939,54,The Crown,Movie,Horror,United Kingdom,Basic,Gaming Console,UPI,Active,2022-06-04,2023-09-27,48.1,149,13,96,2.7,23,13,3427,84.1,Medium,51+,1
+CUST10696,Customer 696,51,Cobra Kai,TV Show,Thriller,Spain,Premium,Tablet,Net Banking,Active,2025-04-21,2025-08-08,34.3,649,9,80,4.4,5,1,3245,40.3,Medium,51+,1
+CUST10867,Customer 867,45,The Queen's Gambit,TV Show,Crime,Canada,Premium,Mobile,Credit Card,Active,2024-06-19,2025-07-11,49.1,649,25,90,3.7,11,16,7139,76.1,Medium,36-50,1
+CUST10533,Customer 533,63,Sex Education,TV Show,Action,Spain,Basic,Mobile,Debit Card,Active,2023-10-12,2024-02-20,40.3,149,32,111,4.9,10,23,1490,73.3,Medium,51+,1
+CUST10586,Customer 586,52,The Crown,Movie,Horror,India,Standard,Smart TV,UPI,Active,2024-03-15,2025-04-05,48.2,499,23,49,2.9,26,25,12974,99.2,Medium,51+,1
+CUST10712,Customer 712,29,The Umbrella Academy,TV Show,Animation,United Kingdom,Premium,Smart TV,Credit Card,Cancelled,2022-11-06,2023-09-11,39.6,649,19,44,4.7,10,15,6490,64.6,Medium,26-35,0
+CUST10451,Customer 451,32,The Crown,Movie,Action,Germany,Basic,Mobile,PayPal,Paused,2025-04-01,2026-12-26,40.4,149,3,31,4.3,6,0,894,46.4,Medium,26-35,0
+CUST10856,Customer 856,59,Lucifer,TV Show,Action,United States,Premium,Mobile,Net Banking,Active,2022-08-12,2023-12-27,27.7,649,16,10,2.9,21,15,13629,63.7,Medium,51+,1
+CUST10229,Customer 229,53,Peaky Blinders,Movie,Comedy,Germany,Standard,Mobile,Credit Card,Active,2024-07-15,2024-09-17,24.1,499,15,16,3.0,14,11,6986,49.1,Medium,51+,1
+CUST10591,Customer 591,61,Sex Education,TV Show,Sci-Fi,Japan,Standard,Gaming Console,UPI,Cancelled,2022-09-07,2023-04-25,43.8,499,4,35,4.8,19,14,9481,76.8,Medium,51+,0
+CUST10733,Customer 733,47,Peaky Blinders,TV Show,Comedy,United States,Standard,Tablet,UPI,Paused,2024-08-12,2025-09-23,52.2,499,28,25,3.5,4,10,1996,66.2,High,36-50,0
+CUST10213,Customer 213,42,Wednesday,Movie,Sci-Fi,Australia,Basic,Mobile,Net Banking,Cancelled,2024-10-10,2024-10-23,65.9,149,24,119,3.3,14,18,2086,97.9,High,36-50,0
+CUST10149,Customer 149,37,Lupin,Movie,Romance,Spain,Basic,Smart TV,Net Banking,Active,2022-01-19,2022-06-06,55.0,149,33,59,3.2,27,3,4023,85.0,High,36-50,1
+CUST10303,Customer 303,21,Bridgerton,TV Show,Horror,United States,Basic,Gaming Console,Credit Card,Paused,2022-05-31,2023-07-23,60.7,149,25,57,4.1,15,10,2235,85.7,High,18-25,0
+CUST10916,Customer 916,54,You,Movie,Action,United Kingdom,Premium,Gaming Console,Debit Card,Active,2023-06-13,2024-06-27,49.0,649,24,91,3.2,24,5,15576,78.0,Medium,51+,1
+CUST10329,Customer 329,48,Cobra Kai,TV Show,Comedy,United States,Basic,Laptop,Credit Card,Active,2022-10-25,2024-07-10,57.6,149,3,92,3.5,14,19,2086,90.6,High,36-50,1
+CUST10928,Customer 928,58,Peaky Blinders,Movie,Thriller,United States,Standard,Tablet,Credit Card,Active,2023-12-03,2024-10-11,51.4,499,21,98,3.8,5,21,2495,77.4,High,51+,1
+CUST10345,Customer 345,19,The Umbrella Academy,Movie,Romance,Australia,Standard,Tablet,Net Banking,Active,2023-12-06,2025-10-01,30.2,499,35,22,4.9,11,11,5489,52.2,Medium,18-25,1
+CUST10546,Customer 546,20,The Crown,TV Show,Crime,Japan,Basic,Gaming Console,PayPal,Cancelled,2024-03-15,2025-06-19,22.1,149,17,43,4.9,29,25,4321,76.1,Medium,18-25,0
+CUST10507,Customer 507,65,Lupin,Movie,Romance,France,Standard,Mobile,PayPal,Active,2023-12-16,2024-12-16,27.2,499,27,44,2.6,9,7,4491,43.2,Medium,51+,1
+CUST10134,Customer 134,50,Elite,TV Show,Crime,Germany,Basic,Mobile,UPI,Paused,2024-10-17,2026-03-19,53.8,149,30,30,3.0,13,1,1937,67.8,High,36-50,0
+CUST10553,Customer 553,57,Black Mirror,TV Show,Documentary,India,Basic,Tablet,Debit Card,Cancelled,2024-10-10,2026-02-03,71.2,149,23,56,3.1,9,18,1341,98.2,High,51+,0
+CUST10312,Customer 312,64,The Crown,Movie,Horror,India,Premium,Gaming Console,Net Banking,Active,2022-06-06,2024-02-01,69.5,649,14,116,2.6,10,17,6490,96.5,High,51+,1
+CUST10999,Customer 999,62,Elite,Movie,Thriller,United States,Standard,Mobile,UPI,Active,2022-03-27,2023-08-10,27.7,499,5,23,3.8,7,23,3493,57.7,Medium,51+,1
+CUST10568,Customer 568,41,Elite,Movie,Unknown,France,Premium,Smart TV,UPI,Active,2023-01-30,2024-04-10,16.8,649,9,60,3.0,4,11,2596,31.8,Low,36-50,1
+CUST10001,Customer 1,19,You,Movie,Thriller,United Kingdom,Premium,Mobile,Net Banking,Active,2022-08-17,2023-10-24,54.4,649,3,3,2.7,9,16,5841,79.4,High,18-25,1
+CUST10317,Customer 317,42,The Witcher,TV Show,Romance,Japan,Premium,Smart TV,PayPal,Cancelled,2023-05-31,2023-06-07,59.0,649,33,112,2.8,7,7,4543,73.0,High,36-50,0
+CUST10711,Customer 711,49,Bridgerton,Movie,Thriller,United States,Premium,Laptop,Debit Card,Active,2022-08-19,2023-07-27,47.3,649,8,46,4.8,4,1,2596,52.3,Medium,36-50,1
+CUST10550,Customer 550,45,Stranger Things,Movie,Action,United Kingdom,Basic,Smart TV,PayPal,Active,2024-08-28,2025-12-02,26.9,149,16,25,3.2,28,12,4172,66.9,Medium,36-50,1
+CUST10618,Customer 618,28,Wednesday,Movie,Drama,Australia,Standard,Smart TV,UPI,Active,2022-07-10,2022-09-20,60.1,499,25,36,3.0,11,21,5489,92.1,High,26-35,1
+CUST10535,Customer 535,30,Dark,Movie,Thriller,United Kingdom,Standard,Mobile,PayPal,Active,2022-04-19,2023-08-11,25.7,499,28,14,5.0,17,1,8483,43.7,Medium,26-35,1
+CUST10480,Customer 480,35,Narcos,Movie,Comedy,Canada,Premium,Smart TV,UPI,Paused,2023-03-31,2024-05-08,70.0,649,13,62,3.3,21,16,13629,107.0,High,26-35,0
+CUST10778,Customer 778,52,You,TV Show,Crime,Japan,Standard,Smart TV,UPI,Cancelled,2023-12-20,2024-10-24,35.8,499,22,114,3.8,23,19,11477,77.8,Medium,51+,0
+CUST10173,Customer 173,29,Wednesday,Movie,Horror,United Kingdom,Premium,Tablet,Credit Card,Active,2024-05-31,2025-02-14,40.1,649,23,34,4.5,4,11,2596,55.1,Medium,26-35,1
+CUST10126,Customer 126,33,The Queen's Gambit,Movie,Romance,Canada,Basic,Gaming Console,Debit Card,Active,2022-10-12,2024-04-29,96.8,149,9,78,4.7,4,9,596,109.8,High,26-35,1
+CUST10425,Customer 425,30,Narcos,TV Show,Crime,Australia,Premium,Laptop,PayPal,Cancelled,2024-07-04,2025-06-22,58.1,649,6,74,2.5,18,12,11682,88.1,High,26-35,0
+CUST10423,Customer 423,49,Wednesday,TV Show,Romance,Canada,Premium,Mobile,PayPal,Active,2025-03-21,2026-05-11,35.8,649,5,76,2.8,28,19,18172,82.8,Medium,36-50,1
+CUST10555,Customer 555,29,Narcos,Movie,Animation,Germany,Standard,Mobile,PayPal,Paused,2022-09-22,2024-02-10,50.4,499,20,30,3.0,3,0,1497,53.4,High,26-35,0
+CUST10908,Customer 908,39,Elite,Movie,Comedy,France,Basic,Gaming Console,PayPal,Paused,2024-12-26,2026-02-20,60.7,149,13,81,2.6,9,4,1341,73.7,High,36-50,0
+CUST10091,Customer 91,29,You,TV Show,Romance,Japan,Standard,Mobile,Credit Card,Cancelled,2022-03-01,2023-10-02,44.4,499,26,8,2.9,22,0,10978,66.4,Medium,26-35,0
+CUST10944,Customer 944,26,Elite,Movie,Documentary,India,Standard,Smart TV,Credit Card,Active,2022-02-25,2023-05-29,39.5,499,29,51,3.0,26,12,12974,77.5,Medium,26-35,1
+CUST10182,Customer 182,35,Lucifer,TV Show,Sci-Fi,United Kingdom,Basic,Mobile,Credit Card,Active,2022-10-12,2023-12-18,20.6,149,20,61,4.5,13,8,1937,41.6,Medium,26-35,1
+CUST10275,Customer 275,36,Wednesday,Movie,Sci-Fi,South Korea,Premium,Gaming Console,Credit Card,Cancelled,2022-08-30,2024-02-17,17.5,649,13,45,4.3,11,5,7139,33.5,Low,36-50,0
+CUST10900,Customer 900,20,Cobra Kai,TV Show,Action,Spain,Premium,Laptop,UPI,Active,2025-10-07,2025-10-27,21.6,649,27,84,2.8,10,14,6490,45.6,Medium,18-25,1
+CUST10070,Customer 70,28,Bridgerton,Movie,Animation,France,Premium,Gaming Console,Credit Card,Active,2023-01-04,2024-08-24,25.9,649,10,29,3.7,10,14,6490,49.9,Medium,26-35,1
+CUST10132,Customer 132,56,Dark,TV Show,Romance,Japan,Basic,Smart TV,Credit Card,Cancelled,2023-11-28,2025-05-09,43.7,149,7,40,3.1,5,8,745,56.7,Medium,51+,0
+CUST10301,Customer 301,46,The Queen's Gambit,Movie,Crime,South Korea,Premium,Laptop,Net Banking,Active,2024-11-07,2025-02-14,21.3,649,11,98,3.8,2,20,1298,43.3,Medium,36-50,1
+CUST10584,Customer 584,35,The Umbrella Academy,Movie,Animation,Canada,Basic,Laptop,Debit Card,Active,2025-02-13,2026-05-23,98.8,149,18,31,4.2,12,10,1788,120.8,High,26-35,1
+CUST10327,Customer 327,53,Peaky Blinders,TV Show,Action,Japan,Basic,Gaming Console,Unknown,Active,2024-04-26,2025-03-07,71.0,149,23,99,4.3,25,4,3725,100.0,High,51+,1
+CUST10145,Customer 145,20,Lucifer,Movie,Romance,Germany,Basic,Laptop,PayPal,Active,2023-08-18,2025-02-20,48.5,149,18,119,3.9,10,4,1490,62.5,Medium,18-25,1
+CUST10426,Customer 426,21,Black Mirror,Movie,Drama,Canada,Basic,Laptop,UPI,Cancelled,2023-08-26,2023-09-27,76.2,149,16,55,4.3,14,20,2086,110.2,High,18-25,0
+CUST10585,Customer 585,56,Squid Game,Movie,Action,India,Basic,Gaming Console,PayPal,Active,2024-07-30,2024-08-09,46.5,149,12,52,3.9,24,22,3576,92.5,Medium,51+,1
+CUST10136,Customer 136,53,Narcos,TV Show,Horror,Spain,Basic,Mobile,PayPal,Active,2025-03-13,2026-09-28,80.7,149,18,105,5.0,23,19,3427,122.7,High,51+,1
+CUST10667,Customer 667,19,Lupin,TV Show,Crime,United States,Premium,Gaming Console,Credit Card,Active,2023-04-06,2025-01-26,35.6,649,28,38,3.9,5,10,3245,50.6,Medium,18-25,1
+CUST10165,Customer 165,23,Elite,TV Show,Comedy,Canada,Standard,Tablet,UPI,Active,2025-08-17,2027-07-08,66.1,499,3,111,2.7,27,24,13473,117.1,High,18-25,1
+CUST10029,Customer 29,25,You,Movie,Animation,Spain,Standard,Mobile,UPI,Active,2022-02-26,2023-02-15,27.0,499,21,55,4.0,18,3,8982,48.0,Medium,18-25,1
+CUST10935,Customer 935,38,The Umbrella Academy,Movie,Action,Australia,Premium,Laptop,Net Banking,Active,2022-06-01,2022-08-31,53.0,649,29,31,3.3,19,24,12331,96.0,High,36-50,1
+CUST10194,Customer 194,54,Wednesday,Movie,Romance,Japan,Premium,Unknown,PayPal,Active,2022-05-09,2024-03-26,10.9,649,32,67,4.9,12,19,7788,41.9,Low,51+,1
+CUST10995,Customer 995,65,Sex Education,Movie,Horror,Japan,Premium,Mobile,Credit Card,Active,2024-06-07,2024-12-15,17.0,649,15,91,3.3,24,6,15576,47.0,Low,51+,1
+CUST10750,Customer 750,21,You,Movie,Action,India,Standard,Gaming Console,UPI,Active,2025-09-12,2027-05-16,6.8,499,8,13,2.9,10,5,4990,21.8,Low,18-25,1
+CUST10170,Customer 170,47,Bridgerton,TV Show,Action,United Kingdom,Premium,Gaming Console,PayPal,Active,2024-10-01,2026-04-10,23.2,649,4,67,2.6,29,2,18821,54.2,Medium,36-50,1
+CUST10491,Customer 491,40,Lucifer,TV Show,Action,Germany,Basic,Gaming Console,Net Banking,Cancelled,2024-09-09,2025-08-26,41.8,149,12,90,3.3,25,3,3725,69.8,Medium,36-50,0
+CUST10141,Customer 141,61,The Witcher,Movie,Animation,United States,Standard,Tablet,UPI,Active,2022-10-30,2024-01-02,47.7,499,10,52,4.2,15,16,7485,78.7,Medium,51+,1
+CUST10174,Customer 174,54,The Witcher,Movie,Crime,United States,Standard,Mobile,UPI,Active,2024-07-29,2025-08-20,50.5,499,31,7,4.1,24,5,11976,79.5,High,51+,1
+CUST10007,Customer 7,31,The Queen's Gambit,TV Show,Sci-Fi,United Kingdom,Premium,Laptop,Credit Card,Active,2023-10-07,2025-05-04,81.5,649,35,33,4.4,15,18,9735,114.5,High,26-35,1
+CUST10803,Customer 803,51,The Queen's Gambit,Movie,Thriller,Australia,Premium,Smart TV,Net Banking,Active,2025-08-08,2027-05-04,44.4,649,9,102,2.7,15,20,9735,79.4,Medium,51+,1
+CUST10636,Customer 636,44,Lucifer,Movie,Thriller,Japan,Basic,Laptop,Credit Card,Active,2024-12-02,2025-01-27,0.6,149,16,102,4.2,25,7,3725,32.6,Low,36-50,1
+CUST10688,Customer 688,36,Money Heist,Movie,Documentary,France,Basic,Laptop,UPI,Active,2023-01-24,2023-08-16,32.6,149,31,85,5.0,5,13,745,50.6,Medium,36-50,1
+CUST10981,Customer 981,53,Money Heist,TV Show,Sci-Fi,United Kingdom,Premium,Mobile,Debit Card,Active,2024-07-07,2025-04-16,61.6,649,17,114,4.3,24,19,15576,104.6,High,51+,1
+CUST10239,Customer 239,40,The Witcher,Movie,Documentary,Spain,Premium,Laptop,Credit Card,Active,2025-06-10,2025-06-12,25.5,649,26,108,5.0,20,1,12980,46.5,Medium,36-50,1
+CUST10146,Customer 146,65,Lupin,Movie,Thriller,India,Basic,Gaming Console,Credit Card,Active,2025-06-14,2025-08-07,61.5,149,7,52,3.3,17,3,2533,81.5,High,51+,1
+CUST10797,Customer 797,64,Lupin,TV Show,Sci-Fi,United Kingdom,Standard,Laptop,Debit Card,Paused,2025-09-05,2025-11-14,41.0,499,31,48,4.9,21,21,10479,83.0,Medium,51+,0
+CUST10235,Customer 235,32,Lupin,TV Show,Romance,United Kingdom,Premium,Tablet,Credit Card,Active,2022-04-25,2023-04-28,95.6,649,2,90,4.3,20,18,12980,133.6,High,26-35,1
+CUST10221,Customer 221,25,Sex Education,Movie,Action,South Korea,Premium,Gaming Console,UPI,Paused,2024-02-03,2024-04-14,99.9,649,30,110,3.2,29,9,18821,137.9,High,18-25,0
+CUST10478,Customer 478,50,Squid Game,TV Show,Sci-Fi,Spain,Premium,Gaming Console,Credit Card,Cancelled,2025-01-23,2026-04-21,49.8,649,22,88,2.8,17,1,11033,67.8,Medium,36-50,0
+CUST10837,Customer 837,51,You,TV Show,Comedy,Japan,Basic,Laptop,Credit Card,Active,2024-05-31,2025-03-08,80.8,149,32,56,3.1,7,9,1043,96.8,High,51+,1
+CUST10133,Customer 133,27,Wednesday,Movie,Crime,France,Standard,Gaming Console,PayPal,Active,2023-05-23,2023-11-03,15.4,499,21,119,3.9,12,6,5988,33.4,Low,26-35,1
+CUST10996,Customer 996,54,Cobra Kai,Movie,Drama,France,Standard,Tablet,UPI,Paused,2023-02-28,2023-03-05,35.0,499,16,84,4.5,28,10,13972,73.0,Medium,51+,0
+CUST10842,Customer 842,30,Peaky Blinders,Movie,Drama,South Korea,Premium,Tablet,Net Banking,Active,2023-10-13,2024-05-26,58.9,649,13,33,3.7,17,5,11033,80.9,High,26-35,1
+CUST10186,Customer 186,63,Narcos,TV Show,Crime,United States,Premium,Smart TV,PayPal,Active,2024-08-03,2025-06-10,59.9,649,16,32,4.1,24,13,15576,96.9,High,51+,1
+CUST10042,Customer 42,19,Peaky Blinders,Movie,Romance,South Korea,Basic,Mobile,UPI,Cancelled,2024-08-21,2025-05-02,46.3,149,13,107,2.6,6,7,894,59.3,Medium,18-25,0
+CUST10109,Customer 109,41,Lupin,TV Show,Sci-Fi,Spain,Standard,Smart TV,Net Banking,Active,2023-02-02,2023-07-18,48.4,499,13,102,4.0,29,8,14471,85.4,Medium,36-50,1
+CUST10870,Customer 870,41,Sex Education,Movie,Drama,Australia,Basic,Laptop,Debit Card,Active,2024-06-24,2025-07-07,92.3,149,17,64,4.8,21,8,3129,121.3,High,36-50,1
+CUST10057,Customer 57,22,Money Heist,Movie,Crime,Australia,Standard,Gaming Console,Debit Card,Active,2022-10-19,2024-02-11,21.0,499,20,89,3.5,10,16,4990,47.0,Medium,18-25,1
+CUST10531,Customer 531,22,Wednesday,Movie,Drama,Japan,Premium,Tablet,PayPal,Paused,2023-06-09,2025-02-19,58.0,649,3,0,3.1,21,12,13629,91.0,High,18-25,0
+CUST10871,Customer 871,35,The Queen's Gambit,TV Show,Drama,Spain,Basic,Laptop,UPI,Paused,2025-08-18,2025-09-19,37.6,149,31,77,4.1,17,5,2533,59.6,Medium,26-35,0
+CUST10604,Customer 604,39,Peaky Blinders,Movie,Action,South Korea,Premium,Mobile,Credit Card,Cancelled,2022-12-23,2023-04-06,75.9,649,2,106,4.2,14,20,9086,109.9,High,36-50,0
+CUST10865,Customer 865,29,You,Movie,Action,Canada,Basic,Gaming Console,PayPal,Active,2023-07-28,2025-03-26,26.7,149,18,103,4.3,21,21,3129,68.7,Medium,26-35,1
+CUST10025,Customer 25,18,Wednesday,Movie,Action,Canada,Standard,Mobile,Debit Card,Active,2025-02-22,2025-07-24,28.4,499,28,16,2.6,13,25,6487,66.4,Medium,18-25,1
+CUST10651,Customer 651,61,Squid Game,TV Show,Thriller,Japan,Standard,Smart TV,PayPal,Active,2024-01-30,2025-01-29,88.2,499,22,103,2.8,16,22,7984,126.2,High,51+,1
+CUST10449,Customer 449,26,Money Heist,Movie,Drama,Australia,Premium,Tablet,PayPal,Active,2023-01-24,2024-07-31,29.2,649,20,63,3.8,28,25,18172,82.2,Medium,26-35,1
+CUST10534,Customer 534,36,You,TV Show,Horror,Japan,Standard,Smart TV,Credit Card,Active,2024-05-30,2025-10-16,11.7,499,10,71,4.6,23,20,11477,54.7,Low,36-50,1
+CUST10623,Customer 623,42,Bridgerton,Movie,Documentary,India,Standard,Tablet,Credit Card,Active,2024-07-26,2026-05-01,89.1,499,35,37,4.2,4,22,1996,115.1,High,36-50,1
+CUST10753,Customer 753,28,Sex Education,TV Show,Comedy,South Korea,Premium,Gaming Console,UPI,Active,2022-01-11,2023-06-26,17.6,649,33,97,2.9,29,11,18821,57.6,Low,26-35,1
+CUST10931,Customer 931,43,The Umbrella Academy,Movie,Documentary,India,Standard,Smart TV,Debit Card,Active,2025-02-27,2025-07-21,28.1,499,30,98,3.2,28,22,13972,78.1,Medium,36-50,1
+CUST10339,Customer 339,32,Lupin,Movie,Drama,Canada,Standard,Smart TV,PayPal,Paused,2024-03-25,2024-04-28,52.3,499,33,44,3.5,23,24,11477,99.3,High,26-35,0
+CUST10052,Customer 52,36,Dark,TV Show,Comedy,India,Basic,Gaming Console,Debit Card,Active,2025-02-07,2026-05-05,32.4,149,22,23,4.9,10,15,1490,57.4,Medium,36-50,1
+CUST10668,Customer 668,29,Ozark,Movie,Documentary,Canada,Basic,Gaming Console,Net Banking,Active,2025-01-05,2026-06-21,79.6,149,35,91,4.5,22,3,3278,104.6,High,26-35,1
+CUST10519,Customer 519,65,Ozark,Movie,Documentary,South Korea,Standard,Tablet,UPI,Active,2025-04-11,2026-01-18,44.5,499,29,52,3.1,20,1,9980,65.5,Medium,51+,1
+CUST10925,Customer 925,55,The Umbrella Academy,Movie,Sci-Fi,South Korea,Premium,Gaming Console,Net Banking,Cancelled,2022-01-20,2022-01-21,71.9,649,17,96,3.5,10,15,6490,96.9,High,51+,0
+CUST10637,Customer 637,51,Squid Game,Movie,Sci-Fi,India,Premium,Mobile,PayPal,Active,2024-02-21,2024-09-06,62.6,649,4,81,5.0,8,4,5192,74.6,High,51+,1
+CUST10265,Customer 265,36,Wednesday,TV Show,Action,Spain,Premium,Gaming Console,Credit Card,Paused,2023-01-06,2023-12-16,35.7,649,6,28,3.4,25,9,16225,69.7,Medium,36-50,0
+CUST10540,Customer 540,21,The Crown,TV Show,Comedy,France,Standard,Laptop,Credit Card,Active,2023-10-24,2024-12-06,27.6,499,6,2,4.6,7,12,3493,46.6,Medium,18-25,1
+CUST10715,Customer 715,53,The Queen's Gambit,TV Show,Horror,Canada,Standard,Tablet,PayPal,Active,2024-05-07,2025-07-13,41.1,499,34,73,4.4,27,23,13473,91.1,Medium,51+,1
+CUST10957,Customer 957,29,You,TV Show,Sci-Fi,Canada,Standard,Smart TV,UPI,Active,2023-11-22,2024-11-07,50.6,499,34,33,2.7,13,13,6487,76.6,High,26-35,1
+CUST10951,Customer 951,24,Stranger Things,TV Show,Thriller,United States,Basic,Smart TV,UPI,Active,2022-11-20,2024-03-22,36.0,149,30,53,4.6,19,14,2831,69.0,Medium,18-25,1
+CUST10878,Customer 878,35,Narcos,Movie,Crime,Spain,Basic,Smart TV,Debit Card,Active,2023-01-21,2024-01-20,47.6,149,24,44,4.4,18,14,2682,79.6,Medium,26-35,1
+CUST10450,Customer 450,20,Squid Game,Movie,Romance,India,Standard,Smart TV,UPI,Active,2022-02-03,2023-12-05,15.5,499,34,58,4.9,29,17,14471,61.5,Low,18-25,1
+CUST10019,Customer 19,50,Sex Education,Movie,Drama,Canada,Premium,Mobile,Credit Card,Active,2024-09-03,2024-11-12,19.3,649,16,51,2.8,30,18,19470,67.3,Low,36-50,1
+CUST10896,Customer 896,20,Cobra Kai,Movie,Romance,India,Standard,Gaming Console,PayPal,Active,2025-07-26,2025-10-21,58.2,499,35,12,2.8,6,20,2994,84.2,High,18-25,1
+CUST10486,Customer 486,65,Black Mirror,TV Show,Animation,France,Basic,Laptop,PayPal,Paused,2025-05-11,2025-09-11,6.4,149,24,65,4.3,2,8,298,16.4,Low,51+,0
+CUST10571,Customer 571,41,Lupin,TV Show,Drama,Canada,Basic,Tablet,UPI,Active,2022-09-05,2023-09-24,42.5,149,20,37,3.7,27,4,4023,73.5,Medium,36-50,1
+CUST10101,Customer 101,37,Elite,TV Show,Drama,India,Premium,Laptop,Debit Card,Active,2022-06-01,2022-09-02,6.6,649,33,49,3.7,19,25,12331,50.6,Low,36-50,1
+CUST10368,Customer 368,51,Cobra Kai,TV Show,Drama,Japan,Premium,Tablet,Net Banking,Cancelled,2024-09-30,2024-10-14,42.3,649,14,83,3.7,30,2,19470,74.3,Medium,51+,0
+CUST10084,Customer 84,55,Wednesday,TV Show,Horror,South Korea,Standard,Gaming Console,UPI,Cancelled,2024-11-17,2026-09-23,29.0,499,34,38,3.6,2,1,998,32.0,Medium,51+,0
+CUST10062,Customer 62,46,The Queen's Gambit,Movie,Drama,Australia,Basic,Tablet,Credit Card,Active,2023-08-13,2023-08-28,37.4,149,27,11,3.1,28,3,4172,68.4,Medium,36-50,1
+CUST10440,Customer 440,30,Sex Education,TV Show,Action,Japan,Premium,Gaming Console,UPI,Active,2025-04-20,2025-06-29,40.6,649,1,52,2.7,5,21,3245,66.6,Medium,26-35,1
+CUST10273,Customer 273,21,Cobra Kai,Movie,Comedy,India,Premium,Mobile,UPI,Active,2025-06-30,2026-07-25,71.1,649,8,70,3.1,24,4,15576,99.1,High,18-25,1
+CUST10361,Customer 361,33,The Umbrella Academy,TV Show,Drama,United Kingdom,Basic,Laptop,Net Banking,Active,2022-08-20,2023-04-26,55.0,149,1,5,4.0,24,15,3576,94.0,High,26-35,1
+CUST10355,Customer 355,33,Sex Education,TV Show,Crime,Canada,Standard,Laptop,PayPal,Active,2025-07-04,2025-09-13,41.5,499,12,17,3.2,22,14,10978,77.5,Medium,26-35,1
+CUST10279,Customer 279,43,Ozark,TV Show,Crime,France,Basic,Smart TV,PayPal,Active,2022-08-22,2023-02-09,43.7,149,8,16,4.2,3,5,447,51.7,Medium,36-50,1
+CUST10013,Customer 13,51,Elite,Movie,Thriller,South Korea,Standard,Mobile,Debit Card,Active,2024-06-16,2026-01-05,48.0,499,15,75,3.1,4,22,1996,74.0,Medium,51+,1
+CUST10183,Customer 183,49,Cobra Kai,Movie,Sci-Fi,United States,Basic,Tablet,Debit Card,Active,2025-07-04,2026-08-14,15.2,149,22,107,4.1,27,10,4023,52.2,Low,36-50,1
+CUST10369,Customer 369,21,Black Mirror,TV Show,Romance,India,Standard,Gaming Console,Debit Card,Active,2025-08-01,2025-10-13,44.4,499,20,9,4.9,18,3,8982,65.4,Medium,18-25,1
+CUST10495,Customer 495,33,Sex Education,Movie,Comedy,Australia,Premium,Mobile,Net Banking,Active,2025-06-09,2025-12-23,80.1,649,19,21,4.8,19,0,12331,99.1,High,26-35,1
+CUST10800,Customer 800,25,Money Heist,Movie,Sci-Fi,Japan,Premium,Gaming Console,UPI,Paused,2023-05-28,2024-04-21,42.7,649,7,89,3.6,6,20,3894,68.7,Medium,18-25,0
+CUST10224,Customer 224,24,Narcos,Movie,Documentary,Germany,Premium,Mobile,Credit Card,Cancelled,2023-09-22,2023-12-27,1.7,649,3,117,3.1,29,16,18821,46.7,Low,18-25,0
+CUST10704,Customer 704,52,Lupin,Movie,Documentary,Spain,Standard,Gaming Console,Net Banking,Active,2022-02-02,2023-05-01,6.8,499,15,41,3.2,20,20,9980,46.8,Low,51+,1
+CUST10588,Customer 588,32,The Queen's Gambit,TV Show,Drama,Spain,Standard,Smart TV,Net Banking,Active,2023-03-29,2023-10-16,20.8,499,26,14,4.7,20,16,9980,56.8,Medium,26-35,1
+CUST10548,Customer 548,65,Cobra Kai,TV Show,Crime,Australia,Standard,Gaming Console,Unknown,Active,2025-09-09,2027-08-02,36.9,499,26,102,3.3,6,4,2994,46.9,Medium,51+,1
+CUST10676,Customer 676,18,Wednesday,TV Show,Thriller,France,Basic,Mobile,UPI,Active,2023-07-15,2024-05-24,22.6,149,32,12,3.8,24,18,3576,64.6,Medium,18-25,1
+CUST10756,Customer 756,31,The Queen's Gambit,TV Show,Sci-Fi,France,Standard,Gaming Console,Debit Card,Cancelled,2022-12-06,2024-09-04,107.8,499,7,77,3.5,8,18,3992,133.8,Very High,26-35,0
+CUST10177,Customer 177,52,Squid Game,TV Show,Action,United States,Standard,Gaming Console,Debit Card,Active,2025-10-18,2027-01-09,42.3,499,15,107,2.7,21,24,10479,87.3,Medium,51+,1
+CUST10670,Customer 670,25,Sex Education,TV Show,Romance,Canada,Basic,Tablet,PayPal,Paused,2022-06-23,2024-04-27,69.3,149,1,31,3.3,18,25,2682,112.3,High,18-25,0
+CUST10632,Customer 632,22,Narcos,TV Show,Crime,Australia,Standard,Smart TV,UPI,Cancelled,2022-03-31,2023-11-04,80.2,499,11,32,4.9,21,10,10479,111.2,High,18-25,0
+CUST10590,Customer 590,19,Peaky Blinders,TV Show,Horror,Germany,Basic,Mobile,PayPal,Active,2025-10-20,2027-08-17,20.6,149,4,109,4.8,15,13,2235,48.6,Medium,18-25,1
+CUST10523,Customer 523,20,You,Movie,Sci-Fi,Germany,Premium,Smart TV,Debit Card,Cancelled,2024-04-12,2024-07-24,25.4,649,11,89,3.2,4,11,2596,40.4,Medium,18-25,0
+CUST10394,Customer 394,64,Squid Game,TV Show,Animation,Australia,Premium,Gaming Console,Net Banking,Active,2024-02-19,2024-03-30,87.8,649,34,13,3.6,28,1,18172,116.8,High,51+,1
+CUST10164,Customer 164,33,The Witcher,TV Show,Action,Germany,Premium,Mobile,Net Banking,Active,2024-08-27,2025-10-28,21.5,649,34,17,3.5,10,6,6490,37.5,Medium,26-35,1
+CUST10249,Customer 249,61,The Queen's Gambit,Movie,Sci-Fi,Spain,Standard,Mobile,PayPal,Paused,2025-01-01,2025-02-06,86.1,499,33,73,4.8,27,18,13473,131.1,High,51+,0
+CUST10639,Customer 639,37,Lucifer,TV Show,Thriller,Spain,Premium,Smart TV,UPI,Paused,2023-05-25,2024-05-28,9.8,649,26,48,2.9,16,13,10384,38.8,Low,36-50,0
+CUST10890,Customer 890,20,Narcos,TV Show,Documentary,United States,Standard,Laptop,PayPal,Active,2023-01-20,2024-03-31,69.7,499,10,36,3.3,23,15,11477,107.7,High,18-25,1
+CUST10674,Customer 674,64,You,Movie,Romance,Australia,Basic,Gaming Console,Net Banking,Active,2025-07-13,2025-12-18,32.7,149,21,100,3.6,2,19,298,53.7,Medium,51+,1
+CUST10376,Customer 376,23,Money Heist,TV Show,Romance,France,Premium,Smart TV,UPI,Cancelled,2024-02-21,2024-10-11,22.8,649,1,81,4.4,14,1,9086,37.8,Medium,18-25,0
+CUST10413,Customer 413,39,The Queen's Gambit,TV Show,Romance,United Kingdom,Basic,Mobile,Net Banking,Active,2023-01-25,2023-06-10,3.6,149,14,92,2.6,14,22,2086,39.6,Low,36-50,1
+CUST10114,Customer 114,56,Peaky Blinders,Movie,Horror,Australia,Basic,Tablet,Credit Card,Active,2024-10-20,2024-10-22,103.6,149,23,30,3.9,7,21,1043,131.6,Very High,51+,1
+CUST10573,Customer 573,54,Elite,TV Show,Documentary,Germany,Premium,Gaming Console,Credit Card,Cancelled,2023-09-27,2025-02-25,50.2,649,30,97,3.6,16,4,10384,70.2,High,51+,0
+CUST10644,Customer 644,41,Stranger Things,Movie,Crime,Australia,Standard,Smart TV,Credit Card,Active,2022-03-12,2023-11-19,4.4,499,11,1,2.8,4,20,1996,28.4,Low,36-50,1
+CUST10391,Customer 391,57,The Witcher,Movie,Thriller,India,Premium,Laptop,UPI,Active,2025-03-07,2026-07-09,19.5,649,9,64,4.6,17,22,11033,58.5,Low,51+,1
+CUST10105,Customer 105,55,Dark,TV Show,Crime,France,Standard,Tablet,Net Banking,Cancelled,2022-06-16,2022-09-11,38.0,499,20,71,3.4,27,10,13473,75.0,Medium,51+,0
+CUST10115,Customer 115,51,Black Mirror,Movie,Horror,Canada,Premium,Gaming Console,Net Banking,Active,2022-06-25,2023-07-30,37.2,649,31,5,4.1,13,8,8437,58.2,Medium,51+,1
+CUST10418,Customer 418,62,Elite,TV Show,Crime,Japan,Premium,Tablet,Net Banking,Active,2025-07-13,2026-11-02,44.9,649,9,11,4.5,24,14,15576,82.9,Medium,51+,1
+CUST10713,Customer 713,34,The Crown,Movie,Action,United Kingdom,Premium,Laptop,Credit Card,Active,2024-01-26,2025-05-30,28.4,649,5,14,3.9,25,8,16225,61.4,Medium,26-35,1
+CUST10458,Customer 458,47,Narcos,TV Show,Drama,South Korea,Premium,Mobile,Credit Card,Active,2023-03-26,2024-07-24,16.1,649,32,22,2.9,3,1,1947,20.1,Low,36-50,1
+CUST10410,Customer 410,64,Squid Game,Movie,Thriller,Australia,Standard,Laptop,Debit Card,Active,2025-03-03,2025-08-03,54.9,499,18,107,2.6,14,20,6986,88.9,High,51+,1
+CUST10093,Customer 93,61,The Crown,TV Show,Sci-Fi,France,Premium,Smart TV,Net Banking,Active,2022-04-12,2023-01-17,24.4,649,14,96,3.8,13,13,8437,50.4,Medium,51+,1
+CUST10954,Customer 954,29,Lucifer,TV Show,Sci-Fi,Australia,Basic,Gaming Console,Net Banking,Active,2023-05-29,2024-02-27,78.1,149,9,41,3.6,23,4,3427,105.1,High,26-35,1
+CUST10090,Customer 90,35,Lupin,Movie,Documentary,Canada,Standard,Gaming Console,Net Banking,Active,2022-08-24,2024-03-17,54.8,499,2,77,4.8,28,22,13972,104.8,High,26-35,1
+CUST10337,Customer 337,33,The Witcher,TV Show,Thriller,South Korea,Standard,Tablet,Credit Card,Cancelled,2023-02-13,2024-02-13,21.4,499,10,99,2.8,4,21,1996,46.4,Medium,26-35,0
+CUST10994,Customer 994,65,Lupin,Movie,Romance,India,Standard,Gaming Console,UPI,Active,2025-04-18,2026-02-23,25.0,499,25,24,3.4,19,1,9481,45.0,Medium,51+,1
+CUST10926,Customer 926,39,Sex Education,TV Show,Horror,Spain,Premium,Laptop,Debit Card,Cancelled,2022-12-28,2023-09-09,3.9,649,22,35,4.2,18,9,11682,30.9,Low,36-50,0
+CUST10938,Customer 938,51,Money Heist,TV Show,Drama,Australia,Standard,Smart TV,UPI,Paused,2022-04-09,2023-03-10,59.7,499,35,62,3.2,12,20,5988,91.7,High,51+,0
+CUST10901,Customer 901,38,Wednesday,Movie,Thriller,India,Premium,Laptop,Credit Card,Active,2025-07-24,2026-05-15,51.2,649,30,75,3.6,21,10,13629,82.2,High,36-50,1
+CUST10598,Customer 598,44,The Queen's Gambit,TV Show,Action,South Korea,Standard,Tablet,UPI,Active,2023-12-29,2024-11-13,17.5,499,28,65,4.9,26,11,12974,54.5,Low,36-50,1
+CUST10616,Customer 616,39,The Witcher,TV Show,Documentary,France,Premium,Gaming Console,Debit Card,Active,2023-12-28,2024-01-21,45.2,649,3,118,2.8,12,18,7788,75.2,Medium,36-50,1
+CUST10095,Customer 95,36,Squid Game,Movie,Drama,Germany,Basic,Smart TV,Credit Card,Active,2023-06-08,2024-12-05,32.2,149,15,64,3.9,23,25,3427,80.2,Medium,36-50,1
+CUST10012,Customer 12,26,The Queen's Gambit,Movie,Crime,Canada,Premium,Gaming Console,PayPal,Paused,2022-09-15,2024-03-21,30.4,649,13,91,3.3,23,20,14927,73.4,Medium,26-35,0
+CUST10536,Customer 536,63,Peaky Blinders,TV Show,Sci-Fi,Germany,Standard,Mobile,Credit Card,Active,2024-01-01,2024-04-06,43.2,499,14,111,3.2,28,5,13972,76.2,Medium,51+,1
+CUST10044,Customer 44,42,Ozark,Movie,Comedy,Australia,Premium,Tablet,UPI,Active,2025-10-19,2026-08-24,34.5,649,8,101,5.0,27,1,17523,62.5,Medium,36-50,1
+CUST10043,Customer 43,60,Wednesday,Movie,Sci-Fi,Spain,Basic,Laptop,Credit Card,Active,2024-08-27,2024-12-23,39.1,149,11,39,2.8,2,9,298,50.1,Medium,51+,1
+CUST10330,Customer 330,36,Cobra Kai,Movie,Action,Germany,Premium,Smart TV,UPI,Active,2024-12-03,2026-10-07,57.7,649,34,36,3.0,27,19,17523,103.7,High,36-50,1
+CUST10168,Customer 168,64,The Queen's Gambit,TV Show,Thriller,Japan,Standard,Laptop,PayPal,Active,2022-07-21,2023-03-05,89.4,499,10,2,3.2,20,18,9980,127.4,High,51+,1
+CUST10500,Customer 500,65,Bridgerton,Movie,Romance,South Korea,Premium,Laptop,Credit Card,Active,2022-07-28,2023-09-15,7.4,649,8,29,4.6,25,15,16225,47.4,Low,51+,1
+CUST10881,Customer 881,26,Elite,TV Show,Romance,Australia,Basic,Smart TV,Net Banking,Paused,2024-08-31,2025-07-28,105.2,149,7,80,3.4,30,0,4470,135.2,Very High,26-35,0
+CUST10602,Customer 602,47,Cobra Kai,Movie,Thriller,Germany,Basic,Laptop,PayPal,Active,2023-04-17,2023-10-23,18.9,149,1,46,2.5,13,0,1937,31.9,Low,36-50,1
+CUST10761,Customer 761,28,Cobra Kai,TV Show,Animation,France,Basic,Tablet,Net Banking,Active,2024-07-16,2024-08-04,27.6,149,1,116,3.7,6,12,894,45.6,Medium,26-35,1
+CUST10427,Customer 427,43,Ozark,TV Show,Horror,South Korea,Standard,Tablet,PayPal,Active,2024-02-23,2025-09-14,17.9,499,25,107,4.8,28,13,13972,58.9,Low,36-50,1
+CUST10179,Customer 179,36,The Witcher,Movie,Comedy,Spain,Basic,Tablet,PayPal,Cancelled,2025-06-20,2027-04-01,35.4,149,10,94,3.5,13,3,1937,51.4,Medium,36-50,0
+CUST10445,Customer 445,22,Lupin,TV Show,Sci-Fi,India,Basic,Smart TV,Credit Card,Active,2022-05-30,2022-05-31,9.4,149,3,85,3.5,6,22,894,37.4,Low,18-25,1
+CUST10417,Customer 417,52,Elite,Movie,Action,India,Premium,Smart TV,UPI,Active,2023-11-25,2024-01-20,80.8,649,6,54,3.5,24,19,15576,123.8,High,51+,1
+CUST10766,Customer 766,26,Squid Game,Movie,Animation,France,Standard,Smart TV,UPI,Active,2022-09-03,2023-05-08,24.4,499,31,84,3.7,10,10,4990,44.4,Medium,26-35,1
+CUST10887,Customer 887,28,Black Mirror,Movie,Sci-Fi,Canada,Basic,Smart TV,Credit Card,Paused,2024-09-04,2026-07-21,56.6,149,25,106,3.7,9,24,1341,89.6,High,26-35,0
+CUST10663,Customer 663,43,Wednesday,Movie,Romance,Australia,Basic,Mobile,Debit Card,Active,2025-01-27,2025-07-14,41.2,149,9,56,4.2,11,4,1639,56.2,Medium,36-50,1
+CUST10178,Customer 178,43,Squid Game,Movie,Crime,Germany,Premium,Smart TV,Credit Card,Active,2025-05-04,2026-05-24,78.3,649,28,23,4.2,23,12,14927,113.3,High,36-50,1
+CUST10396,Customer 396,45,Lucifer,Movie,Horror,United Kingdom,Standard,Smart TV,PayPal,Active,2022-12-07,2024-05-03,30.3,499,8,23,4.4,30,22,14970,82.3,Medium,36-50,1
+CUST10681,Customer 681,18,The Umbrella Academy,Movie,Sci-Fi,Germany,Premium,Gaming Console,Net Banking,Active,2024-10-06,2025-11-26,60.0,649,1,78,3.0,28,23,18172,111.0,High,18-25,1
+CUST10798,Customer 798,63,Sex Education,TV Show,Action,Japan,Basic,Gaming Console,Net Banking,Active,2025-03-25,2026-12-18,59.0,149,26,8,2.6,29,23,4321,111.0,High,51+,1
+CUST10966,Customer 966,47,The Umbrella Academy,Movie,Sci-Fi,Spain,Basic,Tablet,Net Banking,Active,2025-07-07,2027-03-17,78.0,149,24,30,4.7,23,15,3427,116.0,High,36-50,1
+CUST10689,Customer 689,49,Dark,TV Show,Documentary,Canada,Standard,Smart TV,Credit Card,Active,2025-01-31,2025-05-22,59.8,499,2,16,2.9,18,0,8982,77.8,High,36-50,1
+CUST10384,Customer 384,59,Stranger Things,Movie,Documentary,Spain,Basic,Laptop,UPI,Active,2024-08-10,2026-06-06,28.9,149,25,29,4.9,18,22,2682,68.9,Medium,51+,1
+CUST10962,Customer 962,18,The Crown,TV Show,Horror,Spain,Premium,Tablet,Net Banking,Active,2023-09-07,2023-11-15,75.2,649,4,96,3.5,6,15,3894,96.2,High,18-25,1
+CUST10617,Customer 617,56,Lupin,TV Show,Documentary,South Korea,Premium,Smart TV,UPI,Active,2025-05-19,2025-11-28,44.7,649,31,13,3.3,16,20,10384,80.7,Medium,51+,1
+CUST10258,Customer 258,61,Stranger Things,Movie,Romance,Germany,Premium,Gaming Console,PayPal,Active,2022-09-11,2024-01-10,24.3,649,23,44,2.9,30,8,19470,62.3,Medium,51+,1
+CUST10336,Customer 336,43,Squid Game,Movie,Horror,United Kingdom,Standard,Smart TV,Debit Card,Active,2022-07-10,2024-02-18,38.3,499,18,23,4.9,23,6,11477,67.3,Medium,36-50,1
+CUST10325,Customer 325,52,The Umbrella Academy,TV Show,Thriller,India,Standard,Mobile,Net Banking,Active,2025-05-10,2026-10-25,16.8,499,1,48,4.1,24,25,11976,65.8,Low,51+,1
+CUST10763,Customer 763,38,The Queen's Gambit,Movie,Documentary,Spain,Basic,Smart TV,PayPal,Cancelled,2025-02-13,2025-06-18,106.0,149,24,120,4.0,2,7,298,115.0,Very High,36-50,0
+CUST10223,Customer 223,33,Dark,Movie,Documentary,India,Basic,Tablet,Net Banking,Active,2025-01-24,2025-02-03,59.2,149,22,0,4.4,14,23,2086,96.2,High,26-35,1
+CUST10180,Customer 180,37,Elite,TV Show,Crime,United States,Basic,Tablet,UPI,Active,2022-01-11,2023-04-16,110.0,149,33,52,2.8,4,11,596,125.0,Very High,36-50,1
+CUST10989,Customer 989,52,Wednesday,TV Show,Crime,United States,Premium,Laptop,Credit Card,Active,2022-03-21,2022-09-09,36.5,649,7,63,3.0,6,19,3894,61.5,Medium,51+,1
+CUST10023,Customer 23,26,You,Movie,Comedy,Canada,Premium,Tablet,Debit Card,Active,2022-08-01,2023-03-05,43.7,649,22,26,4.2,29,8,18821,80.7,Medium,26-35,1
+CUST10357,Customer 357,64,Stranger Things,Movie,Comedy,United Kingdom,Basic,Mobile,PayPal,Active,2024-06-16,2025-08-21,41.5,149,20,100,4.5,13,14,1937,68.5,Medium,51+,1
+CUST10671,Customer 671,52,Elite,Movie,Animation,Germany,Standard,Laptop,Net Banking,Paused,2025-09-11,2026-09-07,73.2,499,35,65,3.0,5,21,2495,99.2,High,51+,0
+CUST10866,Customer 866,28,Stranger Things,Movie,Thriller,United States,Standard,Gaming Console,Credit Card,Active,2023-03-05,2024-07-04,32.3,499,1,41,2.7,3,4,1497,39.3,Medium,26-35,1
+CUST10341,Customer 341,33,You,TV Show,Animation,Japan,Premium,Laptop,Credit Card,Active,2023-06-23,2024-01-25,21.4,649,27,89,4.4,13,12,8437,46.4,Medium,26-35,1
+CUST10830,Customer 830,44,The Witcher,Movie,Horror,South Korea,Basic,Smart TV,Net Banking,Active,2024-07-08,2026-03-21,35.0,149,17,101,3.2,12,3,1788,50.0,Medium,36-50,1
+CUST10838,Customer 838,24,The Witcher,TV Show,Action,United States,Standard,Tablet,Net Banking,Cancelled,2025-05-26,2025-11-15,17.0,499,2,76,4.8,30,17,14970,64.0,Low,18-25,0
+CUST10204,Customer 204,42,Elite,Movie,Comedy,France,Premium,Gaming Console,Debit Card,Active,2024-04-28,2025-05-11,68.3,649,30,62,3.3,2,24,1298,94.3,High,36-50,1
+CUST10635,Customer 635,30,Dark,TV Show,Thriller,India,Standard,Tablet,Net Banking,Paused,2023-08-31,2024-11-28,16.7,499,22,17,3.2,22,25,10978,63.7,Low,26-35,0
+CUST10967,Customer 967,44,Money Heist,Movie,Crime,Spain,Premium,Laptop,Net Banking,Active,2024-06-04,2026-04-18,25.1,649,17,45,2.7,5,22,3245,52.1,Medium,36-50,1
+CUST10069,Customer 69,46,Bridgerton,TV Show,Drama,India,Premium,Laptop,UPI,Active,2022-07-25,2023-08-13,51.0,649,28,18,3.1,15,18,9735,84.0,High,36-50,1
+CUST10627,Customer 627,25,Peaky Blinders,TV Show,Action,United States,Basic,Mobile,Debit Card,Active,2023-08-26,2024-08-27,17.3,149,12,27,4.3,30,21,4470,68.3,Low,18-25,1
+CUST10285,Customer 285,56,Cobra Kai,TV Show,Horror,Canada,Basic,Tablet,PayPal,Paused,2022-07-06,2023-07-14,95.3,149,4,104,3.1,16,10,2384,121.3,High,51+,0
+CUST10809,Customer 809,19,Narcos,TV Show,Drama,Canada,Basic,Smart TV,UPI,Active,2022-04-24,2023-05-16,73.4,149,9,55,4.3,19,4,2831,96.4,High,18-25,1
+CUST10435,Customer 435,56,Bridgerton,Movie,Sci-Fi,Japan,Basic,Tablet,Debit Card,Cancelled,2022-08-17,2023-04-16,79.6,149,32,23,4.5,29,1,4321,109.6,High,51+,0
+CUST10154,Customer 154,31,The Witcher,Movie,Horror,Germany,Premium,Gaming Console,Debit Card,Active,2025-09-22,2027-04-23,47.8,649,8,7,4.6,30,16,19470,93.8,Medium,26-35,1
+CUST10076,Customer 76,27,The Witcher,TV Show,Horror,Japan,Standard,Mobile,PayPal,Active,2022-06-04,2023-12-06,62.5,499,8,58,3.4,25,21,12475,108.5,High,26-35,1
+CUST10735,Customer 735,21,Black Mirror,TV Show,Sci-Fi,South Korea,Premium,Mobile,Credit Card,Cancelled,2024-02-18,2025-04-27,67.7,649,18,32,4.1,4,4,2596,75.7,High,18-25,0
+CUST10189,Customer 189,24,You,Movie,Horror,Canada,Basic,Gaming Console,Net Banking,Active,2022-01-22,2022-09-06,20.8,149,29,47,3.5,26,21,3874,67.8,Medium,18-25,1
+CUST10272,Customer 272,64,Dark,Movie,Drama,Australia,Basic,Gaming Console,Credit Card,Active,2023-04-05,2023-05-06,6.1,149,3,48,4.7,10,24,1490,40.1,Low,51+,1
+CUST10488,Customer 488,51,The Crown,Movie,Action,United States,Standard,Gaming Console,Credit Card,Active,2023-08-21,2024-07-10,15.0,499,20,34,4.2,24,11,11976,50.0,Low,51+,1
+CUST10118,Customer 118,48,You,Movie,Thriller,Spain,Standard,Laptop,UPI,Cancelled,2025-01-17,2025-12-23,12.8,499,18,15,4.5,15,12,7485,39.8,Low,36-50,0
+CUST10823,Customer 823,20,Peaky Blinders,Movie,Drama,Spain,Premium,Laptop,UPI,Active,2023-10-12,2024-10-08,99.5,649,35,91,2.6,9,11,5841,119.5,High,18-25,1
+CUST10513,Customer 513,60,Peaky Blinders,Movie,Drama,Canada,Premium,Tablet,Net Banking,Active,2024-07-17,2026-05-25,36.0,649,30,34,4.8,19,25,12331,80.0,Medium,51+,1
+CUST10799,Customer 799,24,Wednesday,TV Show,Sci-Fi,Japan,Basic,Tablet,Credit Card,Active,2023-04-20,2023-10-16,42.7,149,25,96,4.9,4,1,596,47.7,Medium,18-25,1
+CUST10596,Customer 596,57,The Umbrella Academy,Movie,Animation,Australia,Standard,Mobile,PayPal,Active,2022-07-16,2023-09-28,29.2,499,7,43,4.1,23,25,11477,77.2,Medium,51+,1
+CUST10127,Customer 127,51,The Umbrella Academy,TV Show,Animation,United States,Standard,Tablet,Debit Card,Active,2024-09-07,2025-12-12,17.2,499,30,87,3.8,6,24,2994,47.2,Low,51+,1
+CUST10117,Customer 117,62,The Queen's Gambit,Movie,Action,United States,Premium,Smart TV,UPI,Active,2024-08-09,2024-09-23,41.1,649,13,113,2.6,11,16,7139,68.1,Medium,51+,1
+CUST10474,Customer 474,38,The Queen's Gambit,TV Show,Sci-Fi,Spain,Premium,Gaming Console,Credit Card,Cancelled,2025-08-16,2026-06-26,76.2,649,11,101,3.2,17,11,11033,104.2,High,36-50,0
+CUST10698,Customer 698,53,You,TV Show,Romance,Germany,Basic,Mobile,PayPal,Active,2024-05-06,2025-07-10,10.7,149,34,119,4.9,27,0,4023,37.7,Low,51+,1
+CUST10058,Customer 58,46,The Crown,Movie,Documentary,Japan,Premium,Gaming Console,Debit Card,Active,2024-10-08,2025-05-31,34.3,649,2,97,4.2,10,18,6490,62.3,Medium,36-50,1
+CUST10917,Customer 917,37,The Queen's Gambit,TV Show,Crime,United Kingdom,Premium,Tablet,Credit Card,Active,2025-07-22,2026-08-20,57.2,649,17,81,3.1,29,6,18821,92.2,High,36-50,1
+CUST10370,Customer 370,52,Ozark,Movie,Thriller,Canada,Basic,Tablet,Net Banking,Active,2023-04-19,2023-10-20,22.7,149,27,95,2.8,22,18,3278,62.7,Medium,51+,1
+CUST10269,Customer 269,45,The Umbrella Academy,TV Show,Documentary,Germany,Basic,Smart TV,UPI,Active,2025-06-12,2026-01-03,31.0,149,24,1,4.7,26,16,3874,73.0,Medium,36-50,1
+CUST10047,Customer 47,33,Elite,TV Show,Romance,India,Standard,Smart TV,Debit Card,Active,2024-07-12,2025-02-15,30.5,499,23,102,3.1,10,19,4990,59.5,Medium,26-35,1
+CUST10350,Customer 350,23,Ozark,TV Show,Thriller,South Korea,Premium,Laptop,PayPal,Active,2022-11-15,2023-03-30,36.7,649,34,107,2.9,3,21,1947,60.7,Medium,18-25,1
+CUST10196,Customer 196,25,The Witcher,TV Show,Comedy,United Kingdom,Basic,Laptop,Credit Card,Active,2023-10-04,2024-12-06,51.6,149,9,73,3.5,7,15,1043,73.6,High,18-25,1
+CUST10151,Customer 151,38,The Crown,TV Show,Comedy,United Kingdom,Standard,Tablet,PayPal,Active,2024-11-21,2025-08-03,48.3,499,1,33,3.5,16,24,7984,88.3,Medium,36-50,1
+CUST10893,Customer 893,50,Black Mirror,TV Show,Romance,Canada,Premium,Laptop,UPI,Cancelled,2024-07-11,2025-09-19,68.7,649,35,97,3.5,23,2,14927,93.7,High,36-50,0
+CUST10264,Customer 264,55,Lupin,Movie,Romance,South Korea,Standard,Gaming Console,PayPal,Paused,2022-03-14,2024-01-31,16.4,499,23,64,3.3,7,21,3493,44.4,Low,51+,0
+CUST10444,Customer 444,57,Ozark,Movie,Sci-Fi,United States,Standard,Tablet,Net Banking,Cancelled,2023-02-15,2023-09-27,39.8,499,7,116,3.6,10,3,4990,52.8,Medium,51+,0
+CUST10680,Customer 680,23,Lucifer,TV Show,Romance,United States,Standard,Mobile,UPI,Cancelled,2025-07-25,2025-10-29,73.8,499,11,73,2.6,25,9,12475,107.8,High,18-25,0
+CUST10305,Customer 305,56,The Crown,TV Show,Sci-Fi,France,Premium,Smart TV,UPI,Active,2023-09-10,2025-03-10,41.5,649,15,17,4.4,27,25,17523,93.5,Medium,51+,1
+CUST10342,Customer 342,29,Lupin,Movie,Animation,South Korea,Standard,Mobile,Debit Card,Cancelled,2024-07-12,2026-02-01,48.1,499,28,109,3.5,6,25,2994,79.1,Medium,26-35,0
+CUST10603,Customer 603,27,Lucifer,TV Show,Thriller,Australia,Premium,Laptop,UPI,Paused,2022-08-24,2023-03-16,63.7,649,13,36,2.9,30,8,19470,101.7,High,26-35,0
+CUST10972,Customer 972,53,Peaky Blinders,TV Show,Documentary,Japan,Basic,Tablet,PayPal,Cancelled,2023-03-05,2024-02-10,25.0,149,23,78,3.8,27,7,4023,59.0,Medium,51+,0
+CUST10150,Customer 150,64,Elite,TV Show,Action,India,Standard,Laptop,Debit Card,Active,2022-11-29,2023-06-15,49.4,499,12,78,4.6,30,12,14970,91.4,Medium,51+,1
+CUST10125,Customer 125,60,Black Mirror,Movie,Horror,Canada,Premium,Laptop,Debit Card,Cancelled,2023-10-17,2025-08-01,56.7,649,12,101,3.4,9,3,5841,68.7,High,51+,0
+CUST10791,Customer 791,58,Dark,TV Show,Crime,India,Basic,Smart TV,Net Banking,Active,2025-10-15,2026-02-10,52.7,149,5,0,2.9,30,3,4470,85.7,High,51+,1
+CUST10827,Customer 827,59,The Crown,Movie,Thriller,Australia,Basic,Gaming Console,Net Banking,Active,2024-02-20,2025-04-24,81.5,149,35,93,2.8,30,16,4470,127.5,High,51+,1
+CUST10354,Customer 354,32,Stranger Things,TV Show,Thriller,France,Standard,Gaming Console,PayPal,Active,2025-05-07,2025-10-22,38.0,499,25,106,3.4,10,2,4990,50.0,Medium,26-35,1
+CUST10932,Customer 932,60,You,TV Show,Romance,India,Basic,Laptop,PayPal,Cancelled,2023-03-04,2024-02-01,89.0,149,13,102,3.0,18,14,2682,121.0,High,51+,0
+CUST10143,Customer 143,52,Black Mirror,TV Show,Animation,Germany,Premium,Tablet,Credit Card,Active,2023-12-03,2024-10-04,1.8,649,15,120,4.9,11,24,7139,36.8,Low,51+,1
+CUST10471,Customer 471,25,The Queen's Gambit,TV Show,Sci-Fi,Australia,Premium,Laptop,UPI,Active,2024-12-14,2026-03-28,35.1,649,6,10,3.5,7,9,4543,51.1,Medium,18-25,1
+CUST10400,Customer 400,57,You,Movie,Sci-Fi,Germany,Basic,Smart TV,Net Banking,Cancelled,2022-01-08,2023-09-23,72.9,149,32,30,3.0,23,15,3427,110.9,High,51+,0
+CUST10630,Customer 630,20,The Umbrella Academy,Movie,Romance,Japan,Basic,Gaming Console,Credit Card,Active,2022-12-09,2024-06-16,69.4,149,26,120,3.6,9,6,1341,84.4,High,18-25,1
+CUST10321,Customer 321,32,The Umbrella Academy,Movie,Animation,United Kingdom,Standard,Gaming Console,Net Banking,Active,2022-12-16,2023-12-02,44.4,499,30,76,4.0,9,12,4491,65.4,Medium,26-35,1
+CUST10020,Customer 20,56,Money Heist,Movie,Documentary,Australia,Basic,Gaming Console,Net Banking,Active,2025-03-31,2025-12-24,6.7,149,14,85,4.3,9,8,1341,23.7,Low,51+,1
+CUST10814,Customer 814,49,You,Movie,Thriller,United Kingdom,Premium,Gaming Console,Unknown,Active,2025-06-27,2027-01-15,46.9,649,14,15,3.4,28,25,18172,99.9,Medium,36-50,1
+CUST10834,Customer 834,58,Elite,TV Show,Crime,Germany,Standard,Tablet,Credit Card,Cancelled,2024-04-17,2025-12-12,22.8,499,33,10,2.9,2,18,998,42.8,Medium,51+,0
+CUST10882,Customer 882,48,Squid Game,TV Show,Comedy,United Kingdom,Basic,Laptop,Debit Card,Active,2024-05-13,2025-11-24,28.7,149,12,96,2.6,27,19,4023,74.7,Medium,36-50,1
+CUST10408,Customer 408,37,Sex Education,TV Show,Drama,United States,Basic,Laptop,Debit Card,Active,2023-09-23,2025-04-28,38.4,149,2,106,2.9,12,10,1788,60.4,Medium,36-50,1
+CUST10538,Customer 538,61,Wednesday,TV Show,Romance,Australia,Basic,Mobile,Debit Card,Active,2023-08-06,2023-10-29,32.4,149,30,106,4.3,17,14,2533,63.4,Medium,51+,1
+CUST10868,Customer 868,23,Cobra Kai,Movie,Action,Spain,Standard,Tablet,PayPal,Active,2024-12-22,2026-05-08,50.4,499,17,87,2.8,30,13,14970,93.4,High,18-25,1
+CUST10039,Customer 39,48,Stranger Things,TV Show,Crime,France,Premium,Smart TV,Net Banking,Cancelled,2024-02-19,2025-09-01,8.8,649,15,62,3.0,15,15,9735,38.8,Low,36-50,0
+CUST10176,Customer 176,54,Money Heist,Movie,Romance,India,Standard,Tablet,Net Banking,Active,2025-01-17,2026-03-01,62.7,499,5,38,2.9,9,18,4491,89.7,High,51+,1
+CUST10246,Customer 246,41,Stranger Things,TV Show,Comedy,Spain,Basic,Gaming Console,PayPal,Active,2022-04-22,2022-05-19,33.6,149,14,21,4.1,4,15,596,52.6,Medium,36-50,1
+CUST10833,Customer 833,43,Peaky Blinders,Movie,Crime,United States,Standard,Laptop,Debit Card,Active,2022-09-19,2024-06-12,16.9,499,7,92,2.6,25,11,12475,52.9,Low,36-50,1
+CUST10738,Customer 738,56,Narcos,Movie,Animation,Australia,Basic,Tablet,Debit Card,Active,2025-02-22,2026-01-13,66.6,149,1,19,4.7,6,15,894,87.6,High,51+,1
+CUST10759,Customer 759,47,Lupin,TV Show,Thriller,Canada,Standard,Mobile,PayPal,Active,2023-03-14,2023-10-18,20.5,499,34,27,2.8,10,22,4990,52.5,Medium,36-50,1
+CUST10906,Customer 906,28,Ozark,TV Show,Romance,South Korea,Standard,Smart TV,Net Banking,Active,2023-01-01,2024-01-08,43.2,499,7,85,4.7,22,24,10978,89.2,Medium,26-35,1
+CUST10155,Customer 155,52,Dark,Movie,Romance,Canada,Basic,Smart TV,UPI,Active,2025-03-18,2026-11-06,49.3,149,32,11,4.7,16,25,2384,90.3,Medium,51+,1
+CUST10288,Customer 288,44,Money Heist,Movie,Sci-Fi,Germany,Standard,Gaming Console,Net Banking,Active,2022-08-09,2024-01-02,56.7,499,1,67,4.3,19,13,9481,88.7,High,36-50,1
+CUST10614,Customer 614,18,The Queen's Gambit,Movie,Documentary,South Korea,Premium,Tablet,Credit Card,Active,2025-09-04,2027-02-15,13.9,649,30,92,4.5,12,25,7788,50.9,Low,18-25,1
+CUST10570,Customer 570,26,Sex Education,Movie,Thriller,Germany,Standard,Smart TV,UPI,Cancelled,2024-07-26,2026-02-19,33.2,499,24,117,4.9,21,13,10479,67.2,Medium,26-35,0
+CUST10969,Customer 969,24,Lupin,Movie,Animation,United States,Basic,Mobile,Credit Card,Active,2025-05-17,2027-04-06,41.0,149,27,104,3.5,25,1,3725,67.0,Medium,18-25,1
+CUST10018,Customer 18,47,Lucifer,TV Show,Horror,Germany,Standard,Tablet,Credit Card,Active,2023-06-28,2023-08-27,49.9,499,35,7,4.4,3,1,1497,53.9,Medium,36-50,1
+CUST10128,Customer 128,55,Bridgerton,Movie,Documentary,Canada,Premium,Mobile,UPI,Active,2025-08-03,2026-06-11,27.8,649,11,20,3.3,24,7,15576,58.8,Medium,51+,1
+CUST10323,Customer 323,25,The Crown,TV Show,Action,Australia,Premium,Gaming Console,UPI,Cancelled,2024-10-27,2026-09-22,21.5,649,28,66,3.6,29,1,18821,51.5,Medium,18-25,0
+CUST10256,Customer 256,51,Black Mirror,Movie,Horror,United Kingdom,Premium,Mobile,Debit Card,Cancelled,2024-09-19,2025-11-07,29.9,649,9,99,4.6,30,18,19470,77.9,Medium,51+,0
+CUST10985,Customer 985,29,Wednesday,TV Show,Romance,United Kingdom,Basic,Smart TV,Debit Card,Active,2023-12-05,2024-06-11,41.9,149,17,51,3.0,13,20,1937,74.9,Medium,26-35,1
+CUST10970,Customer 970,46,Elite,Movie,Documentary,France,Standard,Mobile,Credit Card,Active,2025-08-18,2025-09-12,6.2,499,22,12,3.2,15,25,7485,46.2,Low,36-50,1
+CUST10191,Customer 191,47,Narcos,TV Show,Romance,Germany,Standard,Mobile,PayPal,Cancelled,2023-12-04,2025-03-12,30.8,499,21,8,3.3,27,22,13473,79.8,Medium,36-50,0
+CUST10116,Customer 116,40,The Crown,TV Show,Thriller,United States,Premium,Gaming Console,Debit Card,Active,2022-02-03,2023-01-30,49.5,649,35,43,4.5,7,24,4543,80.5,Medium,36-50,1
+CUST10621,Customer 621,63,Elite,TV Show,Thriller,India,Basic,Tablet,PayPal,Active,2024-10-26,2025-12-09,22.2,149,16,67,3.3,20,15,2980,57.2,Medium,51+,1
+CUST10607,Customer 607,38,The Witcher,Movie,Crime,United Kingdom,Standard,Gaming Console,Net Banking,Cancelled,2022-11-01,2023-06-04,22.7,499,6,100,3.7,23,19,11477,64.7,Medium,36-50,0
+CUST10181,Customer 181,56,Cobra Kai,TV Show,Documentary,India,Premium,Laptop,PayPal,Active,2022-07-10,2022-10-05,57.6,649,16,73,3.8,23,12,14927,92.6,High,51+,1
+CUST10302,Customer 302,60,Narcos,TV Show,Comedy,South Korea,Basic,Gaming Console,PayPal,Active,2023-03-08,2023-05-21,28.0,149,10,3,3.6,12,1,1788,41.0,Medium,51+,1
+CUST10889,Customer 889,56,Bridgerton,Movie,Romance,Japan,Basic,Laptop,Net Banking,Cancelled,2023-03-31,2024-12-16,56.8,149,26,117,2.7,9,4,1341,69.8,High,51+,0
+CUST10717,Customer 717,47,Dark,TV Show,Thriller,South Korea,Basic,Tablet,UPI,Cancelled,2023-08-27,2023-12-26,44.9,149,10,48,4.3,24,13,3576,81.9,Medium,36-50,0
+CUST10850,Customer 850,28,Peaky Blinders,TV Show,Thriller,Spain,Premium,Tablet,Debit Card,Active,2023-02-11,2023-09-20,28.7,649,16,120,2.5,29,0,18821,57.7,Medium,26-35,1
+CUST10690,Customer 690,21,Squid Game,TV Show,Animation,India,Premium,Smart TV,PayPal,Active,2023-04-30,2024-09-09,53.1,649,6,97,3.6,21,4,13629,78.1,High,18-25,1
+CUST10666,Customer 666,65,Ozark,Movie,Sci-Fi,France,Basic,Laptop,PayPal,Active,2025-08-29,2025-12-30,44.7,149,8,10,2.8,22,21,3278,87.7,Medium,51+,1
+CUST10518,Customer 518,33,Wednesday,Movie,Horror,Australia,Premium,Gaming Console,Debit Card,Active,2022-12-12,2023-01-16,17.6,649,16,76,2.8,27,10,17523,54.6,Low,26-35,1
+CUST10990,Customer 990,60,Peaky Blinders,TV Show,Sci-Fi,United States,Standard,Gaming Console,UPI,Active,2024-07-20,2025-07-30,42.7,499,10,30,4.9,17,6,8483,65.7,Medium,51+,1
+CUST10046,Customer 46,45,Bridgerton,TV Show,Animation,Canada,Premium,Smart TV,PayPal,Active,2022-11-10,2024-07-09,24.0,649,18,41,4.6,28,2,18172,54.0,Medium,36-50,1
+CUST10914,Customer 914,45,Wednesday,Movie,Action,Spain,Premium,Gaming Console,UPI,Cancelled,2024-06-20,2025-07-01,81.4,649,27,84,3.3,9,25,5841,115.4,High,36-50,0
+CUST10158,Customer 158,64,The Umbrella Academy,TV Show,Documentary,Germany,Basic,Smart TV,PayPal,Active,2025-08-06,2027-06-15,53.8,149,35,17,4.1,13,3,1937,69.8,High,51+,1
+CUST10818,Customer 818,24,Peaky Blinders,TV Show,Crime,Canada,Premium,Smart TV,PayPal,Active,2022-04-27,2023-11-30,64.2,649,34,33,2.9,14,14,9086,92.2,High,18-25,1
+CUST10172,Customer 172,49,Stranger Things,Movie,Horror,Canada,Standard,Smart TV,UPI,Active,2025-09-12,2026-06-21,21.6,499,35,36,2.5,28,22,13972,71.6,Medium,36-50,1
+CUST10017,Customer 17,24,Money Heist,Movie,Comedy,South Korea,Standard,Tablet,PayPal,Active,2025-02-01,2025-09-08,16.7,499,26,115,2.6,14,0,6986,30.7,Low,18-25,1
+CUST10512,Customer 512,45,Narcos,TV Show,Comedy,Spain,Premium,Gaming Console,Debit Card,Active,2024-08-31,2026-03-07,40.7,649,21,25,3.5,10,19,6490,69.7,Medium,36-50,1
+CUST10049,Customer 49,36,The Witcher,TV Show,Thriller,Spain,Basic,Gaming Console,Debit Card,Active,2022-07-10,2024-01-05,50.6,149,23,54,5.0,19,10,2831,79.6,High,36-50,1
+CUST10977,Customer 977,32,Elite,Movie,Action,India,Basic,Laptop,Credit Card,Paused,2023-05-18,2025-02-03,30.7,149,31,107,3.6,19,17,2831,66.7,Medium,26-35,0
+CUST10845,Customer 845,40,Peaky Blinders,TV Show,Crime,United States,Standard,Tablet,UPI,Paused,2025-05-09,2026-02-28,46.2,499,27,57,3.3,23,13,11477,82.2,Medium,36-50,0
+CUST10516,Customer 516,53,The Umbrella Academy,TV Show,Drama,South Korea,Standard,Tablet,Debit Card,Active,2024-09-21,2025-06-13,60.9,499,18,84,3.9,22,1,10978,83.9,High,51+,1
+CUST10828,Customer 828,48,Sex Education,TV Show,Romance,Spain,Basic,Tablet,Net Banking,Active,2025-05-28,2026-02-02,28.9,149,22,31,4.5,13,7,1937,48.9,Medium,36-50,1
+CUST10481,Customer 481,41,Ozark,Movie,Documentary,Japan,Basic,Smart TV,Debit Card,Active,2025-09-27,2026-09-16,38.8,149,23,39,4.9,29,17,4321,84.8,Medium,36-50,1
+CUST10284,Customer 284,46,The Crown,TV Show,Sci-Fi,Japan,Standard,Mobile,PayPal,Cancelled,2025-03-19,2025-04-07,11.1,499,7,51,3.5,19,17,9481,47.1,Low,36-50,0
+CUST10723,Customer 723,36,Bridgerton,Movie,Comedy,South Korea,Basic,Gaming Console,UPI,Cancelled,2023-05-06,2024-03-18,8.3,149,13,70,3.0,3,7,447,18.3,Low,36-50,0
+CUST10685,Customer 685,40,Stranger Things,TV Show,Romance,Spain,Standard,Laptop,UPI,Active,2022-04-28,2022-11-05,11.4,499,26,45,2.5,15,15,7485,41.4,Low,36-50,1
+CUST10226,Customer 226,43,Squid Game,TV Show,Sci-Fi,Spain,Standard,Tablet,UPI,Paused,2023-10-08,2024-02-25,69.2,499,7,19,2.8,16,14,7984,99.2,High,36-50,0
+CUST10027,Customer 27,65,Squid Game,TV Show,Thriller,Spain,Basic,Tablet,UPI,Active,2023-01-03,2023-02-12,13.2,149,31,28,3.0,16,11,2384,40.2,Low,51+,1
+CUST10787,Customer 787,51,Elite,TV Show,Horror,Japan,Basic,Smart TV,Debit Card,Active,2022-10-11,2023-12-16,62.8,149,27,59,2.6,19,0,2831,81.8,High,51+,1
+CUST10438,Customer 438,51,The Umbrella Academy,Movie,Crime,Germany,Standard,Smart TV,Debit Card,Paused,2022-10-25,2024-09-24,7.5,499,3,12,4.8,22,11,10978,40.5,Low,51+,0
+CUST10365,Customer 365,51,Dark,TV Show,Crime,Spain,Basic,Gaming Console,Debit Card,Active,2022-05-22,2024-03-06,59.3,149,33,48,4.3,30,0,4470,89.3,High,51+,1
+CUST10230,Customer 230,59,The Crown,TV Show,Comedy,India,Premium,Mobile,Credit Card,Paused,2025-07-14,2026-10-12,59.0,649,9,11,4.8,28,25,18172,112.0,High,51+,0
+CUST10971,Customer 971,34,Black Mirror,TV Show,Romance,South Korea,Basic,Laptop,PayPal,Cancelled,2024-07-24,2025-06-22,45.2,149,30,89,5.0,10,24,1490,79.2,Medium,26-35,0
+CUST10375,Customer 375,54,Ozark,Movie,Comedy,Japan,Standard,Smart TV,Credit Card,Active,2022-07-08,2024-02-19,95.8,499,7,76,4.1,3,23,1497,121.8,High,51+,1
+CUST10470,Customer 470,62,Narcos,Movie,Romance,Japan,Standard,Laptop,Net Banking,Active,2025-04-03,2026-01-12,27.6,499,4,8,3.4,16,15,7984,58.6,Medium,51+,1
+CUST10973,Customer 973,24,The Crown,TV Show,Romance,Australia,Standard,Smart TV,Credit Card,Cancelled,2023-09-19,2024-04-14,63.0,499,17,109,4.3,13,10,6487,86.0,High,18-25,0
+CUST10855,Customer 855,49,Ozark,TV Show,Horror,United States,Standard,Smart TV,Credit Card,Active,2022-02-05,2022-03-03,77.5,499,26,98,3.1,13,15,6487,105.5,High,36-50,1
+CUST10844,Customer 844,42,Lupin,Movie,Romance,Germany,Standard,Gaming Console,Credit Card,Cancelled,2025-06-10,2026-02-03,51.6,499,19,85,3.7,27,20,13473,98.6,High,36-50,0
+CUST10859,Customer 859,18,Bridgerton,Movie,Action,South Korea,Standard,Smart TV,UPI,Active,2022-09-18,2023-11-27,28.2,499,32,21,4.1,18,15,8982,61.2,Medium,18-25,1
+CUST10869,Customer 869,29,Stranger Things,TV Show,Sci-Fi,Japan,Premium,Smart TV,Credit Card,Active,2023-12-15,2024-06-28,58.5,649,25,47,2.9,25,0,16225,83.5,High,26-35,1
+CUST10504,Customer 504,19,Money Heist,TV Show,Comedy,France,Premium,Smart TV,Debit Card,Cancelled,2025-01-24,2026-04-23,56.1,649,30,4,2.6,19,21,12331,96.1,High,18-25,0
+CUST10975,Customer 975,30,The Crown,Movie,Animation,France,Premium,Laptop,Credit Card,Cancelled,2022-06-05,2023-12-03,30.8,649,23,50,2.8,14,3,9086,47.8,Medium,26-35,0
+CUST10835,Customer 835,61,Elite,TV Show,Romance,Germany,Premium,Tablet,Net Banking,Cancelled,2024-01-28,2024-11-10,41.1,649,7,29,3.2,12,1,7788,54.1,Medium,51+,0
+CUST10580,Customer 580,53,The Umbrella Academy,Movie,Sci-Fi,India,Standard,Smart TV,Credit Card,Paused,2024-08-09,2024-08-29,70.6,499,18,70,4.9,23,3,11477,96.6,High,51+,0
+CUST10974,Customer 974,28,Bridgerton,TV Show,Drama,United States,Standard,Tablet,Net Banking,Active,2024-01-11,2025-06-13,25.7,499,19,96,3.9,7,12,3493,44.7,Medium,26-35,1
+CUST10163,Customer 163,61,The Umbrella Academy,TV Show,Drama,Japan,Basic,Smart TV,Net Banking,Active,2025-07-06,2026-09-06,71.0,149,27,19,3.2,7,24,1043,102.0,High,51+,1
+CUST10707,Customer 707,24,Sex Education,Movie,Drama,Australia,Premium,Mobile,PayPal,Active,2024-04-04,2024-07-26,10.0,649,1,97,4.6,3,4,1947,17.0,Low,18-25,1
+CUST10153,Customer 153,58,Lucifer,TV Show,Animation,South Korea,Standard,Tablet,Credit Card,Active,2022-08-29,2023-12-08,25.0,499,24,53,4.3,17,24,8483,66.0,Medium,51+,1
+CUST10686,Customer 686,51,Sex Education,Movie,Documentary,United States,Basic,Smart TV,UPI,Active,2022-06-23,2024-04-26,59.8,149,17,28,3.7,13,9,1937,81.8,High,51+,1
+CUST10705,Customer 705,46,The Witcher,TV Show,Romance,United Kingdom,Standard,Smart TV,UPI,Active,2022-11-15,2024-02-29,3.1,499,12,104,4.7,8,18,3992,29.1,Low,36-50,1
+CUST10760,Customer 760,22,Lupin,TV Show,Documentary,Japan,Premium,Laptop,Credit Card,Active,2025-10-06,2027-02-24,59.5,649,32,5,5.0,15,3,9735,77.5,High,18-25,1
+CUST10112,Customer 112,39,Dark,Movie,Drama,Spain,Premium,Smart TV,Credit Card,Cancelled,2025-08-24,2026-12-18,41.3,649,29,78,2.5,4,0,2596,45.3,Medium,36-50,0
+CUST10227,Customer 227,25,Peaky Blinders,TV Show,Thriller,Germany,Standard,Laptop,PayPal,Active,2024-04-12,2024-08-13,43.6,499,6,20,4.5,11,22,5489,76.6,Medium,18-25,1
+CUST10693,Customer 693,51,Lucifer,Movie,Thriller,Japan,Standard,Smart TV,PayPal,Active,2024-04-14,2025-06-26,15.0,499,4,38,2.8,13,8,6487,36.0,Low,51+,1
+CUST10104,Customer 104,56,Money Heist,TV Show,Comedy,Japan,Standard,Mobile,Net Banking,Active,2025-10-22,2026-08-09,21.9,499,17,92,4.6,21,4,10479,46.9,Medium,51+,1
+CUST10422,Customer 422,22,Squid Game,Movie,Animation,France,Standard,Smart TV,Net Banking,Cancelled,2024-02-26,2025-09-06,85.9,499,16,22,4.2,4,23,1996,112.9,High,18-25,0
+CUST10420,Customer 420,49,Stranger Things,Movie,Sci-Fi,United States,Standard,Laptop,PayPal,Active,2024-07-17,2025-01-08,43.7,499,19,98,3.4,20,4,9980,67.7,Medium,36-50,1
+CUST10755,Customer 755,45,Sex Education,TV Show,Thriller,Spain,Standard,Tablet,Credit Card,Active,2024-10-12,2025-07-27,18.3,499,26,13,4.0,26,18,12974,62.3,Low,36-50,1
+CUST10587,Customer 587,25,Elite,TV Show,Thriller,Germany,Premium,Mobile,Credit Card,Cancelled,2022-01-18,2022-11-02,30.5,649,23,24,2.7,21,20,13629,71.5,Medium,18-25,0
+CUST10785,Customer 785,42,The Umbrella Academy,TV Show,Comedy,Spain,Premium,Laptop,Net Banking,Active,2025-07-28,2027-02-26,56.0,649,28,86,4.7,27,18,17523,101.0,High,36-50,1
+CUST10673,Customer 673,34,You,TV Show,Action,France,Basic,Smart TV,UPI,Paused,2025-01-31,2026-12-25,33.4,149,28,120,4.2,19,6,2831,58.4,Medium,26-35,0
+CUST10120,Customer 120,38,Wednesday,Movie,Romance,Spain,Premium,Laptop,PayPal,Active,2023-08-25,2024-11-04,60.8,649,11,88,3.6,16,1,10384,77.8,High,36-50,1
+CUST10054,Customer 54,57,The Witcher,TV Show,Sci-Fi,Germany,Premium,Laptop,Net Banking,Paused,2025-05-05,2026-03-14,57.3,649,4,78,4.9,5,24,3245,86.3,High,51+,0
+CUST10152,Customer 152,37,Lupin,Movie,Crime,Japan,Standard,Tablet,UPI,Active,2023-11-07,2025-02-26,50.7,499,20,20,3.5,18,22,8982,90.7,High,36-50,1
+CUST10404,Customer 404,22,Lucifer,TV Show,Action,United States,Standard,Laptop,Debit Card,Active,2025-02-01,2026-07-24,43.2,499,14,89,3.0,3,3,1497,49.2,Medium,18-25,1
+CUST10950,Customer 950,19,Stranger Things,TV Show,Drama,Germany,Premium,Mobile,Credit Card,Paused,2023-10-20,2023-12-07,48.1,649,35,48,4.4,25,16,16225,89.1,Medium,18-25,0
+CUST10208,Customer 208,58,Lucifer,Movie,Documentary,United States,Basic,Mobile,UPI,Active,2024-03-22,2024-06-10,54.8,149,9,75,3.1,23,14,3427,91.8,High,51+,1
+CUST10659,Customer 659,41,Dark,Movie,Comedy,France,Standard,Mobile,Net Banking,Cancelled,2023-10-17,2024-09-05,47.0,499,10,104,4.9,28,7,13972,82.0,Medium,36-50,0
+CUST10848,Customer 848,39,Money Heist,TV Show,Sci-Fi,France,Premium,Tablet,Net Banking,Cancelled,2023-03-25,2024-09-24,103.4,649,14,99,4.1,21,19,13629,143.4,Very High,36-50,0
+CUST10836,Customer 836,51,Lupin,TV Show,Crime,Japan,Premium,Smart TV,Debit Card,Cancelled,2024-11-26,2025-04-22,47.9,649,3,104,4.9,30,23,19470,100.9,Medium,51+,0
+CUST10009,Customer 9,34,Peaky Blinders,Movie,Comedy,Canada,Standard,Laptop,Debit Card,Active,2024-12-19,2026-03-10,30.3,499,11,58,2.5,25,23,12475,78.3,Medium,26-35,1
+CUST10812,Customer 812,26,Cobra Kai,TV Show,Sci-Fi,United States,Basic,Mobile,UPI,Active,2023-08-22,2025-03-01,31.0,149,14,63,4.3,28,11,4172,70.0,Medium,26-35,1
+CUST10037,Customer 37,46,The Crown,TV Show,Thriller,Spain,Basic,Laptop,Debit Card,Cancelled,2023-07-17,2023-10-08,47.2,149,9,19,3.1,24,4,3576,75.2,Medium,36-50,0
+CUST10453,Customer 453,45,Squid Game,TV Show,Romance,United States,Basic,Gaming Console,Net Banking,Active,2023-02-20,2023-09-27,17.4,149,3,75,2.9,4,3,596,24.4,Low,36-50,1
+CUST10652,Customer 652,19,Cobra Kai,Movie,Horror,Spain,Standard,Tablet,Debit Card,Active,2022-10-12,2024-08-17,70.2,499,31,65,3.5,8,0,3992,78.2,High,18-25,1
+CUST10254,Customer 254,20,Ozark,TV Show,Thriller,India,Premium,Smart TV,Debit Card,Cancelled,2024-04-02,2024-04-23,67.8,649,22,104,4.5,11,8,7139,86.8,High,18-25,0
+CUST10304,Customer 304,61,Wednesday,Movie,Animation,United States,Basic,Gaming Console,UPI,Cancelled,2024-03-08,2024-05-22,57.3,149,23,118,3.8,11,25,1639,93.3,High,51+,0
+CUST10751,Customer 751,49,Black Mirror,Movie,Documentary,United States,Basic,Smart TV,UPI,Active,2022-06-08,2023-10-20,18.9,149,5,26,4.2,14,10,2086,42.9,Low,36-50,1
+CUST10572,Customer 572,44,Money Heist,TV Show,Crime,South Korea,Basic,Tablet,PayPal,Active,2025-04-22,2026-11-04,83.9,149,23,8,4.7,15,15,2235,113.9,High,36-50,1
+CUST10624,Customer 624,49,The Umbrella Academy,Movie,Romance,United States,Premium,Mobile,Net Banking,Cancelled,2023-03-21,2024-02-18,75.6,649,27,57,2.9,8,16,5192,99.6,High,36-50,0
+CUST10714,Customer 714,38,Dark,Movie,Documentary,Japan,Basic,Laptop,PayPal,Active,2022-07-05,2023-09-02,52.0,149,22,17,4.5,22,7,3278,81.0,High,36-50,1
+CUST10724,Customer 724,54,Lupin,Movie,Animation,Germany,Standard,Mobile,UPI,Active,2022-06-24,2023-05-07,60.6,499,1,45,4.4,14,16,6986,90.6,High,51+,1
+CUST10611,Customer 611,45,The Umbrella Academy,TV Show,Sci-Fi,Japan,Standard,Laptop,PayPal,Active,2024-08-15,2025-11-11,58.4,499,15,33,4.1,13,2,6487,73.4,High,36-50,1
+CUST10298,Customer 298,51,The Witcher,Movie,Horror,United States,Basic,Gaming Console,Credit Card,Active,2023-10-13,2025-04-15,49.7,149,26,11,3.4,30,6,4470,85.7,Medium,51+,1
+CUST10415,Customer 415,58,Narcos,TV Show,Thriller,South Korea,Premium,Laptop,Debit Card,Active,2023-10-02,2024-12-27,50.3,649,8,34,2.9,10,3,6490,63.3,High,51+,1
+CUST10793,Customer 793,57,Elite,Movie,Documentary,United Kingdom,Premium,Mobile,Unknown,Active,2023-06-18,2025-04-22,48.8,649,16,21,3.8,24,17,15576,89.8,Medium,51+,1
+CUST10641,Customer 641,37,Elite,TV Show,Documentary,Canada,Standard,Gaming Console,PayPal,Active,2024-08-07,2024-12-25,33.6,499,31,25,2.9,8,0,3992,41.6,Medium,36-50,1
+CUST10894,Customer 894,39,Lupin,TV Show,Thriller,Canada,Basic,Gaming Console,PayPal,Active,2022-01-15,2023-05-06,71.2,149,19,5,2.8,17,14,2533,102.2,High,36-50,1
+CUST10551,Customer 551,18,Wednesday,TV Show,Documentary,Germany,Basic,Gaming Console,Net Banking,Cancelled,2023-11-15,2024-09-08,44.2,149,3,62,3.5,18,18,2682,80.2,Medium,18-25,0
+CUST10802,Customer 802,19,Wednesday,Movie,Drama,United Kingdom,Basic,Mobile,Debit Card,Cancelled,2025-04-07,2026-11-10,29.1,149,35,110,2.7,7,21,1043,57.1,Medium,18-25,0
+CUST10489,Customer 489,55,Black Mirror,Movie,Drama,United Kingdom,Basic,Gaming Console,Debit Card,Active,2024-12-30,2026-05-11,84.2,149,27,43,4.8,7,3,1043,94.2,High,51+,1
+CUST10148,Customer 148,32,Peaky Blinders,Movie,Action,France,Premium,Tablet,UPI,Paused,2025-03-21,2026-05-02,9.0,649,32,23,4.8,29,9,18821,47.0,Low,26-35,0
+CUST10147,Customer 147,18,Peaky Blinders,Movie,Documentary,Germany,Premium,Smart TV,Credit Card,Cancelled,2022-10-09,2023-07-31,11.1,649,21,36,4.1,26,2,16874,39.1,Low,18-25,0
+CUST10897,Customer 897,35,Black Mirror,TV Show,Animation,South Korea,Standard,Gaming Console,Net Banking,Active,2024-06-01,2024-08-19,37.8,499,21,47,2.6,21,23,10479,81.8,Medium,26-35,1
+CUST10936,Customer 936,53,Sex Education,TV Show,Drama,United Kingdom,Premium,Mobile,Debit Card,Paused,2023-06-18,2024-06-22,29.4,649,29,95,4.7,7,10,4543,46.4,Medium,51+,0
+CUST10744,Customer 744,32,Elite,TV Show,Comedy,South Korea,Standard,Smart TV,UPI,Active,2023-03-10,2024-06-28,42.7,499,27,116,4.6,24,25,11976,91.7,Medium,26-35,1
+CUST10660,Customer 660,47,Dark,TV Show,Action,India,Standard,Gaming Console,Debit Card,Active,2025-10-24,2026-02-28,38.4,499,18,108,4.3,17,20,8483,75.4,Medium,36-50,1
+CUST10349,Customer 349,43,Wednesday,Movie,Comedy,Germany,Basic,Gaming Console,UPI,Active,2022-12-08,2024-01-19,24.0,149,34,97,5.0,5,8,745,37.0,Medium,36-50,1
+CUST10464,Customer 464,48,Elite,TV Show,Drama,France,Basic,Tablet,Credit Card,Active,2025-04-26,2026-12-11,47.3,149,15,114,4.8,6,18,894,71.3,Medium,36-50,1
+CUST10326,Customer 326,41,Wednesday,Movie,Documentary,Australia,Standard,Laptop,Debit Card,Cancelled,2024-04-17,2025-06-25,11.6,499,24,78,3.2,23,12,11477,46.6,Low,36-50,0
+CUST10187,Customer 187,46,Cobra Kai,TV Show,Animation,France,Standard,Gaming Console,Net Banking,Paused,2022-06-01,2023-08-04,53.8,499,35,4,4.5,13,22,6487,88.8,High,36-50,0
+CUST10124,Customer 124,63,Elite,Movie,Animation,Spain,Standard,Smart TV,Credit Card,Active,2023-06-18,2023-09-02,7.0,499,29,22,4.7,16,2,7984,25.0,Low,51+,1
+CUST10858,Customer 858,53,The Queen's Gambit,TV Show,Romance,South Korea,Standard,Laptop,PayPal,Cancelled,2023-03-05,2024-08-13,53.8,499,6,117,2.8,24,2,11976,79.8,High,51+,0
+CUST10144,Customer 144,62,The Queen's Gambit,TV Show,Sci-Fi,Japan,Standard,Gaming Console,Debit Card,Active,2023-03-01,2024-10-09,46.6,499,35,48,4.7,14,11,6986,71.6,Medium,51+,1
+CUST10964,Customer 964,61,Dark,Movie,Sci-Fi,United Kingdom,Premium,Laptop,Debit Card,Active,2025-04-14,2025-08-13,59.7,649,34,39,3.8,26,20,16874,105.7,High,51+,1
+CUST10198,Customer 198,42,Peaky Blinders,TV Show,Documentary,Germany,Basic,Smart TV,PayPal,Active,2023-02-04,2023-04-30,45.8,149,2,101,4.4,11,1,1639,57.8,Medium,36-50,1
+CUST10610,Customer 610,34,Peaky Blinders,Movie,Action,United States,Basic,Laptop,PayPal,Active,2024-02-06,2024-09-29,79.4,149,3,59,3.8,12,13,1788,104.4,High,26-35,1
+CUST10280,Customer 280,55,The Queen's Gambit,TV Show,Action,Australia,Basic,Smart TV,Debit Card,Active,2024-05-02,2024-09-13,32.4,149,31,117,3.7,30,13,4470,75.4,Medium,51+,1
+CUST10294,Customer 294,61,Peaky Blinders,Movie,Horror,France,Basic,Tablet,Net Banking,Cancelled,2025-06-15,2026-04-06,63.2,149,4,118,3.5,15,25,2235,103.2,High,51+,0
+CUST10401,Customer 401,46,The Crown,Movie,Thriller,Canada,Standard,Laptop,Net Banking,Active,2024-04-19,2024-11-18,2.1,499,4,23,2.9,22,11,10978,35.1,Low,36-50,1
+CUST10123,Customer 123,51,Black Mirror,TV Show,Romance,Spain,Premium,Tablet,UPI,Active,2023-03-31,2023-04-18,77.1,649,32,66,3.5,19,3,12331,99.1,High,51+,1
+CUST10184,Customer 184,45,Cobra Kai,Movie,Crime,Japan,Standard,Gaming Console,Credit Card,Active,2023-11-17,2024-05-17,54.1,499,26,40,3.2,24,20,11976,98.1,High,36-50,1
+CUST10203,Customer 203,59,Dark,Movie,Thriller,United Kingdom,Basic,Laptop,Credit Card,Cancelled,2023-07-22,2025-06-14,69.1,149,26,62,2.9,22,8,3278,99.1,High,51+,0
+CUST10247,Customer 247,43,The Queen's Gambit,TV Show,Crime,United States,Basic,Gaming Console,PayPal,Active,2023-09-24,2024-10-19,30.1,149,24,23,3.6,10,14,1490,54.1,Medium,36-50,1
+CUST10416,Customer 416,53,Sex Education,Movie,Thriller,Canada,Basic,Laptop,Net Banking,Active,2025-06-29,2025-11-21,23.3,149,19,73,3.1,4,9,596,36.3,Medium,51+,1
+CUST10781,Customer 781,30,Money Heist,TV Show,Animation,United States,Standard,Smart TV,PayPal,Active,2023-09-26,2024-09-16,46.4,499,19,14,4.9,17,21,8483,84.4,Medium,26-35,1
+CUST10983,Customer 983,52,Lupin,TV Show,Drama,Australia,Standard,Mobile,Debit Card,Active,2022-10-23,2023-01-04,17.8,499,5,67,3.5,7,23,3493,47.8,Low,51+,1
+CUST10911,Customer 911,47,Elite,Movie,Animation,Germany,Basic,Tablet,Credit Card,Paused,2025-03-28,2026-08-23,34.3,149,8,102,4.0,12,5,1788,51.3,Medium,36-50,0
+CUST10864,Customer 864,55,Lucifer,TV Show,Animation,France,Standard,Laptop,Net Banking,Active,2024-05-22,2026-03-29,86.9,499,13,9,4.0,5,23,2495,114.9,High,51+,1
+CUST10892,Customer 892,38,Dark,TV Show,Sci-Fi,India,Basic,Smart TV,PayPal,Active,2022-11-26,2023-01-21,54.7,149,20,54,3.1,22,3,3278,79.7,High,36-50,1
+CUST10130,Customer 130,28,Cobra Kai,TV Show,Animation,India,Premium,Mobile,UPI,Active,2022-11-12,2024-08-30,29.4,649,17,83,3.0,20,13,12980,62.4,Medium,26-35,1
+CUST10638,Customer 638,55,Peaky Blinders,Movie,Thriller,Canada,Basic,Mobile,PayPal,Cancelled,2022-12-22,2023-11-06,43.8,149,11,92,3.0,15,5,2235,63.8,Medium,51+,0
+CUST10403,Customer 403,54,Peaky Blinders,Movie,Sci-Fi,Australia,Premium,Laptop,UPI,Active,2025-05-03,2026-03-06,42.1,649,21,47,4.7,28,2,18172,72.1,Medium,51+,1
+CUST10789,Customer 789,18,Elite,TV Show,Drama,United States,Standard,Mobile,Debit Card,Cancelled,2025-10-04,2027-08-01,40.2,499,7,42,4.0,28,9,13972,77.2,Medium,18-25,0
+CUST10775,Customer 775,24,Bridgerton,TV Show,Crime,South Korea,Premium,Tablet,Debit Card,Active,2022-01-07,2022-06-27,57.5,649,12,42,4.7,6,0,3894,63.5,High,18-25,1
+CUST10736,Customer 736,43,The Crown,TV Show,Sci-Fi,France,Basic,Gaming Console,Credit Card,Active,2023-07-15,2024-04-06,53.8,149,12,106,2.6,30,13,4470,96.8,High,36-50,1
+CUST10918,Customer 918,27,Lupin,Movie,Crime,Japan,Premium,Gaming Console,Net Banking,Active,2023-09-13,2025-06-08,46.7,649,11,44,4.1,20,16,12980,82.7,Medium,26-35,1
+CUST10220,Customer 220,41,Ozark,Movie,Action,India,Basic,Gaming Console,PayPal,Active,2024-08-24,2025-05-06,44.0,149,27,117,4.3,10,2,1490,56.0,Medium,36-50,1
+CUST10642,Customer 642,64,Black Mirror,TV Show,Documentary,France,Basic,Smart TV,Debit Card,Active,2024-10-22,2025-09-03,83.7,149,5,52,4.7,5,12,745,100.7,High,51+,1
+CUST10920,Customer 920,32,Dark,TV Show,Animation,United States,Standard,Tablet,Debit Card,Active,2023-02-27,2024-10-03,46.9,499,1,107,4.4,28,25,13972,99.9,Medium,26-35,1
+CUST10757,Customer 757,58,The Crown,TV Show,Action,India,Standard,Gaming Console,Debit Card,Active,2024-02-05,2024-12-02,54.3,499,34,45,3.5,5,5,2495,64.3,High,51+,1
+CUST10811,Customer 811,54,Money Heist,Movie,Thriller,India,Premium,Mobile,UPI,Active,2025-01-03,2025-07-07,37.3,649,19,5,3.3,21,20,13629,78.3,Medium,51+,1
+CUST10924,Customer 924,58,The Crown,Movie,Sci-Fi,United States,Basic,Smart TV,UPI,Active,2023-10-16,2024-01-27,24.5,149,35,75,3.0,17,9,2533,50.5,Medium,51+,1
+CUST10625,Customer 625,19,The Crown,TV Show,Documentary,Japan,Basic,Smart TV,Credit Card,Active,2024-08-04,2024-08-15,81.8,149,17,14,4.3,6,10,894,97.8,High,18-25,1
+CUST10843,Customer 843,36,Dark,Movie,Comedy,Canada,Premium,Tablet,UPI,Active,2024-10-14,2026-03-01,13.9,649,14,90,2.9,15,22,9735,50.9,Low,36-50,1
+CUST10765,Customer 765,25,Money Heist,TV Show,Comedy,Spain,Standard,Laptop,Net Banking,Cancelled,2022-03-30,2023-04-23,70.7,499,18,89,2.9,6,18,2994,94.7,High,18-25,0
+CUST10387,Customer 387,35,The Witcher,Movie,Romance,France,Basic,Tablet,UPI,Cancelled,2025-02-10,2026-07-29,50.5,149,15,53,3.1,6,13,894,69.5,High,26-35,0
+CUST10510,Customer 510,31,Squid Game,TV Show,Horror,Japan,Premium,Tablet,Net Banking,Active,2025-10-14,2027-01-04,21.2,649,13,63,4.1,27,2,17523,50.2,Medium,26-35,1
+CUST10268,Customer 268,39,Bridgerton,TV Show,Drama,India,Basic,Smart TV,Debit Card,Active,2024-09-25,2025-03-17,6.2,149,11,62,4.5,26,2,3874,34.2,Low,36-50,1
+CUST10824,Customer 824,50,Elite,Movie,Horror,United States,Basic,Tablet,Credit Card,Active,2022-06-08,2023-06-24,32.9,149,27,9,4.1,30,9,4470,71.9,Medium,36-50,1
+CUST10442,Customer 442,26,Ozark,Movie,Comedy,United Kingdom,Basic,Laptop,Debit Card,Active,2025-05-23,2025-08-09,41.2,149,30,118,5.0,26,13,3874,80.2,Medium,26-35,1
+CUST10497,Customer 497,32,The Umbrella Academy,Movie,Romance,United States,Basic,Smart TV,UPI,Active,2024-11-19,2026-04-11,16.1,149,24,90,3.2,25,1,3725,42.1,Low,26-35,1
+CUST10113,Customer 113,27,Peaky Blinders,TV Show,Comedy,Spain,Standard,Tablet,Debit Card,Active,2023-03-18,2023-11-18,43.5,499,27,81,4.5,16,2,7984,61.5,Medium,26-35,1
+CUST10692,Customer 692,27,The Witcher,Movie,Action,France,Premium,Mobile,Debit Card,Paused,2025-07-23,2025-12-20,71.0,649,28,2,4.0,4,1,2596,76.0,High,26-35,0
+CUST10233,Customer 233,58,Peaky Blinders,Movie,Documentary,Japan,Premium,Smart TV,Net Banking,Cancelled,2023-05-26,2024-05-13,43.1,649,33,41,3.5,7,0,4543,50.1,Medium,51+,0
+CUST10874,Customer 874,55,Black Mirror,Movie,Documentary,France,Premium,Mobile,UPI,Active,2022-12-13,2024-05-10,23.7,649,10,93,3.2,7,14,4543,44.7,Medium,51+,1
+CUST10608,Customer 608,50,Ozark,TV Show,Sci-Fi,Canada,Basic,Smart TV,Credit Card,Active,2022-12-09,2023-12-27,10.9,149,34,88,3.7,17,15,2533,42.9,Low,36-50,1
+CUST10374,Customer 374,53,Sex Education,Movie,Comedy,India,Basic,Smart TV,Debit Card,Active,2023-07-20,2024-04-17,66.0,149,24,113,4.0,9,8,1341,83.0,High,51+,1
+CUST10987,Customer 987,18,Squid Game,TV Show,Crime,India,Premium,Gaming Console,Net Banking,Active,2022-01-26,2022-04-08,79.6,649,12,24,4.1,17,5,11033,101.6,High,18-25,1
+CUST10847,Customer 847,44,Money Heist,TV Show,Crime,Japan,Premium,Smart TV,PayPal,Cancelled,2023-03-17,2024-05-26,49.2,649,26,33,4.8,10,15,6490,74.2,Medium,36-50,0
+CUST10234,Customer 234,32,Stranger Things,TV Show,Drama,Germany,Standard,Gaming Console,Debit Card,Cancelled,2025-05-07,2026-01-01,25.7,499,11,12,3.1,9,8,4491,42.7,Medium,26-35,0
+CUST10790,Customer 790,62,Squid Game,Movie,Comedy,Australia,Premium,Gaming Console,UPI,Cancelled,2024-09-13,2026-02-24,0.5,649,10,71,4.4,17,4,11033,21.5,Low,51+,0
+CUST10677,Customer 677,35,Cobra Kai,Movie,Drama,United Kingdom,Standard,Laptop,PayPal,Active,2025-02-03,2026-12-30,14.2,499,35,70,4.0,29,12,14471,55.2,Low,26-35,1
+CUST10318,Customer 318,59,You,Movie,Action,United Kingdom,Basic,Tablet,Debit Card,Active,2024-11-19,2025-03-21,34.2,149,15,53,4.5,25,3,3725,62.2,Medium,51+,1
+CUST10649,Customer 649,25,You,Movie,Romance,India,Basic,Gaming Console,Credit Card,Active,2024-02-13,2026-01-02,36.2,149,7,1,2.7,26,0,3874,62.2,Medium,18-25,1
+CUST10411,Customer 411,54,Cobra Kai,TV Show,Action,Australia,Premium,Mobile,Debit Card,Cancelled,2022-12-06,2023-10-25,59.8,649,3,34,3.5,17,7,11033,83.8,High,51+,0
+CUST10903,Customer 903,61,Ozark,TV Show,Documentary,India,Premium,Gaming Console,UPI,Active,2022-12-15,2024-07-12,42.7,649,23,10,3.0,18,11,11682,71.7,Medium,51+,1
+CUST10710,Customer 710,44,Dark,Movie,Unknown,India,Basic,Tablet,PayPal,Active,2024-11-13,2025-11-10,84.4,149,19,28,4.8,23,12,3427,119.4,High,36-50,1
+CUST10359,Customer 359,63,The Witcher,TV Show,Sci-Fi,South Korea,Basic,Mobile,Credit Card,Active,2022-09-07,2022-12-13,50.1,149,34,85,5.0,17,12,2533,79.1,High,51+,1
+CUST10259,Customer 259,36,Stranger Things,TV Show,Drama,United Kingdom,Premium,Gaming Console,Credit Card,Cancelled,2022-07-05,2024-04-28,53.1,649,15,86,3.0,22,13,14278,88.1,High,36-50,0
+CUST10745,Customer 745,18,Black Mirror,Movie,Horror,Spain,Premium,Laptop,Debit Card,Active,2024-03-21,2025-05-20,54.9,649,16,0,4.8,15,1,9735,70.9,High,18-25,1
+CUST10628,Customer 628,46,Money Heist,Movie,Documentary,Spain,Premium,Smart TV,UPI,Active,2023-03-04,2023-05-08,38.9,649,25,98,3.0,9,11,5841,58.9,Medium,36-50,1
+CUST10633,Customer 633,61,Dark,TV Show,Action,Japan,Premium,Smart TV,UPI,Active,2024-03-06,2025-11-20,38.0,649,29,48,3.8,25,7,16225,70.0,Medium,51+,1
+CUST10283,Customer 283,28,The Crown,TV Show,Romance,South Korea,Standard,Laptop,Debit Card,Active,2024-10-12,2025-05-29,81.7,499,25,51,4.5,4,14,1996,99.7,High,26-35,1
+CUST10377,Customer 377,20,Squid Game,Movie,Romance,Canada,Standard,Tablet,Credit Card,Active,2024-12-09,2026-01-16,63.8,499,29,96,4.0,18,2,8982,83.8,High,18-25,1
+CUST10385,Customer 385,49,Cobra Kai,Movie,Action,South Korea,Basic,Gaming Console,PayPal,Active,2023-10-09,2023-11-01,23.0,149,3,31,4.8,11,10,1639,44.0,Medium,36-50,1
+CUST10225,Customer 225,47,The Crown,Movie,Horror,United Kingdom,Standard,Smart TV,UPI,Active,2024-02-02,2024-04-06,30.2,499,28,84,4.9,9,9,4491,48.2,Medium,36-50,1
+CUST10959,Customer 959,50,Bridgerton,TV Show,Horror,South Korea,Premium,Tablet,Credit Card,Cancelled,2022-06-19,2023-01-09,56.2,649,23,67,4.0,6,18,3894,80.2,High,36-50,0
+CUST10948,Customer 948,51,Dark,Movie,Sci-Fi,India,Basic,Mobile,Net Banking,Cancelled,2022-09-20,2024-07-28,24.7,149,19,47,4.0,28,5,4172,57.7,Medium,51+,0
+CUST10473,Customer 473,40,The Umbrella Academy,TV Show,Drama,Spain,Basic,Tablet,UPI,Active,2024-08-28,2025-04-23,4.1,149,34,82,3.3,20,10,2980,34.1,Low,36-50,1
+CUST10348,Customer 348,41,Lupin,TV Show,Documentary,United Kingdom,Standard,Tablet,UPI,Active,2024-06-30,2025-02-26,6.8,499,17,120,4.4,25,2,12475,33.8,Low,36-50,1
+CUST10506,Customer 506,43,You,TV Show,Animation,France,Premium,Gaming Console,Debit Card,Cancelled,2022-04-25,2023-02-11,29.8,649,21,7,2.6,3,4,1947,36.8,Medium,36-50,0
+CUST10640,Customer 640,65,The Umbrella Academy,Movie,Sci-Fi,India,Premium,Smart TV,PayPal,Cancelled,2025-06-02,2026-04-06,9.6,649,35,19,3.9,7,8,4543,24.6,Low,51+,0
+CUST10993,Customer 993,24,Squid Game,TV Show,Animation,France,Basic,Laptop,PayPal,Paused,2024-10-03,2025-07-25,35.8,149,4,67,4.6,8,2,1192,45.8,Medium,18-25,0
+CUST10933,Customer 933,22,The Witcher,Movie,Romance,Germany,Standard,Gaming Console,PayPal,Paused,2022-08-07,2022-09-24,5.8,499,25,88,4.9,24,15,11976,44.8,Low,18-25,0
+CUST10910,Customer 910,59,Ozark,Movie,Action,Germany,Premium,Laptop,Credit Card,Active,2025-05-16,2025-12-07,96.1,649,21,16,3.2,30,0,19470,126.1,High,51+,1
+CUST10620,Customer 620,65,The Crown,TV Show,Thriller,United Kingdom,Standard,Tablet,Debit Card,Active,2024-09-06,2026-07-19,47.6,499,31,20,4.0,11,18,5489,76.6,Medium,51+,1
+CUST10860,Customer 860,44,Ozark,Movie,Crime,United States,Basic,Smart TV,Debit Card,Cancelled,2025-01-25,2026-12-19,57.8,149,18,66,3.3,30,11,4470,98.8,High,36-50,0
+CUST10808,Customer 808,35,Money Heist,Movie,Drama,Germany,Standard,Gaming Console,Credit Card,Active,2022-09-23,2023-12-09,30.0,499,31,38,4.5,30,7,14970,67.0,Medium,26-35,1
+CUST10646,Customer 646,64,The Umbrella Academy,Movie,Comedy,Australia,Premium,Laptop,Credit Card,Active,2023-09-23,2024-04-25,35.2,649,26,89,3.3,7,15,4543,57.2,Medium,51+,1
+CUST10851,Customer 851,50,Ozark,TV Show,Drama,United Kingdom,Premium,Laptop,Debit Card,Active,2022-07-29,2024-05-06,26.4,649,16,4,3.2,5,25,3245,56.4,Medium,36-50,1
+CUST10557,Customer 557,20,Peaky Blinders,TV Show,Action,Canada,Standard,Gaming Console,UPI,Cancelled,2023-12-29,2025-03-22,29.8,499,30,107,4.4,5,25,2495,59.8,Medium,18-25,0
+CUST10963,Customer 963,43,Bridgerton,TV Show,Documentary,Australia,Basic,Tablet,Credit Card,Cancelled,2023-05-12,2023-07-24,46.9,149,15,35,2.9,14,3,2086,63.9,Medium,36-50,0
+CUST10578,Customer 578,37,The Umbrella Academy,Movie,Drama,Australia,Basic,Laptop,Credit Card,Active,2022-11-12,2023-01-11,61.3,149,20,49,2.7,6,13,894,80.3,High,36-50,1
+CUST10796,Customer 796,35,Stranger Things,Movie,Romance,Canada,Standard,Gaming Console,Credit Card,Active,2024-07-27,2026-01-16,68.3,499,25,65,2.7,22,4,10978,94.3,High,26-35,1
+CUST10086,Customer 86,42,Cobra Kai,TV Show,Sci-Fi,Canada,Premium,Gaming Console,PayPal,Active,2023-10-28,2024-02-23,29.5,649,14,55,3.6,9,13,5841,51.5,Medium,36-50,1
+CUST10243,Customer 243,28,Elite,Movie,Drama,Spain,Premium,Mobile,Debit Card,Active,2023-04-07,2023-07-24,54.6,649,5,43,2.9,14,5,9086,73.6,High,26-35,1
+CUST10699,Customer 699,35,Dark,TV Show,Drama,Australia,Basic,Mobile,Credit Card,Cancelled,2025-05-12,2026-06-24,65.1,149,32,87,3.8,18,2,2682,85.1,High,26-35,0
+CUST10160,Customer 160,27,You,Movie,Comedy,India,Standard,Smart TV,Net Banking,Cancelled,2023-12-10,2023-12-27,58.4,499,16,26,2.7,21,1,10479,80.4,High,26-35,0
+CUST10525,Customer 525,23,Wednesday,Movie,Thriller,Canada,Standard,Tablet,Net Banking,Active,2025-03-25,2026-02-16,22.9,499,29,61,4.7,6,8,2994,36.9,Medium,18-25,1
+CUST10036,Customer 36,38,Elite,TV Show,Horror,Germany,Premium,Tablet,PayPal,Active,2025-05-04,2026-01-13,11.5,649,18,98,4.4,17,20,11033,48.5,Low,36-50,1
+CUST10541,Customer 541,59,Dark,Movie,Crime,Germany,Standard,Smart TV,Debit Card,Paused,2023-08-07,2025-04-16,62.9,499,9,45,4.2,28,11,13972,101.9,High,51+,0
+CUST10171,Customer 171,18,The Umbrella Academy,Movie,Thriller,United States,Premium,Tablet,UPI,Active,2022-04-10,2023-07-21,19.8,649,24,7,4.0,23,19,14927,61.8,Low,18-25,1
+CUST10655,Customer 655,47,Bridgerton,TV Show,Comedy,Germany,Premium,Gaming Console,Credit Card,Active,2025-01-28,2025-07-22,106.3,649,6,13,3.6,24,0,15576,130.3,Very High,36-50,1
+CUST10895,Customer 895,56,Black Mirror,TV Show,Documentary,Japan,Standard,Laptop,UPI,Active,2022-04-13,2022-10-14,76.6,499,19,45,3.5,16,10,7984,102.6,High,51+,1
+CUST10862,Customer 862,28,Sex Education,TV Show,Drama,Japan,Premium,Smart TV,Credit Card,Active,2022-10-05,2022-12-13,4.1,649,1,39,4.3,8,22,5192,34.1,Low,26-35,1
+CUST10852,Customer 852,43,Dark,TV Show,Comedy,United States,Standard,Mobile,Net Banking,Cancelled,2025-09-04,2026-11-04,28.1,499,2,1,4.4,19,19,9481,66.1,Medium,36-50,0
+CUST10949,Customer 949,29,Sex Education,Movie,Action,Japan,Standard,Mobile,Credit Card,Active,2022-12-20,2023-07-17,40.9,499,20,51,4.1,28,8,13972,76.9,Medium,26-35,1
+CUST10096,Customer 96,43,Money Heist,TV Show,Drama,Germany,Standard,Mobile,Debit Card,Active,2022-05-28,2024-01-06,5.4,499,26,90,4.1,11,3,5489,19.4,Low,36-50,1
+CUST10564,Customer 564,46,Black Mirror,TV Show,Thriller,Spain,Premium,Mobile,UPI,Active,2025-08-28,2026-10-02,33.8,649,9,66,5.0,11,6,7139,50.8,Medium,36-50,1
+CUST10241,Customer 241,58,Squid Game,TV Show,Drama,Spain,Basic,Tablet,Credit Card,Active,2025-10-04,2026-09-28,22.2,149,17,100,2.8,2,1,298,25.2,Medium,51+,1
+CUST10743,Customer 743,23,Stranger Things,TV Show,Comedy,Germany,Basic,Gaming Console,Net Banking,Active,2022-08-01,2023-10-30,26.4,149,33,74,4.5,23,9,3427,58.4,Medium,18-25,1
+CUST10575,Customer 575,54,Lucifer,Movie,Horror,United States,Premium,Tablet,Net Banking,Active,2022-02-20,2022-04-16,62.7,649,34,24,4.4,18,0,11682,80.7,High,51+,1
+CUST10691,Customer 691,29,The Witcher,TV Show,Comedy,Spain,Premium,Tablet,PayPal,Active,2024-11-13,2025-02-27,33.0,649,33,78,3.0,29,18,18821,80.0,Medium,26-35,1
+CUST10461,Customer 461,65,The Umbrella Academy,Movie,Documentary,South Korea,Basic,Mobile,PayPal,Active,2023-05-01,2023-06-26,91.1,149,28,18,3.0,21,14,3129,126.1,High,51+,1
+CUST10554,Customer 554,56,Elite,Movie,Crime,France,Premium,Smart TV,Debit Card,Cancelled,2023-11-26,2024-05-10,48.4,649,14,36,4.2,4,21,2596,73.4,Medium,51+,0
+CUST10883,Customer 883,54,The Umbrella Academy,TV Show,Sci-Fi,South Korea,Standard,Laptop,Debit Card,Active,2025-04-30,2026-09-07,29.8,499,26,38,2.6,30,7,14970,66.8,Medium,51+,1
+CUST10207,Customer 207,45,Narcos,Movie,Crime,United Kingdom,Standard,Laptop,UPI,Active,2022-01-02,2022-09-16,54.9,499,6,47,4.2,22,5,10978,81.9,High,36-50,1
+CUST10393,Customer 393,30,Narcos,Movie,Action,Germany,Premium,Gaming Console,PayPal,Active,2025-10-06,2027-01-18,9.0,649,16,54,3.5,3,19,1947,31.0,Low,26-35,1
+CUST10795,Customer 795,19,Lucifer,TV Show,Comedy,Australia,Standard,Smart TV,UPI,Active,2022-10-31,2022-12-05,15.0,499,29,5,4.8,13,4,6487,32.0,Low,18-25,1
+CUST10398,Customer 398,63,Wednesday,Movie,Comedy,Germany,Premium,Laptop,UPI,Active,2022-12-02,2023-12-31,75.8,649,33,78,4.9,14,17,9086,106.8,High,51+,1
+CUST10767,Customer 767,32,The Crown,TV Show,Crime,United States,Premium,Laptop,Net Banking,Cancelled,2024-09-15,2025-05-22,41.1,649,14,88,2.7,17,1,11033,59.1,Medium,26-35,0
+CUST10853,Customer 853,65,Lupin,TV Show,Thriller,Australia,Basic,Laptop,Debit Card,Active,2022-07-15,2022-08-08,26.1,149,20,35,3.6,5,8,745,39.1,Medium,51+,1
+CUST10218,Customer 218,26,You,Movie,Drama,Japan,Basic,Smart TV,Debit Card,Active,2024-02-01,2024-10-28,36.1,149,5,63,3.6,13,1,1937,50.1,Medium,26-35,1
+CUST10005,Customer 5,58,Black Mirror,Movie,Romance,Japan,Standard,Tablet,Debit Card,Cancelled,2024-07-17,2026-06-17,36.1,499,5,77,4.1,19,23,9481,78.1,Medium,51+,0
+CUST10769,Customer 769,59,Dark,Movie,Action,South Korea,Premium,Laptop,PayPal,Paused,2024-07-18,2026-04-15,26.3,649,33,25,4.5,8,2,5192,36.3,Medium,51+,0
+CUST10643,Customer 643,30,The Umbrella Academy,TV Show,Romance,Canada,Premium,Smart TV,Debit Card,Active,2022-11-29,2024-09-26,35.5,649,25,118,3.6,9,7,5841,51.5,Medium,26-35,1
+CUST10902,Customer 902,48,Peaky Blinders,Movie,Romance,Japan,Premium,Laptop,Debit Card,Cancelled,2024-03-07,2024-08-10,32.2,649,30,109,4.4,8,17,5192,57.2,Medium,36-50,0
+CUST10613,Customer 613,65,You,Movie,Animation,United Kingdom,Standard,Gaming Console,Debit Card,Active,2023-09-12,2024-07-15,49.0,499,19,105,3.4,14,12,6986,75.0,Medium,51+,1
+CUST10739,Customer 739,61,The Umbrella Academy,TV Show,Horror,India,Standard,Smart TV,Credit Card,Active,2022-08-21,2024-06-06,83.6,499,7,4,3.0,8,13,3992,104.6,High,51+,1
+CUST10547,Customer 547,29,The Crown,TV Show,Comedy,France,Basic,Gaming Console,UPI,Active,2023-03-09,2023-07-07,56.4,149,1,21,4.1,16,22,2384,94.4,High,26-35,1
+CUST10726,Customer 726,28,Dark,TV Show,Comedy,United States,Basic,Tablet,Credit Card,Cancelled,2023-08-18,2025-06-18,37.4,149,10,98,4.3,18,16,2682,71.4,Medium,26-35,0
+CUST10684,Customer 684,48,Lucifer,TV Show,Thriller,India,Standard,Gaming Console,PayPal,Active,2023-09-05,2024-07-14,54.2,499,33,105,4.7,16,19,7984,89.2,High,36-50,1
+CUST10099,Customer 99,27,You,Movie,Action,Australia,Basic,Tablet,UPI,Active,2022-07-30,2024-05-04,42.1,149,32,59,4.4,26,18,3874,86.1,Medium,26-35,1
+CUST10805,Customer 805,63,Black Mirror,Movie,Action,Spain,Standard,Mobile,Net Banking,Active,2024-03-10,2025-08-23,31.1,499,33,39,3.5,3,17,1497,51.1,Medium,51+,1
+CUST10728,Customer 728,57,Cobra Kai,Movie,Action,Australia,Basic,Smart TV,UPI,Cancelled,2023-03-04,2023-07-29,50.7,149,20,70,4.7,27,25,4023,102.7,High,51+,0
+CUST10574,Customer 574,23,Cobra Kai,TV Show,Documentary,South Korea,Premium,Smart TV,Debit Card,Active,2023-10-29,2025-09-15,36.5,649,29,94,3.2,4,5,2596,45.5,Medium,18-25,1
+CUST10407,Customer 407,57,The Umbrella Academy,TV Show,Drama,Japan,Basic,Laptop,Net Banking,Cancelled,2023-03-01,2023-10-05,15.3,149,1,81,3.0,11,8,1639,34.3,Low,51+,0
+CUST10503,Customer 503,57,Wednesday,Movie,Horror,Germany,Standard,Smart TV,Credit Card,Active,2025-06-27,2026-11-19,7.0,499,32,64,3.2,12,25,5988,44.0,Low,51+,1
+CUST10048,Customer 48,53,Stranger Things,Movie,Comedy,South Korea,Premium,Smart TV,PayPal,Active,2023-07-20,2024-03-23,68.4,649,31,82,4.3,16,25,10384,109.4,High,51+,1
+CUST10033,Customer 33,65,Bridgerton,Movie,Crime,Canada,Premium,Gaming Console,Debit Card,Active,2024-08-27,2025-04-25,41.7,649,20,28,4.5,6,0,3894,47.7,Medium,51+,1
+CUST10780,Customer 780,30,Ozark,Movie,Crime,Canada,Basic,Smart TV,Net Banking,Active,2022-07-02,2024-05-28,57.5,149,23,113,3.3,20,13,2980,90.5,High,26-35,1
+CUST10840,Customer 840,46,The Umbrella Academy,TV Show,Crime,United States,Premium,Tablet,Debit Card,Cancelled,2022-09-03,2023-01-01,36.7,649,23,102,2.7,27,7,17523,70.7,Medium,36-50,0
+CUST10201,Customer 201,33,Narcos,TV Show,Animation,France,Standard,Tablet,Net Banking,Active,2022-08-29,2023-03-29,50.9,499,14,103,2.6,13,17,6487,80.9,High,26-35,1
+CUST10135,Customer 135,49,Cobra Kai,TV Show,Crime,Canada,Basic,Mobile,UPI,Active,2023-07-31,2024-04-27,19.0,149,24,97,3.5,3,12,447,34.0,Low,36-50,1
+CUST10028,Customer 28,32,Stranger Things,Movie,Documentary,Japan,Standard,Laptop,UPI,Paused,2023-04-12,2024-01-23,51.4,499,23,82,3.8,23,17,11477,91.4,High,26-35,0
+CUST10885,Customer 885,26,Dark,TV Show,Drama,United States,Basic,Unknown,Credit Card,Cancelled,2025-03-09,2026-06-22,59.0,149,26,21,3.7,23,4,3427,86.0,High,26-35,0
+CUST10231,Customer 231,20,Elite,Movie,Action,Australia,Standard,Smart TV,PayPal,Active,2022-09-08,2023-10-05,23.7,499,28,22,3.4,7,8,3493,38.7,Medium,18-25,1
+CUST10490,Customer 490,50,The Witcher,Movie,Horror,Australia,Basic,Gaming Console,Net Banking,Cancelled,2022-11-13,2023-03-10,64.0,149,27,58,4.8,5,4,745,73.0,High,36-50,0
+CUST10773,Customer 773,59,The Witcher,Movie,Thriller,United States,Premium,Mobile,UPI,Active,2022-04-13,2022-12-14,57.8,649,5,68,2.8,9,19,5841,85.8,High,51+,1
+CUST10379,Customer 379,26,The Queen's Gambit,Movie,Sci-Fi,France,Premium,Gaming Console,Credit Card,Active,2022-09-25,2024-03-15,96.7,649,16,31,2.7,26,13,16874,135.7,High,26-35,1
+CUST10289,Customer 289,50,Bridgerton,Movie,Action,United States,Premium,Smart TV,Net Banking,Active,2024-09-16,2025-08-12,49.0,649,33,112,3.5,21,22,13629,92.0,Medium,36-50,1
+CUST10419,Customer 419,37,Elite,TV Show,Thriller,South Korea,Basic,Tablet,Net Banking,Active,2024-07-22,2025-07-30,71.5,149,26,23,4.2,23,10,3427,104.5,High,36-50,1
+CUST10675,Customer 675,35,Wednesday,Movie,Horror,France,Basic,Mobile,Debit Card,Active,2022-06-08,2023-06-15,6.8,149,22,99,3.2,29,25,4321,60.8,Low,26-35,1
+CUST10392,Customer 392,29,Ozark,TV Show,Sci-Fi,United Kingdom,Premium,Tablet,Credit Card,Active,2024-02-05,2025-03-30,54.3,649,1,118,3.2,15,7,9735,76.3,High,26-35,1
+CUST10593,Customer 593,58,Wednesday,Movie,Sci-Fi,France,Standard,Mobile,Net Banking,Cancelled,2022-05-09,2023-04-17,54.0,499,17,31,2.8,9,10,4491,73.0,High,51+,0
+CUST10499,Customer 499,48,Black Mirror,Movie,Drama,Germany,Basic,Mobile,PayPal,Active,2022-05-23,2024-03-28,20.1,149,6,15,2.9,14,22,2086,56.1,Medium,36-50,1
+CUST10139,Customer 139,39,Sex Education,TV Show,Animation,Spain,Standard,Smart TV,UPI,Active,2025-04-30,2027-03-21,62.3,499,8,53,4.0,27,23,13473,112.3,High,36-50,1
+CUST10063,Customer 63,59,Dark,TV Show,Crime,Canada,Standard,Laptop,PayPal,Cancelled,2022-08-29,2023-12-26,14.3,499,16,58,3.9,14,6,6986,34.3,Low,51+,0
+CUST10648,Customer 648,29,Narcos,Movie,Action,South Korea,Premium,Laptop,PayPal,Active,2023-03-12,2024-12-11,40.6,649,7,111,4.1,4,9,2596,53.6,Medium,26-35,1
+CUST10129,Customer 129,36,The Crown,TV Show,Thriller,Canada,Standard,Laptop,Credit Card,Active,2024-11-28,2026-08-20,44.5,499,35,11,3.8,7,18,3493,69.5,Medium,36-50,1
+CUST10982,Customer 982,63,Dark,TV Show,Thriller,Germany,Standard,Laptop,Net Banking,Active,2024-06-01,2025-04-09,52.6,499,22,29,3.9,30,16,14970,98.6,High,51+,1
+CUST10521,Customer 521,56,Money Heist,Movie,Thriller,Spain,Basic,Gaming Console,PayPal,Active,2025-08-14,2026-08-21,0.3,149,8,68,4.7,29,14,4321,43.3,Low,51+,1
+CUST10839,Customer 839,18,The Queen's Gambit,Movie,Romance,South Korea,Premium,Laptop,Net Banking,Active,2023-02-04,2024-05-05,66.6,649,34,16,4.6,11,3,7139,80.6,High,18-25,1
+CUST10968,Customer 968,55,The Queen's Gambit,Movie,Animation,France,Standard,Laptop,UPI,Paused,2023-05-13,2024-09-24,87.0,499,25,77,3.8,23,12,11477,122.0,High,51+,0
+CUST10065,Customer 65,27,Elite,TV Show,Romance,Japan,Premium,Gaming Console,Net Banking,Active,2024-09-29,2025-08-25,62.3,649,13,89,3.1,14,7,9086,83.3,High,26-35,1
+CUST10813,Customer 813,63,Lucifer,TV Show,Horror,Spain,Basic,Tablet,Net Banking,Cancelled,2024-06-27,2025-05-20,78.2,149,35,64,2.8,13,13,1937,104.2,High,51+,0
+CUST10157,Customer 157,22,Money Heist,TV Show,Romance,United States,Basic,Gaming Console,UPI,Paused,2025-03-30,2025-06-09,88.6,149,31,4,3.2,7,24,1043,119.6,High,18-25,0
+CUST10041,Customer 41,34,Ozark,TV Show,Thriller,Germany,Basic,Laptop,Debit Card,Cancelled,2022-04-13,2023-05-07,60.5,149,18,96,4.9,15,8,2235,83.5,High,26-35,0
+CUST10493,Customer 493,30,Wednesday,Movie,Horror,Australia,Standard,Mobile,PayPal,Active,2022-03-29,2022-12-14,43.9,499,3,8,3.3,2,24,998,69.9,Medium,26-35,1
+CUST10380,Customer 380,23,Wednesday,TV Show,Documentary,Japan,Standard,Laptop,Credit Card,Active,2025-03-25,2026-11-24,21.8,499,2,98,3.3,13,19,6487,53.8,Medium,18-25,1
+CUST10188,Customer 188,58,The Crown,Movie,Thriller,Japan,Premium,Tablet,Net Banking,Active,2025-05-01,2027-02-21,40.2,649,26,96,3.3,27,13,17523,80.2,Medium,51+,1
+CUST10764,Customer 764,26,Wednesday,TV Show,Documentary,South Korea,Basic,Tablet,UPI,Active,2022-01-22,2023-02-04,39.6,149,35,0,4.8,29,1,4321,69.6,Medium,26-35,1
+CUST10217,Customer 217,65,Bridgerton,Movie,Drama,United Kingdom,Premium,Mobile,Credit Card,Active,2025-09-09,2026-08-31,22.7,649,34,66,4.5,25,8,16225,55.7,Medium,51+,1
+CUST10792,Customer 792,33,Narcos,Movie,Sci-Fi,India,Premium,Gaming Console,PayPal,Active,2022-07-18,2022-11-20,47.2,649,20,51,3.7,7,7,4543,61.2,Medium,26-35,1
+CUST10053,Customer 53,43,The Queen's Gambit,Movie,Animation,India,Basic,Tablet,Credit Card,Cancelled,2022-05-14,2023-03-22,25.1,149,6,31,2.8,26,13,3874,64.1,Medium,36-50,0
+CUST10879,Customer 879,20,Lupin,TV Show,Action,Canada,Premium,Gaming Console,Credit Card,Paused,2022-12-16,2024-03-05,41.6,649,23,82,4.5,27,9,17523,77.6,Medium,18-25,0
+CUST10338,Customer 338,57,Stranger Things,Movie,Sci-Fi,Japan,Premium,Gaming Console,Debit Card,Active,2024-10-05,2026-05-17,34.0,649,18,62,3.0,26,16,16874,76.0,Medium,51+,1
+CUST10749,Customer 749,19,Dark,TV Show,Romance,United Kingdom,Premium,Tablet,Credit Card,Active,2024-02-23,2025-08-25,26.7,649,16,92,4.5,27,12,17523,65.7,Medium,18-25,1
+CUST10720,Customer 720,29,Sex Education,Movie,Drama,France,Basic,Smart TV,PayPal,Active,2025-05-22,2026-02-11,40.6,149,33,39,4.3,15,5,2235,60.6,Medium,26-35,1
+CUST10725,Customer 725,43,Black Mirror,Movie,Comedy,Japan,Basic,Smart TV,Net Banking,Active,2023-10-07,2024-03-09,46.3,149,2,75,4.5,17,18,2533,81.3,Medium,36-50,1
+CUST10296,Customer 296,36,Elite,Movie,Comedy,United Kingdom,Basic,Tablet,Net Banking,Active,2023-02-01,2023-03-15,24.7,149,28,35,3.9,6,5,894,35.7,Medium,36-50,1
+CUST10702,Customer 702,35,Dark,TV Show,Drama,South Korea,Premium,Tablet,Net Banking,Active,2022-10-31,2024-08-26,68.2,649,23,80,4.0,13,10,8437,91.2,High,26-35,1
+CUST10252,Customer 252,55,Sex Education,TV Show,Comedy,France,Premium,Tablet,Credit Card,Active,2025-06-30,2027-02-17,64.9,649,7,118,2.8,26,3,16874,93.9,High,51+,1
+CUST10727,Customer 727,59,Sex Education,TV Show,Sci-Fi,United Kingdom,Premium,Laptop,Debit Card,Active,2025-05-31,2026-08-16,42.5,649,3,114,4.3,23,12,14927,77.5,Medium,51+,1
+CUST10462,Customer 462,41,Dark,TV Show,Thriller,Japan,Basic,Laptop,Credit Card,Active,2024-03-04,2024-04-06,42.9,149,4,35,2.8,29,14,4321,85.9,Medium,36-50,1
+CUST10456,Customer 456,31,Dark,TV Show,Horror,Germany,Standard,Smart TV,Credit Card,Paused,2022-09-17,2024-06-04,22.2,499,3,76,3.0,17,19,8483,58.2,Medium,26-35,0
+CUST10816,Customer 816,42,The Queen's Gambit,Movie,Documentary,France,Standard,Smart TV,UPI,Active,2025-06-02,2026-06-26,4.9,499,12,84,3.6,3,21,1497,28.9,Low,36-50,1
+CUST10863,Customer 863,47,Squid Game,Movie,Drama,Australia,Basic,Smart TV,Net Banking,Active,2025-01-06,2025-12-31,80.7,149,15,44,4.1,8,8,1192,96.7,High,36-50,1
+CUST10270,Customer 270,61,Stranger Things,Movie,Thriller,Japan,Basic,Laptop,Credit Card,Active,2022-02-06,2023-07-07,45.3,149,20,21,2.7,3,9,447,57.3,Medium,51+,1
+CUST10202,Customer 202,52,Bridgerton,TV Show,Crime,Spain,Standard,Gaming Console,Debit Card,Paused,2025-05-07,2026-10-16,56.0,499,7,17,4.9,27,13,13473,96.0,High,51+,0
+CUST10162,Customer 162,54,Cobra Kai,TV Show,Thriller,Spain,Premium,Unknown,Net Banking,Active,2023-10-16,2024-08-19,61.7,649,18,7,3.9,20,23,12980,104.7,High,51+,1
+CUST10556,Customer 556,40,Bridgerton,Movie,Horror,India,Standard,Mobile,Debit Card,Active,2023-06-19,2025-03-13,31.7,499,15,15,3.9,17,8,8483,56.7,Medium,36-50,1
+CUST10730,Customer 730,48,You,TV Show,Action,United States,Standard,Gaming Console,PayPal,Active,2023-06-13,2024-04-02,22.5,499,26,52,4.6,23,4,11477,49.5,Medium,36-50,1
+CUST10402,Customer 402,20,Lupin,TV Show,Romance,United States,Basic,Mobile,UPI,Active,2022-10-25,2023-04-26,27.0,149,11,86,3.2,23,22,3427,72.0,Medium,18-25,1
+CUST10703,Customer 703,34,Dark,TV Show,Animation,Spain,Basic,Laptop,UPI,Active,2025-01-29,2025-02-09,24.4,149,23,28,4.3,10,5,1490,39.4,Medium,26-35,1
+CUST10477,Customer 477,41,Elite,Movie,Horror,Spain,Standard,Mobile,UPI,Active,2022-10-30,2024-03-25,56.4,499,10,58,4.8,6,0,2994,62.4,High,36-50,1
+CUST10822,Customer 822,49,Dark,Movie,Action,United Kingdom,Standard,Gaming Console,UPI,Active,2023-06-16,2025-04-17,77.2,499,3,23,4.2,29,14,14471,120.2,High,36-50,1
+CUST10772,Customer 772,59,Ozark,TV Show,Thriller,Spain,Basic,Tablet,PayPal,Active,2022-04-11,2023-01-19,27.9,149,34,77,3.7,15,3,2235,45.9,Medium,51+,1
+CUST10106,Customer 106,62,Sex Education,Movie,Documentary,Canada,Basic,Laptop,UPI,Active,2025-10-04,2026-04-07,52.1,149,14,43,4.9,17,6,2533,75.1,High,51+,1
+CUST10566,Customer 566,41,You,TV Show,Comedy,India,Premium,Mobile,PayPal,Active,2022-05-03,2022-05-09,31.8,649,30,43,5.0,27,23,17523,81.8,Medium,36-50,1
+CUST10390,Customer 390,44,The Umbrella Academy,TV Show,Sci-Fi,Spain,Basic,Tablet,Credit Card,Active,2023-10-15,2024-04-22,27.6,149,2,97,5.0,21,8,3129,56.6,Medium,36-50,1
+CUST10002,Customer 2,53,Narcos,TV Show,Thriller,Germany,Premium,Gaming Console,Debit Card,Cancelled,2022-02-24,2022-03-03,38.5,649,11,89,3.6,10,4,6490,52.5,Medium,51+,0
+CUST10942,Customer 942,63,Lupin,Movie,Thriller,United Kingdom,Premium,Tablet,Debit Card,Active,2023-12-28,2024-01-24,63.8,649,35,77,4.9,3,24,1947,90.8,High,51+,1
+CUST10988,Customer 988,40,Wednesday,Movie,Animation,Japan,Premium,Gaming Console,Credit Card,Cancelled,2023-03-24,2023-09-22,63.9,649,33,19,4.5,16,0,10384,79.9,High,36-50,0
+CUST10562,Customer 562,45,Money Heist,TV Show,Drama,United Kingdom,Standard,Gaming Console,UPI,Paused,2022-12-03,2024-10-10,93.9,499,34,37,3.5,30,21,14970,144.9,High,36-50,0
+CUST10081,Customer 81,60,Narcos,Movie,Drama,Japan,Standard,Tablet,Credit Card,Cancelled,2022-07-07,2023-02-03,36.5,499,5,106,4.4,8,18,3992,62.5,Medium,51+,0
+CUST10206,Customer 206,26,Lupin,TV Show,Romance,India,Premium,Mobile,UPI,Active,2025-03-29,2026-07-13,18.6,649,2,15,4.8,7,14,4543,39.6,Low,26-35,1
+CUST10035,Customer 35,45,The Witcher,Movie,Horror,Germany,Basic,Mobile,Net Banking,Active,2022-08-07,2022-12-10,62.6,149,30,17,4.5,23,16,3427,101.6,High,36-50,1
+CUST10776,Customer 776,45,Squid Game,Movie,Action,Spain,Premium,Mobile,Credit Card,Active,2024-08-29,2024-09-08,2.7,649,23,60,4.0,17,7,11033,26.7,Low,36-50,1
+CUST10509,Customer 509,44,You,Movie,Sci-Fi,Australia,Premium,Mobile,Debit Card,Active,2024-11-20,2025-12-25,43.2,649,21,73,2.7,17,3,11033,63.2,Medium,36-50,1
+CUST10428,Customer 428,60,Dark,Movie,Drama,United States,Basic,Mobile,Credit Card,Cancelled,2023-08-14,2024-12-25,59.2,149,28,17,2.7,22,25,3278,106.2,High,51+,0
+CUST10455,Customer 455,19,The Queen's Gambit,Movie,Drama,India,Standard,Tablet,UPI,Cancelled,2022-11-20,2024-07-20,28.7,499,19,53,4.2,27,24,13473,79.7,Medium,18-25,0
+CUST10367,Customer 367,24,Sex Education,Movie,Drama,United Kingdom,Standard,Tablet,UPI,Active,2022-08-15,2023-12-26,47.6,499,13,12,2.6,22,12,10978,81.6,Medium,18-25,1
+CUST10092,Customer 92,31,Ozark,TV Show,Sci-Fi,Japan,Basic,Tablet,Debit Card,Active,2024-12-22,2025-11-20,66.2,149,6,113,2.6,7,24,1043,97.2,High,26-35,1
+CUST10340,Customer 340,25,Sex Education,TV Show,Romance,India,Basic,Mobile,Credit Card,Active,2024-07-25,2024-11-06,27.9,149,21,46,4.0,10,5,1490,42.9,Medium,18-25,1
+CUST10898,Customer 898,42,Sex Education,Movie,Romance,Spain,Premium,Smart TV,PayPal,Active,2022-07-27,2023-04-17,45.7,649,6,107,4.8,5,25,3245,75.7,Medium,36-50,1
+CUST10565,Customer 565,53,Lucifer,TV Show,Action,India,Basic,Mobile,Net Banking,Active,2024-11-13,2025-07-19,72.0,149,20,92,3.6,18,3,2682,93.0,High,51+,1
+CUST10346,Customer 346,50,The Queen's Gambit,TV Show,Comedy,France,Standard,Gaming Console,Debit Card,Active,2025-10-10,2026-03-08,47.8,499,11,81,4.5,12,13,5988,72.8,Medium,36-50,1
+CUST10777,Customer 777,20,Stranger Things,TV Show,Thriller,Canada,Standard,Gaming Console,Credit Card,Cancelled,2022-08-13,2022-11-18,23.8,499,7,38,4.5,12,14,5988,49.8,Medium,18-25,0
+CUST10242,Customer 242,64,The Umbrella Academy,Movie,Documentary,Germany,Standard,Smart TV,Debit Card,Active,2024-06-16,2024-09-28,39.1,499,31,100,4.7,22,24,10978,85.1,Medium,51+,1
+CUST10316,Customer 316,38,Wednesday,TV Show,Crime,Australia,Basic,Gaming Console,Net Banking,Active,2025-08-21,2027-06-22,42.5,149,25,46,4.0,30,2,4470,74.5,Medium,36-50,1
+CUST10601,Customer 601,55,Lupin,TV Show,Animation,Spain,Premium,Smart TV,Debit Card,Active,2023-11-10,2025-02-18,60.9,649,3,63,3.0,2,20,1298,82.9,High,51+,1
+CUST10388,Customer 388,39,Elite,Movie,Thriller,United Kingdom,Standard,Gaming Console,Net Banking,Active,2025-05-24,2025-12-18,88.9,499,9,39,4.2,30,16,14970,134.9,High,36-50,1
+CUST10274,Customer 274,18,Lucifer,TV Show,Comedy,Canada,Basic,Laptop,Net Banking,Active,2025-07-14,2025-12-02,42.3,149,27,106,4.7,18,23,2682,83.3,Medium,18-25,1
+CUST10167,Customer 167,63,Narcos,TV Show,Thriller,Canada,Premium,Laptop,Debit Card,Active,2025-05-22,2026-11-20,62.6,649,23,39,3.2,18,15,11682,95.6,High,51+,1
+CUST10841,Customer 841,38,Bridgerton,TV Show,Crime,Germany,Premium,Gaming Console,UPI,Cancelled,2022-06-02,2023-04-21,40.8,649,3,55,2.8,24,25,15576,89.8,Medium,36-50,0
+CUST10998,Customer 998,37,Narcos,TV Show,Documentary,India,Premium,Smart TV,PayPal,Active,2025-07-06,2026-01-17,58.0,649,32,32,4.0,22,22,14278,102.0,High,36-50,1
+CUST10819,Customer 819,26,Stranger Things,TV Show,Crime,United States,Premium,Tablet,Net Banking,Active,2023-05-03,2024-12-08,44.1,649,26,4,4.0,13,8,8437,65.1,Medium,26-35,1
+CUST10485,Customer 485,27,You,TV Show,Sci-Fi,United States,Basic,Laptop,PayPal,Active,2022-01-06,2023-10-29,23.1,149,16,3,2.8,10,15,1490,48.1,Medium,26-35,1
+CUST10986,Customer 986,39,Elite,Movie,Horror,Spain,Premium,Mobile,Net Banking,Active,2022-06-17,2024-01-09,13.0,649,4,87,3.4,7,0,4543,20.0,Low,36-50,1
+CUST10505,Customer 505,49,The Umbrella Academy,Movie,Crime,France,Standard,Smart TV,UPI,Active,2022-12-03,2024-04-19,25.7,499,35,73,3.7,19,5,9481,49.7,Medium,36-50,1
+CUST10832,Customer 832,65,Wednesday,Movie,Drama,France,Premium,Mobile,Credit Card,Paused,2024-08-20,2025-01-03,19.0,649,33,110,3.8,14,13,9086,46.0,Low,51+,0
+CUST10244,Customer 244,53,The Crown,TV Show,Animation,Australia,Premium,Smart TV,UPI,Active,2022-06-03,2024-04-03,63.6,649,11,77,4.7,7,1,4543,71.6,High,51+,1
+CUST10876,Customer 876,23,Wednesday,Movie,Action,United States,Premium,Unknown,Debit Card,Active,2024-08-06,2024-08-27,86.9,649,11,100,2.5,22,11,14278,119.9,High,18-25,1
+CUST10563,Customer 563,37,Squid Game,TV Show,Drama,Spain,Premium,Gaming Console,Net Banking,Paused,2025-02-07,2026-03-28,63.8,649,29,82,3.0,19,19,12331,101.8,High,36-50,0
+CUST10687,Customer 687,29,Peaky Blinders,TV Show,Comedy,Germany,Standard,Smart TV,Credit Card,Active,2024-05-27,2025-08-15,36.0,499,1,45,4.7,24,6,11976,66.0,Medium,26-35,1
+CUST10958,Customer 958,52,Dark,Movie,Thriller,Germany,Premium,Mobile,UPI,Active,2022-02-22,2022-12-22,53.4,649,9,111,3.4,16,13,10384,82.4,High,51+,1
+CUST10190,Customer 190,27,Black Mirror,Movie,Sci-Fi,United States,Premium,Laptop,PayPal,Paused,2024-10-21,2025-01-17,4.1,649,8,106,4.9,6,11,3894,21.1,Low,26-35,0
+CUST10783,Customer 783,21,The Queen's Gambit,TV Show,Drama,France,Premium,Laptop,UPI,Active,2022-09-10,2023-01-30,51.5,649,23,112,3.2,29,16,18821,96.5,High,18-25,1
+CUST10700,Customer 700,50,Ozark,TV Show,Documentary,Australia,Basic,Laptop,Credit Card,Active,2024-06-15,2024-11-26,37.4,149,14,75,4.2,30,25,4470,92.4,Medium,36-50,1
+CUST10476,Customer 476,33,Wednesday,Movie,Romance,Australia,Basic,Tablet,PayPal,Active,2022-11-27,2023-06-04,35.8,149,14,71,4.3,23,10,3427,68.8,Medium,26-35,1
+CUST10682,Customer 682,62,Peaky Blinders,TV Show,Thriller,Canada,Basic,Gaming Console,UPI,Active,2024-05-20,2024-11-09,13.8,149,34,115,3.1,4,11,596,28.8,Low,51+,1
+CUST10511,Customer 511,36,You,Movie,Crime,Australia,Premium,Smart TV,Credit Card,Active,2023-03-15,2023-06-18,48.8,649,7,75,3.3,4,18,2596,70.8,Medium,36-50,1
+CUST10059,Customer 59,48,Sex Education,TV Show,Crime,United Kingdom,Basic,Gaming Console,PayPal,Active,2022-12-25,2024-05-12,50.3,149,6,60,3.4,12,10,1788,72.3,High,36-50,1
+CUST10475,Customer 475,27,Black Mirror,TV Show,Sci-Fi,United Kingdom,Standard,Gaming Console,Credit Card,Cancelled,2022-04-07,2023-01-25,83.1,499,12,22,4.6,24,21,11976,128.1,High,26-35,0
+CUST10561,Customer 561,45,The Umbrella Academy,TV Show,Sci-Fi,Canada,Basic,Laptop,UPI,Active,2022-10-10,2022-10-21,49.2,149,34,120,2.7,12,10,1788,71.2,Medium,36-50,1
+CUST10857,Customer 857,32,Money Heist,TV Show,Crime,France,Premium,Laptop,Debit Card,Cancelled,2025-03-06,2025-04-13,21.2,649,21,88,3.9,15,0,9735,36.2,Medium,26-35,0
+CUST10748,Customer 748,34,Peaky Blinders,Movie,Romance,South Korea,Standard,Mobile,UPI,Active,2025-07-08,2025-07-20,23.1,499,10,3,4.0,19,2,9481,44.1,Medium,26-35,1
+CUST10253,Customer 253,40,The Umbrella Academy,TV Show,Documentary,Germany,Standard,Gaming Console,Net Banking,Active,2025-01-01,2025-06-27,95.1,499,18,51,2.9,21,21,10479,137.1,High,36-50,1
+CUST10022,Customer 22,22,The Witcher,TV Show,Crime,United Kingdom,Basic,Smart TV,Net Banking,Cancelled,2023-12-16,2025-09-03,36.4,149,34,1,4.2,19,9,2831,64.4,Medium,18-25,0
+CUST10314,Customer 314,57,Bridgerton,Movie,Sci-Fi,United Kingdom,Premium,Tablet,Net Banking,Paused,2023-05-05,2025-03-11,62.3,649,10,94,4.3,13,1,8437,76.3,High,51+,0
+CUST10460,Customer 460,22,The Witcher,TV Show,Animation,Australia,Premium,Laptop,PayPal,Active,2022-08-26,2024-07-20,12.1,649,21,29,4.4,12,7,7788,31.1,Low,18-25,1
+CUST10161,Customer 161,61,Money Heist,Movie,Drama,France,Standard,Smart TV,Credit Card,Active,2025-05-09,2025-07-06,17.6,499,9,64,5.0,9,23,4491,49.6,Low,51+,1
+CUST10277,Customer 277,34,The Witcher,TV Show,Crime,Spain,Basic,Smart TV,UPI,Active,2022-07-27,2023-01-22,47.0,149,3,109,3.2,27,21,4023,95.0,Medium,26-35,1
+CUST10956,Customer 956,30,Lupin,TV Show,Sci-Fi,South Korea,Standard,Smart TV,Net Banking,Active,2023-12-06,2025-03-01,69.9,499,8,95,3.2,26,16,12974,111.9,High,26-35,1
+CUST10192,Customer 192,39,Wednesday,Movie,Thriller,Canada,Basic,Tablet,Net Banking,Active,2022-02-16,2023-09-13,63.4,149,28,59,3.1,14,20,2086,97.4,High,36-50,1
+CUST10386,Customer 386,65,Bridgerton,Movie,Romance,Japan,Standard,Laptop,Debit Card,Active,2024-03-16,2025-08-12,45.8,499,18,103,2.7,10,12,4990,67.8,Medium,51+,1
+CUST10806,Customer 806,55,The Queen's Gambit,TV Show,Drama,India,Premium,Laptop,PayPal,Active,2022-08-16,2023-07-25,34.3,649,4,17,3.0,28,23,18172,85.3,Medium,51+,1
+CUST10414,Customer 414,18,Lucifer,Movie,Animation,United States,Premium,Laptop,PayPal,Cancelled,2022-08-26,2022-12-10,73.9,649,34,98,4.1,11,0,7139,84.9,High,18-25,0
+CUST10492,Customer 492,62,Dark,Movie,Crime,United Kingdom,Basic,Tablet,Credit Card,Paused,2022-09-21,2023-12-01,79.0,149,8,9,2.5,17,24,2533,120.0,High,51+,0
+CUST10344,Customer 344,24,Bridgerton,Movie,Thriller,Spain,Basic,Smart TV,UPI,Active,2024-03-26,2025-03-04,29.3,149,17,46,3.4,19,25,2831,73.3,Medium,18-25,1
+CUST10770,Customer 770,28,Lucifer,Movie,Action,Germany,Standard,Mobile,UPI,Active,2024-05-16,2025-08-31,87.3,499,12,34,2.6,23,16,11477,126.3,High,26-35,1
+CUST10309,Customer 309,36,Cobra Kai,Movie,Thriller,Japan,Basic,Smart TV,PayPal,Active,2022-07-24,2024-05-30,55.7,149,20,88,4.0,20,18,2980,93.7,High,36-50,1
+CUST10662,Customer 662,19,Peaky Blinders,TV Show,Romance,France,Premium,Smart TV,Debit Card,Cancelled,2022-11-23,2023-12-29,28.3,649,5,67,4.3,11,22,7139,61.3,Medium,18-25,0
+CUST10131,Customer 131,19,The Queen's Gambit,TV Show,Crime,Germany,Premium,Tablet,PayPal,Active,2025-08-01,2025-10-15,3.2,649,4,20,3.6,17,14,11033,34.2,Low,18-25,1
+CUST10664,Customer 664,65,Narcos,Movie,Romance,Australia,Basic,Mobile,Credit Card,Active,2023-03-23,2024-06-03,28.4,149,11,118,2.6,13,15,1937,56.4,Medium,51+,1
+CUST10872,Customer 872,52,Wednesday,Movie,Romance,India,Standard,Gaming Console,Credit Card,Cancelled,2025-08-19,2026-02-17,22.0,499,9,10,3.5,29,3,14471,54.0,Medium,51+,0
+CUST10100,Customer 100,54,Cobra Kai,TV Show,Romance,United Kingdom,Standard,Smart TV,UPI,Active,2025-10-26,2027-08-04,36.1,499,20,101,3.2,3,11,1497,50.1,Medium,51+,1
+CUST10373,Customer 373,46,Ozark,Movie,Drama,Spain,Standard,Gaming Console,UPI,Active,2024-07-15,2025-05-21,78.3,499,1,38,5.0,8,10,3992,96.3,High,36-50,1
+CUST10088,Customer 88,65,Black Mirror,Movie,Horror,India,Standard,Gaming Console,Net Banking,Active,2022-07-17,2024-06-03,50.2,499,8,52,3.4,23,24,11477,97.2,High,51+,1
+CUST10459,Customer 459,36,Narcos,TV Show,Crime,Japan,Premium,Gaming Console,PayPal,Active,2024-01-16,2024-03-10,28.2,649,35,22,2.9,2,15,1298,45.2,Medium,36-50,1
+CUST10331,Customer 331,62,The Witcher,Movie,Drama,Japan,Premium,Tablet,UPI,Paused,2024-11-22,2025-02-19,41.7,649,18,99,3.5,23,12,14927,76.7,Medium,51+,0
+CUST10215,Customer 215,58,Sex Education,TV Show,Documentary,France,Premium,Mobile,Net Banking,Active,2023-08-10,2023-12-08,34.1,649,18,10,3.3,18,6,11682,58.1,Medium,51+,1
+CUST10467,Customer 467,47,Elite,Movie,Documentary,United Kingdom,Premium,Laptop,PayPal,Cancelled,2022-02-19,2022-02-21,57.4,649,5,49,4.7,12,16,7788,85.4,High,36-50,0
+CUST10122,Customer 122,26,The Crown,Movie,Romance,Japan,Standard,Smart TV,Net Banking,Active,2022-03-13,2022-08-18,19.3,499,29,47,3.4,26,2,12974,47.3,Low,26-35,1
+CUST10615,Customer 615,30,The Umbrella Academy,TV Show,Thriller,Germany,Basic,Smart TV,Net Banking,Active,2023-10-04,2024-02-24,103.1,149,9,39,4.9,2,15,298,120.1,Very High,26-35,1
+CUST10021,Customer 21,60,Lucifer,TV Show,Romance,United States,Standard,Mobile,PayPal,Active,2022-09-26,2024-04-25,78.6,499,7,9,3.8,18,8,8982,104.6,High,51+,1
+CUST10701,Customer 701,50,Sex Education,TV Show,Crime,South Korea,Premium,Laptop,Debit Card,Active,2024-07-21,2025-01-13,28.9,649,15,5,3.8,11,1,7139,40.9,Medium,36-50,1
+CUST10072,Customer 72,30,Ozark,TV Show,Comedy,South Korea,Standard,Smart TV,Net Banking,Active,2023-09-11,2024-07-10,80.5,499,19,2,4.9,23,12,11477,115.5,High,26-35,1
+CUST10107,Customer 107,27,The Crown,TV Show,Comedy,Canada,Basic,Gaming Console,Net Banking,Active,2022-10-09,2023-09-19,89.2,149,9,76,3.4,7,5,1043,101.2,High,26-35,1
+CUST10271,Customer 271,64,Sex Education,TV Show,Documentary,United Kingdom,Standard,Laptop,PayPal,Active,2024-07-22,2025-01-31,78.0,499,11,116,4.8,14,0,6986,92.0,High,51+,1
+CUST10861,Customer 861,28,Dark,TV Show,Horror,South Korea,Premium,Gaming Console,Debit Card,Active,2025-08-24,2026-05-09,47.1,649,31,59,3.0,12,23,7788,82.1,Medium,26-35,1
+CUST10436,Customer 436,27,Cobra Kai,Movie,Sci-Fi,France,Standard,Smart TV,Credit Card,Active,2022-06-22,2024-04-05,43.9,499,11,26,3.9,28,11,13972,82.9,Medium,26-35,1
+CUST10103,Customer 103,50,Bridgerton,Movie,Thriller,Germany,Premium,Smart TV,Net Banking,Active,2022-06-22,2022-12-02,33.4,649,24,47,4.8,14,13,9086,60.4,Medium,36-50,1
+CUST55542,Customer 927,25,Bridgerton,TV Show,Drama,Japan,Premium,Gaming Console,PayPal,Active,2024-06-20,2024-12-21,28.0,649,5,97,3.6,11,3,7139,42.0,Medium,18-25,1
+CUST55544,Customer 683,40,Money Heist,TV Show,Sci-Fi,France,Basic,Tablet,Debit Card,Paused,2024-11-18,2025-10-31,28.9,149,16,106,3.8,26,3,3874,57.9,Medium,36-50,0
+CUST55545,Customer 515,44,You,TV Show,Action,Spain,Premium,Gaming Console,Credit Card,Active,2023-02-21,2023-06-18,27.6,649,10,24,2.6,27,9,17523,63.6,Medium,36-50,1
+CUST55546,Customer 366,57,The Witcher,TV Show,Comedy,Canada,Premium,Smart TV,Credit Card,Active,2024-01-16,2025-06-09,32.0,649,10,78,3.2,15,20,9735,67.0,Medium,51+,1
+CUST55547,Customer 656,42,You,Movie,Unknown,Germany,Basic,Mobile,Credit Card,Paused,2023-10-31,2025-08-10,43.5,149,32,11,4.5,12,7,1788,62.5,Medium,36-50,0
+CUST55548,Customer 657,22,Squid Game,TV Show,Documentary,Canada,Premium,Smart TV,Credit Card,Active,2025-05-15,2025-09-11,42.3,649,19,11,2.8,12,23,7788,77.3,Medium,18-25,1
+CUST55549,Customer 530,61,Elite,Movie,Drama,Germany,Standard,Tablet,Debit Card,Paused,2025-04-08,2026-05-21,19.4,499,14,91,3.5,15,23,7485,57.4,Low,51+,0

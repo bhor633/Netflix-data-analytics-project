@@ -1,0 +1,30 @@
+    DEX MASURES
+
+
+Total Customers = 
+COUNTROWS(netflix_customers)
+
+
+Active Customers =
+CALCULATE(
+    [Total Customers],
+    netflix_customers[Account_Status] = "Active"
+)
+
+
+Cancelled Customers =
+CALCULATE(
+    [Total Customers],
+    netflix_customers[Account_Status] = "Cancelled"
+)
+
+Total Revenue = SUM(netflix_customers[Customer_Revenue])
+
+Average Watch Hours = AVERAGE(netflix_customers[Watch_Hours])
+
+Average Rating = AVERAGE(netflix_customers[Avg_Rating])
+
+Average Sessions = AVERAGE(netflix_customers[Monthly_Sessions])
+
+
+
