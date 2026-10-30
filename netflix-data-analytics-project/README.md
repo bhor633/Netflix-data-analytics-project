@@ -7,6 +7,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Raw%20Data-217346?logo=microsoftexcel&logoColor=white)
 
+![Redesign concept](screenshots/08_dashboard_redesign_concept.png)
 ![Dashboard overview](screenshots/04_dashboard_overview.png)
 
 ---
